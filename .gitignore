@@ -31,7 +31,10 @@ config.php
 # Build
 /tmp/
 
-# Excluded from upload
-controller/
-model/
-view/
+# Exclude folder contents but keep empty folders (via .gitkeep)
+controller/*
+!controller/.gitkeep
+model/*
+!model/.gitkeep
+view/*
+!view/.gitkeep
