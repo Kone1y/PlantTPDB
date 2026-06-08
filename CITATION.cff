@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use PTDB in your research, please cite it as follows."
+type: dataset
+title: "PTDB: Plant Transporter Database"
+abstract: "A comprehensive web-based database for plant transporter proteins, providing systematic classification, evolutionary analysis, cross-species comparison, and online prediction tools."
+authors:
+  # TODO: 填入作者信息，每位作者一个条目
+  # 示例：
+  # - given-names: "First"
+  #   family-names: "Last"
+  #   affiliation: "Your University"
+  #   orcid: "https://orcid.org/0000-0000-0000-0000"
+  - given-names: ""
+    family-names: ""
+    affiliation: ""
+    orcid: ""
+version: "1.0.0"
+date-released: "2026-06-08"
+license: MIT
+repository-code: "https://github.com/Kone1y/PTDB"
+url: ""
+keywords:
+  - plant transporter
+  - membrane protein
+  - transporter classification
+  - TC system
+  - gene family
+  - phylogenetics
+  - database
+  - ABC transporter
+  - MFS transporter
+  - subcellular localization
+# TODO: 拿到 Zenodo DOI 后替换下面的占位符
+identifiers:
+  doi: "TODO_ZENODO_DOI"
