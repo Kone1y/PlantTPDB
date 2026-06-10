@@ -1,5 +1,7 @@
 # PTDB — 植物转运蛋白数据库
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20593739.svg)](https://doi.org/10.5281/zenodo.20593739)
+
 一个综合性植物转运蛋白数据库，提供系统分类、进化分析、跨物种比较和在线预测工具。
 
 ## 项目简介
