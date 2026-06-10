@@ -1,5 +1,7 @@
 # PTDB — Plant Transporter Database
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20593739.svg)](https://doi.org/10.5281/zenodo.20593739)
+
 A comprehensive web-based database for plant transporter proteins, providing systematic classification, evolutionary analysis, cross-species comparison, and online prediction tools.
 
 ## Overview
