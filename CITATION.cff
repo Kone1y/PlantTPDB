@@ -4,15 +4,16 @@ type: dataset
 title: "PTDB: Plant Transporter Database"
 abstract: "A comprehensive web-based database for plant transporter proteins, providing systematic classification, evolutionary analysis, cross-species comparison, and online prediction tools."
 authors:
-  - family-names: "Liang"
-    given-names: "Gaoshuang"
-    affiliation: "Huazhong Agricultural University"
-  - family-names: "Huang"
-    given-names: "Wencong"
-    affiliation: "Huazhong Agricultural University"
-  - family-names: "Luo"
-    given-names: "Chengfang"
-    affiliation: "Huazhong Agricultural University"
+  # TODO: 填入作者信息，每位作者一个条目
+  # 示例：
+  # - given-names: "First"
+  #   family-names: "Last"
+  #   affiliation: "Your University"
+  #   orcid: "https://orcid.org/0000-0000-0000-0000"
+  - given-names: ""
+    family-names: ""
+    affiliation: ""
+    orcid: ""
 version: "1.0.0"
 date-released: "2026-06-08"
 license: MIT
@@ -29,5 +30,6 @@ keywords:
   - ABC transporter
   - MFS transporter
   - subcellular localization
+# TODO: 拿到 Zenodo DOI 后替换下面的占位符
 identifiers:
-  doi: "10.5281/zenodo.20593739"
+  doi: "TODO_ZENODO_DOI"

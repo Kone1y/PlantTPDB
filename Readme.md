@@ -21,9 +21,11 @@ PTDB integrates transporter protein information from multiple plant species, off
 | Backend Framework | ThinkPHP 5 |
 | Database | MySQL |
 | Web Server | Apache |
-| Frontend Visualization | Highcharts, ECharts |
+| Frontend Visualization | Highcharts, ECharts, D3.js |
 | Sequence Alignment | MAFFT |
 | Phylogenetic Tree | FastTree |
+| Gene Family Evolution | CAFE5, BUSCO, IQ-TREE, MCMCtree (PAML) |
+| Transmembrane Prediction | DeepTM |
 | Sequence Search | SequenceServer |
 
 ## Project Structure
@@ -41,7 +43,7 @@ ptdb/
 │   ├── Agent.php           # AI Agent API for intelligent queries
 │   ├── Neo4j.php           # Graph database integration
 │   ├── Php.php             # General PHP utilities
-│   ├── Other_additon.php   # Supplementary features
+│   ├── OtherAaddition.php  # Gene family expansion/contraction (CAFE5)
 │   ├── Table_copy.php      # Table data export/copy
 │   └── Footer_nav.php      # Navigation component
 └── view/
@@ -56,6 +58,8 @@ ptdb/
     │   ├── phylogenetic.html      # Phylogenetic tree viewer
     │   ├── synteny.html           # Synteny analysis
     │   ├── evolution.html         # Evolutionary analysis
+    │   ├── gf_contraction_expansion_submit.html  # Gene family expansion/contraction submit
+    │   ├── gf_contraction_expansion.html         # Gene family expansion/contraction results
     │   ├── kaks.html              # Ka/Ks calculator
     │   ├── pathway.html          # Pathway mapping
     │   ├── prediction.html       # Transporter prediction
@@ -79,10 +83,12 @@ ptdb/
 - **TC System**: Transporter Classification (TC) code-based browsing
 
 ### Evolution & Comparative Genomics
-- **Phylogenetic Trees**: Visualize evolutionary relationships using FastTree
+- **Phylogenetic Analysis**: ML tree inference using MAFFT (alignment) + FastTree (tree building). Users select TC code, species, substitution model (JTT/WAG/LG), and rate heterogeneity (CAT/Gamma). Results displayed as a D3.js phylogenetic tree paired with transmembrane span diagrams from DeepTM predictions.
+- **Evolution / Sequence Identity**: Homologous gene comparison across species with transmembrane span visualization (Canvas-based TM helix diagrams), multiple sequence alignment (MAFFT with CLUSTAL output), and a full-featured MSA viewer (alignment view, image view, stats view with pairwise identity heatmap).
 - **Synteny Analysis**: Collinear gene block visualization across species
 - **Ka/Ks Analysis**: Selective pressure estimation for gene pairs
 - **Evolution Search**: Query evolutionary events across lineages
+- **Gene Family Expansion & Contraction**: CAFE5-based analysis of gene family gain/loss across plant species. Generates a gene family count matrix synchronously, then submits a full async pipeline (BUSCO filtering → IQ-TREE species tree → MCMCtree dating → CAFE5 analysis). Visualizations include ECharts heatmaps, species specificity index (τ) bar charts, D3.js ancestral state reconstruction trees, and per-family phylogenetic SVG trees. Results delivered via email.
 
 ### Functional Analysis
 - **Pathway Mapping**: Map transporters to metabolic pathways
@@ -93,6 +99,9 @@ ptdb/
 - **BLAST**: Sequence similarity search against the PTDB dataset
 - **Transporter Prediction**: Submit protein sequences for transporter classification
 - **AI Agent**: Intelligent query interface for natural language questions
+- **Gene Family Expansion & Contraction**: Submit species and email to receive CAFE5 analysis results
+
+> For detailed documentation of each analysis tool's data flow, bioinformatics tools, and visualization methods, see [README_Tools.md](README_Tools.md).
 
 ### Data Access
 - **Interactive Browse**: Web-based data exploration
@@ -125,6 +134,9 @@ GET  /ptdb/prediction/get_task_status?task_id=<id>  # Query task status
 
 The core MySQL database `PTDB` contains tables including:
 - Gene/protein information and cross-references
+- Per-species protein annotation tables (`ptdb_{speID}_protein_annotations`) with TC code, Pfam, protein sequences, and DeepTM transmembrane predictions
+- `ptdb_tc_info` — Transporter Classification code registry with family/superfamily mappings
+- `ptdb_all_species` / `ptdb_all_species_by_busco` — Species metadata and BUSCO completeness filtering
 - Gene family assignments
 - Pfam domain annotations
 - TC classification mappings

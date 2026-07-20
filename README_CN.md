@@ -21,9 +21,11 @@ PTDB 整合了来自多个植物物种的转运蛋白信息，主要功能包括
 | 后端框架 | ThinkPHP 5 |
 | 数据库 | MySQL |
 | Web 服务器 | Apache |
-| 前端可视化 | Highcharts、ECharts |
+| 前端可视化 | Highcharts、ECharts、D3.js |
 | 序列比对 | MAFFT |
 | 系统发育树 | FastTree |
+| 基因家族进化分析 | CAFE5、BUSCO、IQ-TREE、MCMCtree (PAML) |
+| 跨膜预测 | DeepTM |
 | 序列搜索 | SequenceServer |
 
 ## 项目结构
@@ -41,7 +43,7 @@ ptdb/
 │   ├── Agent.php           # AI Agent 智能查询接口
 │   ├── Neo4j.php           # 图数据库集成
 │   ├── Php.php             # 通用 PHP 工具
-│   ├── Other_additon.php   # 补充功能模块
+│   ├── OtherAaddition.php  # 基因家族扩张收缩分析（CAFE5）
 │   ├── Table_copy.php      # 数据表导出/复制
 │   └── Footer_nav.php      # 导航组件
 └── view/
@@ -56,6 +58,8 @@ ptdb/
     │   ├── phylogenetic.html      # 系统发育树查看器
     │   ├── synteny.html           # 共线性分析
     │   ├── evolution.html         # 进化分析
+    │   ├── gf_contraction_expansion_submit.html  # 基因家族扩张收缩分析提交页
+    │   ├── gf_contraction_expansion.html         # 基因家族扩张收缩分析结果页
     │   ├── kaks.html              # Ka/Ks 选择压力分析
     │   ├── pathway.html          # 通路映射
     │   ├── prediction.html       # 转运蛋白预测
@@ -79,10 +83,12 @@ ptdb/
 - **TC 系统**：基于转运蛋白分类（TC）编码的浏览
 
 ### 进化与比较基因组学
-- **系统发育树**：基于 FastTree 的进化关系可视化
+- **系统发育分析（Phylogenetic）**：基于 MAFFT（多序列比对）+ FastTree（ML 建树）的最大似然系统发育推断。用户选择 TC 编号、物种、替代模型（JTT/WAG/LG）和速率异质性模型（CAT/Gamma）。结果以 D3.js 系统发育树配合 DeepTM 跨膜螺旋图展示。
+- **进化 / 序列相似性分析（Evolution）**：跨物种同源基因比较，包含跨膜螺旋可视化（Canvas 绘制的 TM 螺旋图）、多序列比对（MAFFT，CLUSTAL 输出），以及全功能 MSA 查看器（比对视图、图像视图、统计视图含成对一致性热图）。
 - **共线性分析**：跨物种共线性基因块可视化
 - **Ka/Ks 分析**：基因对的选择压力估算
 - **进化搜索**：跨谱系进化事件检索
+- **基因家族扩张收缩分析**：基于 CAFE5 的基因家族得失分析。同步生成基因家族计数矩阵，然后提交异步流程（BUSCO 过滤 → IQ-TREE 物种树 → MCMCtree 年代估算 → CAFE5 分析）。可视化包括 ECharts 热图、物种特异性指数（τ）柱状图、D3.js 祖先状态重建树和逐家族系统发育 SVG 树。结果通过邮件发送。
 
 ### 功能分析
 - **通路映射**：将转运蛋白映射到代谢通路
@@ -93,6 +99,9 @@ ptdb/
 - **BLAST**：针对 PTDB 数据集的序列相似性搜索
 - **转运蛋白预测**：提交蛋白序列进行转运蛋白分类预测
 - **AI Agent**：支持自然语言提问的智能查询接口
+- **基因家族扩张收缩分析**：提交物种和邮箱以获取 CAFE5 分析结果
+
+> 各分析工具的详细文档（数据流程、生物信息学工具及参数、可视化方法）请参见 [README_Tools_CN.md](README_Tools_CN.md)。
 
 ### 数据获取
 - **交互式浏览**：基于 Web 的数据探索
@@ -125,6 +134,9 @@ GET  /ptdb/prediction/get_task_status?task_id=<任务ID>  # 查询任务状态
 
 核心 MySQL 数据库 `PTDB` 包含以下数据表：
 - 基因/蛋白质信息及交叉引用
+- 各物种蛋白注释表（`ptdb_{speID}_protein_annotations`），含 TC 编码、Pfam、蛋白序列和 DeepTM 跨膜预测
+- `ptdb_tc_info` — 转运蛋白分类（TC）编码注册表，含家族/超家族映射
+- `ptdb_all_species` / `ptdb_all_species_by_busco` — 物种元数据及 BUSCO 完整度过滤
 - 基因家族分类
 - Pfam 结构域注释
 - TC 分类映射
