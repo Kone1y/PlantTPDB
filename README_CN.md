@@ -4,6 +4,8 @@
 
 一个综合性植物转运蛋白数据库，提供系统分类、进化分析、跨物种比较和在线预测工具。
 
+**网站地址：** [https://yanglab.hzau.edu.cn/ptdb/index/home](https://yanglab.hzau.edu.cn/ptdb/index/home)
+
 ## 项目简介
 
 PTDB 整合了来自多个植物物种的转运蛋白信息，主要功能包括：
