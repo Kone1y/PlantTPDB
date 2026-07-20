@@ -4,6 +4,8 @@
 
 A comprehensive web-based database for plant transporter proteins, providing systematic classification, evolutionary analysis, cross-species comparison, and online prediction tools.
 
+**Website:** [https://yanglab.hzau.edu.cn/ptdb/index/home](https://yanglab.hzau.edu.cn/ptdb/index/home)
+
 ## Overview
 
 PTDB integrates transporter protein information from multiple plant species, offering:
