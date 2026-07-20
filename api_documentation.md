@@ -5,7 +5,7 @@ PTDB provides RESTful APIs for programmatic data access. All endpoints return JS
 ## Base URL
 
 ```
-(https://yanglab.hzau.edu.cn/)ptdb/
+https://yanglab.hzau.edu.cn/ptdb/
 ```
 
 ## Authentication
