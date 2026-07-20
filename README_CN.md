@@ -13,155 +13,113 @@ PTDB 整合了来自多个植物物种的转运蛋白信息，主要功能包括
 - **转运蛋白分类**：TC 分类系统、Pfam 结构域、基因家族（ABC、MFS 等）
 - **跨物种比较**：共线性分析、系统发育树构建、Ka/Ks 选择压力计算
 - **功能注释**：底物搜索、通路映射、文献整合
-- **在线工具**：BLAST 序列搜索、转运蛋白预测、交互式基因家族浏览器
-- **数据可视化**：基于 Highcharts/ECharts 的交互式图表
+- **在线工具**：BLAST 序列搜索、转运蛋白预测、基因家族扩张收缩分析
 
-## 技术栈
+## 分析工具脚本
 
-| 层级 | 技术 |
-|------|------|
-| 后端框架 | ThinkPHP 5 |
-| 数据库 | MySQL |
-| Web 服务器 | Apache |
-| 前端可视化 | Highcharts、ECharts、D3.js |
-| 序列比对 | MAFFT |
-| 系统发育树 | FastTree |
-| 基因家族进化分析 | CAFE5、BUSCO、IQ-TREE、MCMCtree (PAML) |
-| 跨膜预测 | DeepTM |
-| 序列搜索 | SequenceServer |
+### 系统发育分析（Phylogenetic Analysis）
+
+基于最大似然法的转运蛋白基因系统发育推断。使用 **MAFFT** 进行多序列比对，再使用 **FastTree (v2.1.11)** 构建系统发育树。用户可选择氨基酸替代模型（JTT / WAG / LG）和位点速率异质性模型（CAT / Gamma）。
+
+```bash
+bash Tools/phylogenetic_analysis.sh -i input.fasta -t wag -r gamma -o output/
+```
+
+| 参数 | 说明 | 可选值 | 默认值 |
+|------|------|--------|--------|
+| `-i` | 输入 FASTA 文件 | — | （必填） |
+| `-t` | 替代模型 | jtt, wag, lg | jtt |
+| `-r` | 速率异质性模型 | cat, gamma | cat |
+| `-o` | 输出目录 | — | ./phylogenetic_output |
+
+**依赖工具：** MAFFT、FastTree
+
+**输出文件：**
+- `aligned_sequences.fa` — MAFFT 多序列比对结果
+- `phylogenetic_tree.nwk` — Newick 格式的最大似然系统发育树
+
+---
+
+### 进化 / 序列相似性分析（Evolution / Sequence Identity）
+
+跨物种同源基因的多序列比对分析。接受多序列 FASTA 文件，运行 **MAFFT** 进行比对，输出 CLUSTAL 格式比对结果及解析后的独立序列。
+
+```bash
+bash Tools/evolution_analysis.sh -i input.fasta -o output/
+```
+
+| 参数 | 说明 | 可选值 | 默认值 |
+|------|------|--------|--------|
+| `-i` | 输入 FASTA 文件 | — | （必填） |
+| `-o` | 输出目录 | — | ./evolution_output |
+
+**依赖工具：** MAFFT
+
+**输出文件：**
+- `alignment.clustal` — CLUSTAL 格式的多序列比对
+- `parsed_sequences.fasta` — 解析后的独立序列
+
+---
+
+### 基因家族扩张收缩分析（Gene Family Expansion & Contraction）
+
+使用 **CAFE5** 分析植物物种间基因家族的扩张与收缩。支持两种模式：
+
+**矩阵生成**（同步模式，约 5 分钟）：生成基因家族计数矩阵，不运行完整的扩张收缩分析。
+
+```bash
+bash Tools/gene_family_expansion_contraction.sh \
+    --species Arabidopsis_thaliana,Oryza_sativa,Glycine_max \
+    --matrix-type tc \
+    --outdir output/
+```
+
+**完整流程**（异步模式，数小时）：运行包含 BUSCO 过滤、IQ-TREE 物种树构建、MCMCtree 年代估算和 CAFE5 扩张收缩分析的完整流程。
+
+```bash
+bash Tools/gene_family_expansion_contraction.sh \
+    --species Arabidopsis_thaliana,Oryza_sativa,Populus_trichocarpa,Zea_mays \
+    --matrix-type tc \
+    --outdir output/ \
+    --full \
+    --email user@example.com
+```
+
+| 参数 | 说明 | 可选值 | 默认值 |
+|------|------|--------|--------|
+| `--species` | 逗号分隔的物种列表（至少 3 个） | — | （必填） |
+| `--matrix-type` | 基因家族类型 | tc, symbol | （必填） |
+| `--family-list` | 自定义基因家族列表文件 | 文件路径 | （内置列表） |
+| `--outdir` | 输出目录 | — | ./cafe_output |
+| `--full` | 运行完整异步流程 | — | （关闭） |
+| `--email` | 结果通知邮箱 | — | （--full 时必填） |
+| `--label` | 自定义任务标签 | — | （自动生成） |
+
+**依赖工具：** planttpdb-cafe（CAFE5 封装工具）；完整模式额外需要 BUSCO、IQ-TREE、MCMCtree (PAML)
+
+**输出文件（矩阵模式）：**
+- `results/04_cafe_input/tc.filtered.tsv`（或 `symbol.filtered.tsv`）— 基因家族计数矩阵
+
+---
 
 ## 项目结构
 
 ```
 ptdb/
-├── common.php              # 公共工具函数
-├── config.php              # 应用配置
-├── database.php            # 数据库连接配置
-├── controller/
-│   ├── Index.php           # 主页路由（首页、物种、基因家族等）
-│   ├── Table.php           # 数据表查询（基因家族、物种等）
-│   ├── Select.php          # 数据筛选接口
-│   ├── Prediction.php     # 在线转运蛋白预测
-│   ├── Agent.php           # AI Agent 智能查询接口
-│   ├── Neo4j.php           # 图数据库集成
-│   ├── Php.php             # 通用 PHP 工具
-│   ├── OtherAaddition.php  # 基因家族扩张收缩分析（CAFE5）
-│   ├── Table_copy.php      # 数据表导出/复制
-│   └── Footer_nav.php      # 导航组件
-└── view/
-    ├── index/              # 主要页面
-    │   ├── home.html       # 首页
-    │   ├── search.html     # 基因搜索
-    │   ├── blast.html      # BLAST 搜索界面
-    │   ├── species.html    # 物种浏览器
-    │   ├── gene_family.html       # 基因家族概览
-    │   ├── gene_family_super.html # 基因家族超家族视图
-    │   ├── gene_family_phylogenetic.html # 基因家族系统发育分析
-    │   ├── phylogenetic.html      # 系统发育树查看器
-    │   ├── synteny.html           # 共线性分析
-    │   ├── evolution.html         # 进化分析
-    │   ├── gf_contraction_expansion_submit.html  # 基因家族扩张收缩分析提交页
-    │   ├── gf_contraction_expansion.html         # 基因家族扩张收缩分析结果页
-    │   ├── kaks.html              # Ka/Ks 选择压力分析
-    │   ├── pathway.html          # 通路映射
-    │   ├── prediction.html       # 转运蛋白预测
-    │   ├── download.html         # 数据下载
-    │   ├── tc_system.html        # TC 分类系统
-    │   ├── tc_code.html          # TC 编码浏览器
-    │   ├── abcde.html            # ABC 转运蛋白亚家族
-    │   ├── transporter_k_d.html  # 转运蛋白 Kd 值
-    │   └── methods.html          # 方法学描述
-    ├── footer_nav/         # 公共导航模板
-    └── other_addition/     # 补充页面（花图等）
+├── Tools/
+│   ├── phylogenetic_analysis.sh             # 系统发育树推断流程
+│   ├── evolution_analysis.sh                 # 多序列比对流程
+│   └── gene_family_expansion_contraction.sh # CAFE5 基因家族分析流程
+├── Readme.md
+├── README_CN.md
+├── README_Tools.md
+├── README_Tools_CN.md
+├── LICENSE
+├── CITATION.cff
+└── ...
 ```
-
-## 功能模块
-
-### 浏览与搜索
-- **基因搜索**：支持按 Protein ID、Gene ID、mRNA ID、物种等多字段检索
-- **物种浏览器**：浏览各植物物种的转运蛋白组成
-- **基因家族**：探索转运蛋白家族（ABC、MFS、OPT 等）及其成员详情
-- **Pfam 家族**：基于结构域的分类浏览
-- **TC 系统**：基于转运蛋白分类（TC）编码的浏览
-
-### 进化与比较基因组学
-- **系统发育分析（Phylogenetic）**：基于 MAFFT（多序列比对）+ FastTree（ML 建树）的最大似然系统发育推断。用户选择 TC 编号、物种、替代模型（JTT/WAG/LG）和速率异质性模型（CAT/Gamma）。结果以 D3.js 系统发育树配合 DeepTM 跨膜螺旋图展示。
-- **进化 / 序列相似性分析（Evolution）**：跨物种同源基因比较，包含跨膜螺旋可视化（Canvas 绘制的 TM 螺旋图）、多序列比对（MAFFT，CLUSTAL 输出），以及全功能 MSA 查看器（比对视图、图像视图、统计视图含成对一致性热图）。
-- **共线性分析**：跨物种共线性基因块可视化
-- **Ka/Ks 分析**：基因对的选择压力估算
-- **进化搜索**：跨谱系进化事件检索
-- **基因家族扩张收缩分析**：基于 CAFE5 的基因家族得失分析。同步生成基因家族计数矩阵，然后提交异步流程（BUSCO 过滤 → IQ-TREE 物种树 → MCMCtree 年代估算 → CAFE5 分析）。可视化包括 ECharts 热图、物种特异性指数（τ）柱状图、D3.js 祖先状态重建树和逐家族系统发育 SVG 树。结果通过邮件发送。
-
-### 功能分析
-- **通路映射**：将转运蛋白映射到代谢通路
-- **底物搜索**：按底物特异性查找转运蛋白
-- **文献整合**：经整理的文献引用
-
-### 在线工具
-- **BLAST**：针对 PTDB 数据集的序列相似性搜索
-- **转运蛋白预测**：提交蛋白序列进行转运蛋白分类预测
-- **AI Agent**：支持自然语言提问的智能查询接口
-- **基因家族扩张收缩分析**：提交物种和邮箱以获取 CAFE5 分析结果
 
 > 各分析工具的详细文档（数据流程、生物信息学工具及参数、可视化方法）请参见 [README_Tools_CN.md](README_Tools_CN.md)。
-
-### 数据获取
-- **交互式浏览**：基于 Web 的数据探索
-- **批量下载**：通过下载页面获取数据集
-
-## API 接口
-
-PTDB 提供 RESTful 风格的可编程数据访问接口：
-
-### Agent 智能查询接口
-```
-GET /ptdb/agent/get_ptdb_agent_base_info_by_id?id=<Protein_ID|PTPGID|AthID|GeneID|mRNAID>
-```
-返回转运蛋白的综合信息，包括基因符号、物种、基因家族、TC 编码、Pfam 结构域和预测底物。
-
-### 数据查询接口
-```
-GET /ptdb/table/gene_family_table             # 所有基因家族
-GET /ptdb/table/gene_family_species_table?family=<名称>  # 指定家族的物种分布
-GET /ptdb/table/gene_family_member_table?family=<名称>   # 指定家族的成员信息
-```
-
-### 预测接口
-```
-POST /ptdb/prediction/submit_prediction   # 提交预测任务
-GET  /ptdb/prediction/get_task_status?task_id=<任务ID>  # 查询任务状态
-```
-
-## 数据库结构
-
-核心 MySQL 数据库 `PTDB` 包含以下数据表：
-- 基因/蛋白质信息及交叉引用
-- 各物种蛋白注释表（`ptdb_{speID}_protein_annotations`），含 TC 编码、Pfam、蛋白序列和 DeepTM 跨膜预测
-- `ptdb_tc_info` — 转运蛋白分类（TC）编码注册表，含家族/超家族映射
-- `ptdb_all_species` / `ptdb_all_species_by_busco` — 物种元数据及 BUSCO 完整度过滤
-- 基因家族分类
-- Pfam 结构域注释
-- TC 分类映射
-- 物种元数据
-- 通路注释
-- Ka/Ks 计算结果
-- 文献引用
-- 预测任务记录
-
-## 安装部署
-
-### 环境要求
-- PHP >= 7.0
-- MySQL >= 5.6
-- Apache（需启用 mod_rewrite）
-- ThinkPHP 5
-
-### 部署步骤
-1. 克隆本仓库
-2. 将 PTDB 数据库结构及数据导入 MySQL
-3. 在 `database.php` 中配置数据库连接信息
-4. 部署至 Apache Web 服务器，配置相应的虚拟主机
-5. 确保已安装 MAFFT、FastTree 和 SequenceServer，且后端分析工具可正常调用
 
 ## 数据可用性与可重现性
 
@@ -169,8 +127,16 @@ GET  /ptdb/prediction/get_task_status?task_id=<任务ID>  # 查询任务状态
 
 - **源代码**：本 GitHub 仓库
 - **版本控制**：基于 Git 的版本管理，带有标签发布和更新日志
-- **数据存档**：核心数据集可通过下载页面和仓库 Releases 批量获取
-- **长期维护**：本仓库作为 PTDB 代码库的持久化、版本控制记录
+- **数据存档**：核心数据集可通过 [下载页面](https://yanglab.hzau.edu.cn/ptdb/index/download)和仓库 Releases 批量获取
+
+## 引用
+
+如果您在研究中使用了 PTDB，请按以下格式引用：
+
+```
+Liang, G., Huang, W., & Luo, C. (2026). PTDB: Plant Transporter Database.
+Zenodo. https://doi.org/10.5281/zenodo.20593739
+```
 
 ## 许可证
 
