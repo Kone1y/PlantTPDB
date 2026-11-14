@@ -1,0 +1,9 @@
+pyyaml
+requests
+biopython
+scipy>=1.11
+amas
+cafeplotter
+pandas
+matplotlib
+numpy

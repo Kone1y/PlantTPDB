@@ -1,0 +1,1081 @@
+AT1G01650	AT1G01650.3	1.A.54	PF04258	27.7;7.5e-36	SIGNAL PEPTIDE PEPTIDASE-LIKE 4	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family
+AT1G01650	AT1G01650.4	1.A.54	PF04258	27.7;7.5e-36	SIGNAL PEPTIDE PEPTIDASE-LIKE 4	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family
+AT1G01650	AT1G01650.2	1.A.54	PF04258	27.7;7.5e-36	SIGNAL PEPTIDE PEPTIDASE-LIKE 4	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family
+AT2G03840	AT2G03840.1	8.A.40	PF00335	25.6;2.4e-17	tetraspanin13	The Tetraspanin (Tetraspanin) Family
+AT2G01180	AT2G01180.8	9.B.105	PF01569	28.9;2.2e-17	phosphatidic acid phosphatase 1	The Lead Resistance Fusion Protein (PbrBC) Family
+AT1G01650	AT1G01650.1	1.A.54	PF04258,PF02225	28.2;2.3e-43	SIGNAL PEPTIDE PEPTIDASE-LIKE 4	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family
+AT2G01180	AT2G01180.7	9.B.105	PF01569	28.9;2.2e-17	phosphatidic acid phosphatase 1	The Lead Resistance Fusion Protein (PbrBC) Family
+AT2G01180	AT2G01180.5	9.B.105	PF01569	28.9;2e-17	phosphatidic acid phosphatase 1	The Lead Resistance Fusion Protein (PbrBC) Family
+AT2G01180	AT2G01180.6	9.B.105	PF01569	28.9;2.1e-17	phosphatidic acid phosphatase 1	The Lead Resistance Fusion Protein (PbrBC) Family
+AT2G14255	AT2G14255.1	8.A.28	PF13606,PF00023,PF01529,PF13637,PF13857,PF12796	30.0;5.2e-24	Ankyrin repeat family protein with DHHC zinc finger domain-containing protein	The Ankyrin (Ankyrin) Family
+AT5G02620	AT5G02620.3	8.A.28	PF13606,PF00023,PF13637,PF13857,PF24521,PF12796,PF13962	29.8;1.7e-24	ankyrin-like1	The Ankyrin (Ankyrin) Family
+AT2G01180	AT2G01180.1	9.B.105	PF01569	28.9;2.2e-17	phosphatidic acid phosphatase 1	The Lead Resistance Fusion Protein (PbrBC) Family
+AT5G02620	AT5G02620.4	8.A.28	PF13606,PF00023,PF13637,PF13857,PF24521,PF12796,PF13962	29.8;1.7e-24	ankyrin-like1	The Ankyrin (Ankyrin) Family
+AT1G79940	AT1G79940.4	3.A.5	PF00226,PF02889	28.6;1.7e-44	DnaJ / Sec63 Brl domains-containing protein	The General Secretory Pathway (Sec) Family
+AT2G01180	AT2G01180.4	9.B.105	PF01569	28.9;2.2e-17	phosphatidic acid phosphatase 1	The Lead Resistance Fusion Protein (PbrBC) Family
+AT2G01180	AT2G01180.3	9.B.105	PF01569	28.9;2.2e-17	phosphatidic acid phosphatase 1	The Lead Resistance Fusion Protein (PbrBC) Family
+AT5G54610	AT5G54610.1	8.A.28	PF13606,PF00023,PF13637,PF13857,PF12796	24.6;7.1e-08	ankyrin	The Ankyrin (Ankyrin) Family
+AT1G79940	AT1G79940.2	3.A.5	PF00226,PF02889	28.6;2e-44	DnaJ / Sec63 Brl domains-containing protein	The General Secretory Pathway (Sec) Family
+AT1G79940	AT1G79940.3	3.A.5	PF00226,PF02889	28.6;2e-44	DnaJ / Sec63 Brl domains-containing protein	The General Secretory Pathway (Sec) Family
+AT5G02620	AT5G02620.1	8.A.28	PF13606,PF00023,PF13637,PF13857,PF24521,PF12796,PF13962	29.8;1.7e-24	ankyrin-like1	The Ankyrin (Ankyrin) Family
+AT1G79940	AT1G79940.1	3.A.5	PF00226,PF02889	28.6;2e-44	DnaJ / Sec63 Brl domains-containing protein	The General Secretory Pathway (Sec) Family
+AT5G05520	AT5G05520.1	1.B.33	PF07244,PF01103	29.7;5.9e-49	Outer membrane OMP85 family protein	The Outer Membrane Protein Insertion Porin (Bam Complex) (OmpIP) Family
+AT5G07250	AT5G07250.2	9.B.104	PF01694	26.1;2.4e-10	RHOMBOID-like protein 3	The Rhomboid Protease (Rhomboid) Family
+AT3G11070	AT3G11070.1	1.B.33	PF07244,PF01103	27.5;1.1e-39	Outer membrane OMP85 family protein	The Outer Membrane Protein Insertion Porin (Bam Complex) (OmpIP) Family
+AT1G63690	AT1G63690.2	1.A.54	PF04258,PF02225	29.0;3.4e-39	SIGNAL PEPTIDE PEPTIDASE-LIKE 2	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family
+AT2G01180	AT2G01180.2	9.B.105	PF01569	28.9;2e-17	phosphatidic acid phosphatase 1	The Lead Resistance Fusion Protein (PbrBC) Family
+AT1G63690	AT1G63690.1	1.A.54	PF04258,PF02225	29.2;1.2e-39	SIGNAL PEPTIDE PEPTIDASE-LIKE 2	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family
+AT1G14500	AT1G14500.1	8.A.28	PF13606,PF00023,PF13637,PF13857,PF12796,PF13962	28.6;1.1e-11	Ankyrin repeat family protein	The Ankyrin (Ankyrin) Family
+AT3G02600	AT3G02600.2	9.B.105	PF01569	31.8;2.2e-25	lipid phosphate phosphatase 3	The Lead Resistance Fusion Protein (PbrBC) Family
+AT3G56930	AT3G56930.2	8.A.114	PF01529	33.0;3.6e-39	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT2G20740	AT2G20740.1	8.A.40	PF00335	34.1;1.2e-32	Tetraspanin family protein	The Tetraspanin (Tetraspanin) Family
+AT2G43070	AT2G43070.3	1.A.54	PF04258,PF02225	31.4;2.8e-42	SIGNAL PEPTIDE PEPTIDASE-LIKE 3	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family
+AT3G48760	AT3G48760.1	8.A.114	PF01529	38.3;1.5e-46	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT3G54300	AT3G54300.1	1.F.1	PF13774,PF00957	30.7;1.6e-28	vesicle-associated membrane protein 727	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT2G43070	AT2G43070.2	1.A.54	PF04258,PF02225	30.7;1.6e-41	SIGNAL PEPTIDE PEPTIDASE-LIKE 3	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family
+AT2G25340	AT2G25340.1	1.F.1	PF13774,PF00957	38.8;8e-40	vesicle-associated membrane protein 712	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT1G04750	AT1G04750.2	1.F.1	PF00957	38.4;2.9e-19	vesicle-associated membrane protein 721	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT1G14270	AT1G14270.4	9.B.2	PF02517	34.2;6.4e-16	CAAX amino terminal protease family protein	The Integral Membrane CAAX Protease-2 (CAAX Protease2) Family
+AT2G01070	AT2G01070.1	9.A.14	PF06814	32.2;4.5e-38	Lung seven transmembrane receptor family protein	The G-protein-coupled receptor (GPCR) Family
+AT2G18260	AT2G18260.1	8.A.91	PF00804,PF05739	37.4;5e-48	syntaxin of plants 112	The Syntaxin (Syntaxin) Family
+AT4G38320	AT4G38320.1	1.C.113	PF03006	34.1;2e-43	heptahelical protein 5	The Hemolysin III (Hly III) Family
+AT2G33120	AT2G33120.1	1.F.1	PF13774,PF00957	34.1;2.4e-31	synaptobrevin-related protein 1	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT1G12750	AT1G12750.4	9.B.104	PF01694	33.3;5.6e-23	RHOMBOID-like protein 6	The Rhomboid Protease (Rhomboid) Family
+AT4G38360	AT4G38360.2	2.A.82	PF03619	33.4;1e-34	organic solute transporter ostalpha protein (DUF300)	The Organic Solute Transporter (OST) Family
+AT5G50020	AT5G50020.3	8.A.114	PF01529	37.3;2.3e-48	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT4G21570	AT4G21570.1	2.A.82	PF03619	32.3;8e-27	organic solute transporter ostalpha protein (DUF300)	The Organic Solute Transporter (OST) Family
+AT2G44280	AT2G44280.3	2.A.2	PF13347	30.5;3.8e-33	Major facilitator superfamily protein	The Glycoside-Pentoside-Hexuronide (GPH):Cation Symporter Family
+AT5G04270	AT5G04270.1	8.A.114	PF01529	35.8;4.3e-19	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT4G00840	AT4G00840.2	8.A.114	PF01529	36.0;6.9e-15	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT5G17760	AT5G17760.2	3.A.28	PF00004,PF14363	36.5;8.3e-52	P-loop containing nucleoside triphosphate hydrolases superfamily protein	The AAA-ATPase, Bcs1 (Bcs1) Family
+AT5G11150	AT5G11150.1	1.F.1	PF13774,PF00957	37.1;2.4e-39	vesicle-associated membrane protein 713	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT2G46620	AT2G46620.1	3.A.28	PF00004,PF14363,PF25568	33.8;4.2e-65	P-loop containing nucleoside triphosphate hydrolases superfamily protein	The AAA-ATPase, Bcs1 (Bcs1) Family
+AT5G47130	AT5G47130.1	1.A.14	PF01027	35.4;4.3e-27	Bax inhibitor-1 family protein	The Calcium Transporter A (CaTA) Family (formerly the Testis-Enhanced Gene Transfer (TEGT) Family)
+AT5G22130	AT5G22130.1	9.B.142	PF05007,PF06728	38.8;2.4e-70	mannosyltransferase family protein	The Integral membrane Glycosyltransferase family 39 (GT39) Family
+AT4G38360	AT4G38360.1	2.A.82	PF03619	32.6;5.5e-31	organic solute transporter ostalpha protein (DUF300)	The Organic Solute Transporter (OST) Family
+AT2G44280	AT2G44280.2	2.A.2	PF07690,PF13347	33.0;5.2e-57	Major facilitator superfamily protein	The Glycoside-Pentoside-Hexuronide (GPH):Cation Symporter Family
+AT1G71940	AT1G71940.2	9.B.27	PF09335	38.6;4.7e-38	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+AT5G49730	AT5G49730.2	5.B.1	PF01794,PF08030,PF08022	33.5;4.9e-83	ferric reduction oxidase 6	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT4G37680	AT4G37680.3	1.C.113	PF03006	34.4;3.9e-45	heptahelical protein 4	The Hemolysin III (Hly III) Family
+AT4G01510	AT4G01510.9	9.A.19	PF04161	39.6;1.5e-17	Arv1-like protein	The Lipid Intermediate Transporter (Arv1) Family
+ATMG00900	ATMG00900.1	9.B.14	PF01578	38.8;1.1e-32	cytochrome C biogenesis 256	The Putative Heme Handling Protein (HHP) Family
+AT1G14270	AT1G14270.1	9.B.2	PF02517	34.2;1e-15	CAAX amino terminal protease family protein	The Integral Membrane CAAX Protease-2 (CAAX Protease2) Family
+AT1G12750	AT1G12750.7	9.B.104	PF01694	33.3;5.6e-23	RHOMBOID-like protein 6	The Rhomboid Protease (Rhomboid) Family
+AT2G44280	AT2G44280.1	2.A.2	PF07690,PF13347	33.0;5.2e-57	Major facilitator superfamily protein	The Glycoside-Pentoside-Hexuronide (GPH):Cation Symporter Family
+AT1G52580	AT1G52580.1	9.B.104	PF01694	38.4;1.3e-19	RHOMBOID-like protein 5	The Rhomboid Protease (Rhomboid) Family
+AT5G60750	AT5G60750.1	9.B.2	PF02517	39.8;3.7e-39	CAAX amino terminal protease family protein	The Integral Membrane CAAX Protease-2 (CAAX Protease2) Family
+AT5G05760	AT5G05760.1	8.A.91	PF05739	33.8;3.7e-28	syntaxin of plants 31	The Syntaxin (Syntaxin) Family
+AT3G02600	AT3G02600.11	9.B.105	PF01569	31.8;2.1e-25	lipid phosphate phosphatase 3	The Lead Resistance Fusion Protein (PbrBC) Family
+AT1G49050	AT1G49050.3	8.A.32	PF00026,PF14543	30.1;7.2e-22	Eukaryotic aspartyl protease family protein	The β-Amyloid Cleaving Enzyme (BACE1) Family
+AT5G20270	AT5G20270.1	1.C.113	PF03006	35.6;2.2e-41	heptahelical transmembrane protein1	The Hemolysin III (Hly III) Family
+ATMG00410	ATMG00410.1	3.A.2	PF00119	39.1;4.7e-43		The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily
+AT2G45140	AT2G45140.1	9.B.17	PF00635	39.5;1.6e-38	plant VAP homolog 12	The VAMP-associated protein (VAP) Family
+AT5G07250	AT5G07250.1	9.B.104	PF01694	31.9;1.1e-19	RHOMBOID-like protein 3	The Rhomboid Protease (Rhomboid) Family
+AT1G01020	AT1G01020.6	9.A.19	PF04161	33.9;7.2e-07	ARV1 family protein	The Lipid Intermediate Transporter (Arv1) Family
+AT5G47130	AT5G47130.2	1.A.14	PF01027	36.6;1.3e-32	Bax inhibitor-1 family protein	The Calcium Transporter A (CaTA) Family (formerly the Testis-Enhanced Gene Transfer (TEGT) Family)
+AT3G53780	AT3G53780.3	9.B.104	PF01694	36.5;3.2e-18	RHOMBOID-like protein 4	The Rhomboid Protease (Rhomboid) Family
+AT5G49730	AT5G49730.1	5.B.1	PF01794,PF08030,PF08022	31.3;2.3e-91	ferric reduction oxidase 6	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT1G05820	AT1G05820.1	1.A.54	PF04258,PF02225	30.2;3.7e-38	SIGNAL PEPTIDE PEPTIDASE-LIKE 5	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family
+AT2G01070	AT2G01070.2	9.A.14	PF06814	32.8;2.2e-36	Lung seven transmembrane receptor family protein	The G-protein-coupled receptor (GPCR) Family
+AT3G04970	AT3G04970.1	8.A.114	PF01529	32.2;1.2e-14	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT1G04760	AT1G04760.2	1.F.1	PF13774,PF00957	35.7;5.6e-33	vesicle-associated membrane protein 726	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT2G33120	AT2G33120.3	1.F.1	PF00957	40.0;1.3e-11	synaptobrevin-related protein 1	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT1G05820	AT1G05820.2	1.A.54	PF04258,PF02225	30.6;4.7e-35	SIGNAL PEPTIDE PEPTIDASE-LIKE 5	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family
+AT3G02600	AT3G02600.6	9.B.105	PF01569	31.8;2.1e-25	lipid phosphate phosphatase 3	The Lead Resistance Fusion Protein (PbrBC) Family
+AT3G24350	AT3G24350.1	8.A.91	PF05739	35.1;7.7e-37	syntaxin of plants 32	The Syntaxin (Syntaxin) Family
+AT5G22130	AT5G22130.2	9.B.142	PF05007,PF06728	37.0;4.3e-67	mannosyltransferase family protein	The Integral membrane Glycosyltransferase family 39 (GT39) Family
+AT3G56920	AT3G56920.1	8.A.114	PF01529	36.6;3.7e-44	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT1G04760	AT1G04760.1	1.F.1	PF13774,PF00957	35.7;5.6e-33	vesicle-associated membrane protein 726	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT1G05820	AT1G05820.4	1.A.54	PF04258	30.1;3.8e-32	SIGNAL PEPTIDE PEPTIDASE-LIKE 5	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family
+AT5G54620	AT5G54620.1	3.A.23	PF13606,PF00023,PF13637,PF13857,PF12796	30.3;5.5e-08	Ankyrin repeat family protein	The Type VI Symbiosis/Virulence Secretory System (T6SS) Family
+AT5G42090	AT5G42090.1	9.A.14	PF21904,PF06814	38.3;3.3e-61	Lung seven transmembrane receptor family protein	The G-protein-coupled receptor (GPCR) Family
+AT2G40990	AT2G40990.1	8.A.114	PF01529	36.9;5.9e-44	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT4G09580	AT4G09580.1	9.B.27	PF09335	34.2;2.8e-40	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+AT3G04970	AT3G04970.3	8.A.114	PF01529	33.3;2.8e-14	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT5G41060	AT5G41060.1	8.A.114	PF01529	38.2;1.5e-52	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT5G05070	AT5G05070.1	8.A.114	PF01529	39.0;7.2e-50	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT2G29050	AT2G29050.2	9.B.104	PF01694	33.0;8.8e-17	RHOMBOID-like 1	The Rhomboid Protease (Rhomboid) Family
+AT3G61750	AT3G61750.1	5.B.2	PF03188,PF03351	39.3;6.1e-62	Cytochrome b561/ferric reductase transmembrane with DOMON related domain-containing protein	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT5G02630	AT5G02630.1	9.A.14	PF21904,PF06814	37.0;3e-51	Lung seven transmembrane receptor family protein	The G-protein-coupled receptor (GPCR) Family
+AT3G02600	AT3G02600.4	9.B.105	PF01569	31.8;2.1e-25	lipid phosphate phosphatase 3	The Lead Resistance Fusion Protein (PbrBC) Family
+AT4G37680	AT4G37680.5	1.C.113	PF03006	34.4;3.8e-45	heptahelical protein 4	The Hemolysin III (Hly III) Family
+ATMG01170	ATMG01170.1	3.A.2	PF00119	40.0;9.4e-43	ATPase, F0 complex, subunit A protein	The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily
+AT3G54300	AT3G54300.2	1.F.1	PF13774,PF00957	30.7;1.6e-28	vesicle-associated membrane protein 727	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT3G09320	AT3G09320.1	8.A.114	PF01529	31.9;7.5e-22	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT3G60800	AT3G60800.1	8.A.114	PF01529	34.6;1.7e-32	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT5G52540	AT5G52540.1	2.A.98	PF05684	34.0;6.6e-44	keratin-associated protein, putative (DUF819)	The Putative Sulfate Exporter (PSE) Family
+AT1G34500	AT1G34500.1	2.A.50	PF13813	31.3;5.1e-09	MBOAT (membrane bound O-acyl transferase) family protein	The Glycerol Uptake (GUP) or Membrane-bound Acyl Transferase (MBOAT) Family
+AT3G60600	AT3G60600.1	9.B.17	PF22076,PF00635	39.6;2e-37	vesicle associated protein	The VAMP-associated protein (VAP) Family
+AT1G15080	AT1G15080.1	9.B.105	PF01569	30.7;1.3e-26	lipid phosphate phosphatase 2	The Lead Resistance Fusion Protein (PbrBC) Family
+AT5G60070	AT5G60070.1	8.A.28	PF13606,PF00023,PF13637,PF13857,PF24521,PF12796,PF13962	31.2;3.4e-23	ankyrin repeat family protein	The Ankyrin (Ankyrin) Family
+AT3G56930	AT3G56930.1	8.A.114	PF01529	36.7;3.4e-51	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT3G53780	AT3G53780.1	9.B.104	PF01694	31.1;3.2e-22	RHOMBOID-like protein 4	The Rhomboid Protease (Rhomboid) Family
+AT3G02600	AT3G02600.10	9.B.105	PF01569	31.8;2.1e-25	lipid phosphate phosphatase 3	The Lead Resistance Fusion Protein (PbrBC) Family
+AT5G49740	AT5G49740.3	5.B.1	PF01794,PF08030,PF08022	30.9;5.2e-88	ferric reduction oxidase 7	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT1G14270	AT1G14270.3	9.B.2	PF02517	34.2;6.4e-16	CAAX amino terminal protease family protein	The Integral Membrane CAAX Protease-2 (CAAX Protease2) Family
+AT4G37680	AT4G37680.1	1.C.113	PF03006	34.4;3.8e-45	heptahelical protein 4	The Hemolysin III (Hly III) Family
+AT4G22750	AT4G22750.1	8.A.114	PF01529	30.2;6.1e-14	DHHC-type zinc finger protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT2G24150	AT2G24150.1	1.C.113	PF03006	33.9;2.5e-40	heptahelical protein 3	The Hemolysin III (Hly III) Family
+AT3G02600	AT3G02600.8	9.B.105	PF01569	31.8;2.1e-25	lipid phosphate phosphatase 3	The Lead Resistance Fusion Protein (PbrBC) Family
+AT5G23030	AT5G23030.1	8.A.40	PF00335	38.5;3e-41	tetraspanin12	The Tetraspanin (Tetraspanin) Family
+AT1G04750	AT1G04750.3	1.F.1	PF00957	38.4;2.9e-19	vesicle-associated membrane protein 721	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT1G12750	AT1G12750.3	9.B.104	PF01694	33.3;5.6e-23	RHOMBOID-like protein 6	The Rhomboid Protease (Rhomboid) Family
+AT3G02600	AT3G02600.12	9.B.105	PF01569	31.8;2.1e-25	lipid phosphate phosphatase 3	The Lead Resistance Fusion Protein (PbrBC) Family
+AT5G18520	AT5G18520.1	9.A.14	PF21904,PF06814	39.7;5.9e-58	Lung seven transmembrane receptor family protein	The G-protein-coupled receptor (GPCR) Family
+AT5G24000	AT5G24000.1	2.A.98	PF05684	33.6;4.4e-45	keratin-associated protein (DUF819)	The Putative Sulfate Exporter (PSE) Family
+AT1G12750	AT1G12750.1	9.B.104	PF01694	33.3;5.6e-23	RHOMBOID-like protein 6	The Rhomboid Protease (Rhomboid) Family
+AT5G50020	AT5G50020.2	8.A.114	PF01529	36.4;1.5e-48	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT4G00840	AT4G00840.1	8.A.114	PF01529	31.9;2.4e-31	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT2G17520	AT2G17520.1	8.A.104	PF07714,PF06479,PF00069	34.8;6.8e-71	Endoribonuclease/protein kinase IRE1-like protein	The 5'-AMP-activated protein kinase (AMPK) Family
+AT3G53780	AT3G53780.2	9.B.104	PF01694	31.1;4.7e-22	RHOMBOID-like protein 4	The Rhomboid Protease (Rhomboid) Family
+AT4G32150	AT4G32150.1	1.F.1	PF13774,PF00957	38.4;2.5e-41	vesicle-associated membrane protein 711	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT3G02600	AT3G02600.1	9.B.105	PF01569	31.8;2.4e-25	lipid phosphate phosphatase 3	The Lead Resistance Fusion Protein (PbrBC) Family
+AT3G02600	AT3G02600.5	9.B.105	PF01569	31.8;2.1e-25	lipid phosphate phosphatase 3	The Lead Resistance Fusion Protein (PbrBC) Family
+AT5G47130	AT5G47130.3	1.A.14	PF01027	36.0;1.8e-24	Bax inhibitor-1 family protein	The Calcium Transporter A (CaTA) Family (formerly the Testis-Enhanced Gene Transfer (TEGT) Family)
+AT5G22130	AT5G22130.3	9.B.142	PF05007,PF06728	38.8;8.6e-70	mannosyltransferase family protein	The Integral membrane Glycosyltransferase family 39 (GT39) Family
+AT5G11150	AT5G11150.2	1.F.1	PF13774,PF00957	37.0;9.1e-39	vesicle-associated membrane protein 713	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT3G59070	AT3G59070.1	5.B.2	PF04526	37.4;4.9e-63	Cytochrome b561/ferric reductase transmembrane with DOMON related domain-containing protein	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT4G24630	AT4G24630.1	8.A.114	PF01529	37.7;3.8e-51	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT2G18260	AT2G18260.2	8.A.91	PF00804,PF05739	37.4;5e-48	syntaxin of plants 112	The Syntaxin (Syntaxin) Family
+AT2G39630	AT2G39630.2	4.D.2	PF00535	33.1;1.1e-10	Nucleotide-diphospho-sugar transferases superfamily protein	The Glycosyl Transferase 2 (GT2) Family
+AT3G24350	AT3G24350.2	8.A.91	PF05739	33.4;1.1e-33	syntaxin of plants 32	The Syntaxin (Syntaxin) Family
+AT1G14270	AT1G14270.2	9.B.2	PF02517	34.2;7e-16	CAAX amino terminal protease family protein	The Integral Membrane CAAX Protease-2 (CAAX Protease2) Family
+AT1G12750	AT1G12750.6	9.B.104	PF01694	33.3;5.6e-23	RHOMBOID-like protein 6	The Rhomboid Protease (Rhomboid) Family
+AT3G02600	AT3G02600.9	9.B.105	PF01569	31.8;2.1e-25	lipid phosphate phosphatase 3	The Lead Resistance Fusion Protein (PbrBC) Family
+AT2G29050	AT2G29050.1	9.B.104	PF01694	31.1;9.3e-23	RHOMBOID-like 1	The Rhomboid Protease (Rhomboid) Family
+AT1G23070	AT1G23070.1	2.A.82	PF03619	32.2;4e-37	organic solute transporter ostalpha protein (DUF300)	The Organic Solute Transporter (OST) Family
+AT3G54300	AT3G54300.3	1.F.1	PF13774,PF00957	30.7;1.6e-28	vesicle-associated membrane protein 727	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT1G14730	AT1G14730.1	5.B.2	PF03188	37.1;4.7e-35	Cytochrome b561/ferric reductase transmembrane protein family	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT2G14695	AT2G14695.1	2.A.7	PF08449,PF03151,PF00892	33.9;5e-36	UDP-N-acetylglucosamine/UDP-glucose/GDP-mannose transporter	The Drug/Metabolite Transporter (DMT) Superfamily
+AT3G02600	AT3G02600.3	9.B.105	PF01569	31.8;2.1e-25	lipid phosphate phosphatase 3	The Lead Resistance Fusion Protein (PbrBC) Family
+AT1G61670	AT1G61670.2	9.A.14	PF06814	36.1;8.7e-45	Lung seven transmembrane receptor family protein	The G-protein-coupled receptor (GPCR) Family
+AT3G61750	AT3G61750.2	5.B.2	PF03188,PF03351	39.7;1.1e-56	Cytochrome b561/ferric reductase transmembrane with DOMON related domain-containing protein	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT2G43070	AT2G43070.4	1.A.54	PF04258,PF02225	30.7;1.8e-41	SIGNAL PEPTIDE PEPTIDASE-LIKE 3	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family
+AT5G50020	AT5G50020.1	8.A.114	PF01529	36.0;2.2e-43	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT2G43070	AT2G43070.1	1.A.54	PF04258,PF02225	31.4;2.5e-42	SIGNAL PEPTIDE PEPTIDASE-LIKE 3	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family
+AT4G37680	AT4G37680.4	1.C.113	PF03006	34.4;3.9e-45	heptahelical protein 4	The Hemolysin III (Hly III) Family
+AT5G49740	AT5G49740.1	5.B.1	PF01794,PF08030,PF08022	31.3;1.2e-92	ferric reduction oxidase 7	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT1G77220	AT1G77220.2	2.A.82	PF03619	33.2;9.4e-38	organic solute transporter ostalpha protein (DUF300)	The Organic Solute Transporter (OST) Family
+AT3G17611	AT3G17611.1	9.B.104	PF01694,PF00641	37.6;6.3e-28	RHOMBOID-like protein 14	The Rhomboid Protease (Rhomboid) Family
+AT3G18620	AT3G18620.1	8.A.114	PF01529	33.8;1.7e-07	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT5G49740	AT5G49740.2	5.B.1	PF01794,PF08030,PF08022	35.1;3.5e-84	ferric reduction oxidase 7	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT1G61670	AT1G61670.1	9.A.14	PF06814	36.1;8.7e-45	Lung seven transmembrane receptor family protein	The G-protein-coupled receptor (GPCR) Family
+AT3G26935	AT3G26935.1	8.A.114	PF01529	39.9;6.3e-52	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT2G19580	AT2G19580.1	8.A.40	PF00335	40.0;3.9e-52	tetraspanin2	The Tetraspanin (Tetraspanin) Family
+AT1G63120	AT1G63120.1	9.B.104	PF01694	34.0;4e-24	RHOMBOID-like 2	The Rhomboid Protease (Rhomboid) Family
+AT2G33120	AT2G33120.2	1.F.1	PF13774,PF00957	32.9;1.5e-28	synaptobrevin-related protein 1	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT5G41060	AT5G41060.2	8.A.114	PF01529	38.6;1.4e-50	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT1G71940	AT1G71940.1	9.B.27	PF09335	37.9;1.4e-41	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+AT1G04750	AT1G04750.4	1.F.1	PF00957	38.4;2.9e-19	vesicle-associated membrane protein 721	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT4G37680	AT4G37680.2	1.C.113	PF03006	34.4;3.8e-45	heptahelical protein 4	The Hemolysin III (Hly III) Family
+AT1G72480	AT1G72480.1	9.A.14	PF06814	33.2;1.7e-40	Lung seven transmembrane receptor family protein	The G-protein-coupled receptor (GPCR) Family
+AT1G11200	AT1G11200.1	2.A.82	PF03619	33.7;1.4e-31	organic solute transporter ostalpha protein (DUF300)	The Organic Solute Transporter (OST) Family
+AT1G04750	AT1G04750.1	1.F.1	PF13774,PF00957	37.1;1.3e-34	vesicle-associated membrane protein 721	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT2G32670	AT2G32670.1	1.F.1	PF13774,PF00957	36.8;2.5e-33	vesicle-associated membrane protein 725	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT1G77220	AT1G77220.1	2.A.82	PF03619	34.1;5.7e-38	organic solute transporter ostalpha protein (DUF300)	The Organic Solute Transporter (OST) Family
+ATMG00285	ATMG00285.1	3.D.1	PF00361	31.6;1.8e-19		The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT4G33410	AT4G33410.1	1.A.54	PF04258	34.3;4.7e-48	SIGNAL PEPTIDE PEPTIDASE-LIKE 1	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family
+AT3G02600	AT3G02600.7	9.B.105	PF01569	31.8;2.1e-25	lipid phosphate phosphatase 3	The Lead Resistance Fusion Protein (PbrBC) Family
+AT2G44280	AT2G44280.4	2.A.2	PF07690,PF13347	33.0;5.2e-57	Major facilitator superfamily protein	The Glycoside-Pentoside-Hexuronide (GPH):Cation Symporter Family
+AT3G04970	AT3G04970.2	8.A.114	PF01529	32.2;9.9e-15	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT1G22850	AT1G22850.1	9.B.27	PF09335	37.6;1.6e-31	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+AT2G39630	AT2G39630.1	4.D.2	PF00535	30.2;8e-23	Nucleotide-diphospho-sugar transferases superfamily protein	The Glycosyl Transferase 2 (GT2) Family
+ATMG01280	ATMG01280.1	3.D.4	PF02790	43.3;4.7e-11		The Proton-translocating Cytochrome Oxidase (COX) Superfamily
+AT1G08350	AT1G08350.2	8.A.68	PF02990	44.9;3e-134	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT1G03860	AT1G03860.1	8.A.21	PF01145	55.1;2.2e-69	prohibitin 2	The Stomatin/Podocin/Band 7/Nephrosis.2/SPFH (Stomatin) Family
+ATMG00513	ATMG00513.1	3.D.1	PF00361,PF00662	46.9;2.6e-123		The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT1G67570	AT1G67570.2	1.A.69	PF12056	49.5;1.2e-90	zinc finger CONSTANS-like protein (DUF3537)	The Heteromeric Odorant Receptor Channel (HORC) Family
+AT2G04350	AT2G04350.2	4.C.1	PF00501	46.7;4e-173	AMP-dependent synthetase and ligase family protein	The Fatty Acid Group Translocation (FAT) Family
+AT1G19230	AT1G19230.1	5.B.1	PF01794,PF08414,PF08030,PF13499,PF08022	53.7;8.9e-274	Riboflavin synthase-like superfamily protein	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT1G08350	AT1G08350.1	8.A.68	PF02990	45.4;1e-117	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+ATCG01040	ATCG01040.1	9.B.14	PF01578	46.9;3.6e-60	Cytochrome C assembly protein	The Putative Heme Handling Protein (HHP) Family
+AT4G00170	AT4G00170.1	9.B.17	PF00635	48.2;7.9e-33	Plant VAMP (vesicle-associated membrane protein) family protein	The VAMP-associated protein (VAP) Family
+AT3G07160	AT3G07160.3	9.B.119	PF25968,PF02364,PF14288	46.2;0.0	glucan synthase-like 10	The Glycan Synthase, Fks1 (Fks1) Family
+AT4G01510	AT4G01510.4	9.A.19	PF04161	47.6;1.6e-33	Arv1-like protein	The Lipid Intermediate Transporter (Arv1) Family
+AT2G20530	AT2G20530.2	8.A.21	PF01145	53.1;1.1e-68	prohibitin 6	The Stomatin/Podocin/Band 7/Nephrosis.2/SPFH (Stomatin) Family
+AT5G23990	AT5G23990.2	5.B.1	PF01794,PF08030,PF08022	49.9;5.1e-205	ferric reduction oxidase 5	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT1G08820	AT1G08820.3	9.B.17	PF00635	49.2;1.1e-28	vamp/synaptobrevin-associated protein 27-2	The VAMP-associated protein (VAP) Family
+AT3G45600	AT3G45600.2	8.A.40	PF00335	47.6;4.9e-36	tetraspanin3	The Tetraspanin (Tetraspanin) Family
+AT4G12000	AT4G12000.1	9.B.27	PF09335	43.3;6.3e-59	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+AT1G22850	AT1G22850.2	9.B.27	PF09335	42.5;5.6e-28	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+ATMG00580	ATMG00580.1	3.D.1	PF00361	46.9;2.9e-114		The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT2G18193	AT2G18193.1	3.A.28	PF00004,PF14363,PF25568	41.3;2e-94	P-loop containing nucleoside triphosphate hydrolases superfamily protein	The AAA-ATPase, Bcs1 (Bcs1) Family
+AT1G05570	AT1G05570.4	9.B.119	PF25968,PF04652,PF02364,PF14288	60.0;0.0	callose synthase 1	The Glycan Synthase, Fks1 (Fks1) Family
+AT1G12450	AT1G12450.1	9.B.27	PF09335	48.5;2.1e-62	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+AT5G35160	AT5G35160.3	8.A.68	PF02990	44.2;3.1e-148	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT3G54890	AT3G54890.1	3.E.2	PF00504	40.8;3.3e-39	chlorophyll a-b binding protein 6	The Photosynthetic Reaction Center (PRC) Family
+AT1G45474	AT1G45474.2	5.B.4	PF00504	50.2;1.1e-53	photosystem I light harvesting complex protein 5	The Plant Photosystem I Supercomplex (PSI) Family
+AT2G18240	AT2G18240.1	9.B.82	PF03248	57.0;6e-51	Rer1 family protein	The Endoplasmic Reticulum Retrieval Protein1 (Putative Heavy Metal Transporter) (Rer1) Family
+AT2G36850	AT2G36850.1	9.B.119	PF25968,PF02364,PF14288	45.5;0.0	glucan synthase-like 8	The Glycan Synthase, Fks1 (Fks1) Family
+AT4G00170	AT4G00170.2	9.B.17	PF00635	45.8;2.7e-24	Plant VAMP (vesicle-associated membrane protein) family protein	The VAMP-associated protein (VAP) Family
+AT3G20300	AT3G20300.1	1.A.69	PF12056	53.0;2.5e-120	extracellular ligand-gated ion channel protein (DUF3537)	The Heteromeric Odorant Receptor Channel (HORC) Family
+AT3G07160	AT3G07160.1	9.B.119	PF25968,PF02364,PF14288	46.2;0.0	glucan synthase-like 10	The Glycan Synthase, Fks1 (Fks1) Family
+AT3G59820	AT3G59820.1	2.A.97	PF07766	45.3;1.8e-62	LETM1-like protein	The Mitochondrial Inner Membrane K+/H+ and Ca2+/H+ Exchanger (LetM1) Family
+AT5G53540	AT5G53540.1	1.R.1	PF00004,PF17862,PF05496,PF07728	43.5;1.3e-72	P-loop containing nucleoside triphosphate hydrolases superfamily protein	The Membrane Contact Site (MCS) Family
+AT1G50630	AT1G50630.1	1.A.69	PF12056	50.2;1.2e-109	extracellular ligand-gated ion channel protein (DUF3537)	The Heteromeric Odorant Receptor Channel (HORC) Family
+AT1G50630	AT1G50630.2	1.A.69	PF12056	47.4;2.7e-92	extracellular ligand-gated ion channel protein (DUF3537)	The Heteromeric Odorant Receptor Channel (HORC) Family
+AT1G26100	AT1G26100.1	5.B.2	PF03188	42.2;1.9e-42	Cytochrome b561/ferric reductase transmembrane protein family	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT4G01510	AT4G01510.3	9.A.19	PF04161	51.9;2.1e-47	Arv1-like protein	The Lipid Intermediate Transporter (Arv1) Family
+AT1G65540	AT1G65540.1	2.A.97	PF07766,PF13499	46.6;1.6e-68	LETM1-like protein	The Mitochondrial Inner Membrane K+/H+ and Ca2+/H+ Exchanger (LetM1) Family
+AT3G27280	AT3G27280.1	8.A.21	PF01145	53.0;1.6e-77	prohibitin 4	The Stomatin/Podocin/Band 7/Nephrosis.2/SPFH (Stomatin) Family
+ATCG00530	ATCG00530.1	9.B.73	PF03040	48.0;1.2e-25	CemA-like proton extrusion protein-like protein	The Chloroplast Envelope/Cyanobacterial Membrane Protein (CemA) Family
+ATMG01080	ATMG01080.1	3.A.2	PF00137	59.7;3.5e-15	mitochondrial F0-ATPase subunit 9	The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily
+AT5G41060	AT5G41060.3	8.A.114	PF01529	40.9;1.3e-47	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT5G36870	AT5G36870.2	9.B.119	PF25968,PF04652,PF02364,PF14288	51.9;0.0	glucan synthase-like 9	The Glycan Synthase, Fks1 (Fks1) Family
+AT4G30430	AT4G30430.1	8.A.40	PF00335	53.8;2e-85	tetraspanin9	The Tetraspanin (Tetraspanin) Family
+AT5G22360	AT5G22360.1	1.F.1	PF13774,PF00957	41.6;3.5e-43	vesicle-associated membrane protein 714	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+AT5G40000	AT5G40000.1	3.A.28	PF00004,PF14363,PF07728,PF25568	48.2;7.1e-118	P-loop containing nucleoside triphosphate hydrolases superfamily protein	The AAA-ATPase, Bcs1 (Bcs1) Family
+AT4G22850	AT4G22850.2	9.B.27	PF09335	45.5;3.7e-50	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+ATMG00160	ATMG00160.1	3.D.4	PF02790,PF00116	53.3;1.8e-62	cytochrome oxidase 2	The Proton-translocating Cytochrome Oxidase (COX) Superfamily
+AT1G02410	AT1G02410.3	3.D.4	PF04442	50.6;7.5e-46	cytochrome c oxidase assembly protein CtaG / Cox11 family	The Proton-translocating Cytochrome Oxidase (COX) Superfamily
+AT1G02410	AT1G02410.1	3.D.4	PF04442	50.6;7.5e-46	cytochrome c oxidase assembly protein CtaG / Cox11 family	The Proton-translocating Cytochrome Oxidase (COX) Superfamily
+ATMG00220	ATMG00220.1	3.D.3	PF00033,PF00032,PF13631	54.5;2.8e-120	apocytochrome b	The Proton-translocating Quinol:Cytochrome c Reductase (QCR) Superfamily
+AT1G09090	AT1G09090.1	5.B.1	PF01794,PF13499,PF08414,PF08022	54.9;8e-186	respiratory burst oxidase-like protein	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT5G08080	AT5G08080.1	8.A.91	PF00804,PF05739	49.7;1e-64	syntaxin of plants 132	The Syntaxin (Syntaxin) Family
+AT4G28050	AT4G28050.1	8.A.40	PF00335	58.0;7.5e-93	tetraspanin7	The Tetraspanin (Tetraspanin) Family
+AT5G23990	AT5G23990.3	5.B.1	PF01794,PF00175,PF08030,PF08022	53.9;4.1e-181	ferric reduction oxidase 5	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT1G12750	AT1G12750.2	9.B.104	PF01694	42.2;5.6e-13	RHOMBOID-like protein 6	The Rhomboid Protease (Rhomboid) Family
+AT5G08080	AT5G08080.4	8.A.91	PF00804,PF05739	49.7;1e-64	syntaxin of plants 132	The Syntaxin (Syntaxin) Family
+AT2G07751	AT2G07751.1	3.D.1	PF00507	49.1;7.9e-26	NADH:ubiquinone/plastoquinone oxidoreductase, chain 3 protein	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT2G07689	AT2G07689.1	3.D.1	PF00361	41.0;2.4e-36	NADH-Ubiquinone/plastoquinone (complex I) protein	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT5G44140	AT5G44140.1	8.A.21	PF01145	55.1;2.3e-68	prohibitin 7	The Stomatin/Podocin/Band 7/Nephrosis.2/SPFH (Stomatin) Family
+AT3G27240	AT3G27240.1	3.D.3	PF02167	56.2;3.6e-86	Cytochrome C1 family	The Proton-translocating Quinol:Cytochrome c Reductase (QCR) Superfamily
+AT4G22850	AT4G22850.1	9.B.27	PF09335	45.3;2e-57	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+AT5G60220	AT5G60220.1	8.A.40	PF00335	46.9;8.2e-65	tetraspanin4	The Tetraspanin (Tetraspanin) Family
+AT2G31960	AT2G31960.2	9.B.119	PF25968,PF04652,PF02364,PF14288	59.2;0.0	glucan synthase-like 3	The Glycan Synthase, Fks1 (Fks1) Family
+AT5G35735	AT5G35735.1	5.B.2	PF03188,PF04526	46.1;1.1e-90	Auxin-responsive family protein	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT4G12000	AT4G12000.2	9.B.27	PF09335	43.3;6.3e-59	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+AT2G20530	AT2G20530.1	8.A.21	PF01145	53.1;1.1e-68	prohibitin 6	The Stomatin/Podocin/Band 7/Nephrosis.2/SPFH (Stomatin) Family
+AT5G08080	AT5G08080.3	8.A.91	PF00804,PF05739	47.9;1.7e-62	syntaxin of plants 132	The Syntaxin (Syntaxin) Family
+AT3G12090	AT3G12090.1	8.A.40	PF00335	48.2;1.1e-76	tetraspanin6	The Tetraspanin (Tetraspanin) Family
+AT4G01510	AT4G01510.2	9.A.19	PF04161	49.1;2.5e-37	Arv1-like protein	The Lipid Intermediate Transporter (Arv1) Family
+AT4G29735	AT4G29735.1	9.B.142	PF05251	55.1;1.4e-12	transmembrane protein	The Integral membrane Glycosyltransferase family 39 (GT39) Family
+AT5G36870	AT5G36870.1	9.B.119	PF25968,PF02364,PF14288	51.3;0.0	glucan synthase-like 9	The Glycan Synthase, Fks1 (Fks1) Family
+AT2G31960	AT2G31960.5	9.B.119	PF25968,PF04652,PF02364,PF14288	59.2;0.0	glucan synthase-like 3	The Glycan Synthase, Fks1 (Fks1) Family
+AT5G43100	AT5G43100.1	8.A.32	PF00026,PF14541,PF14543	56.7;1.1e-177	Eukaryotic aspartyl protease family protein	The β-Amyloid Cleaving Enzyme (BACE1) Family
+AT5G41060	AT5G41060.4	8.A.114	PF01529	40.9;1.3e-47	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT5G47530	AT5G47530.1	5.B.2	PF03188,PF04526	49.0;1.2e-94	Auxin-responsive family protein	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT5G19690	AT5G19690.1	9.B.142	PF02516	50.1;4.3e-197	staurosporin and temperature sensitive 3-like A	The Integral membrane Glycosyltransferase family 39 (GT39) Family
+ATMG01275	ATMG01275.1	3.D.1	PF00146	49.2;2.1e-27	NADH dehydrogenase 1A	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT1G67570	AT1G67570.1	1.A.69	PF12056	52.2;6.2e-111	zinc finger CONSTANS-like protein (DUF3537)	The Heteromeric Odorant Receptor Channel (HORC) Family
+AT2G31960	AT2G31960.1	9.B.119	PF25968,PF04652,PF02364,PF14288	59.2;0.0	glucan synthase-like 3	The Glycan Synthase, Fks1 (Fks1) Family
+AT3G03800	AT3G03800.2	8.A.91	PF00804,PF05739	46.8;5e-64	syntaxin of plants 131	The Syntaxin (Syntaxin) Family
+AT3G07160	AT3G07160.2	9.B.119	PF25968,PF02364,PF14288	46.2;0.0	glucan synthase-like 10	The Glycan Synthase, Fks1 (Fks1) Family
+AT2G18190	AT2G18190.1	3.A.28	PF00004,PF14363,PF25568	41.8;1.7e-93	P-loop containing nucleoside triphosphate hydrolases superfamily protein	The AAA-ATPase, Bcs1 (Bcs1) Family
+AT1G65540	AT1G65540.3	2.A.97	PF07766,PF13499	46.6;1.6e-68	LETM1-like protein	The Mitochondrial Inner Membrane K+/H+ and Ca2+/H+ Exchanger (LetM1) Family
+AT1G08820	AT1G08820.5	9.B.17	PF00635	49.2;1.1e-28	vamp/synaptobrevin-associated protein 27-2	The VAMP-associated protein (VAP) Family
+AT2G07785	AT2G07785.1	3.D.1	PF00146	50.0;7.6e-22	NADH dehydrogenase family protein	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT5G35160	AT5G35160.2	8.A.68	PF02990	44.2;3.1e-148	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT5G36870	AT5G36870.3	9.B.119	PF25968,PF04652,PF02364,PF14288	53.3;0.0	glucan synthase-like 9	The Glycan Synthase, Fks1 (Fks1) Family
+AT1G01020	AT1G01020.1	9.A.19	PF04161	50.9;1.1e-53	ARV1 family protein	The Lipid Intermediate Transporter (Arv1) Family
+AT1G06490	AT1G06490.2	9.B.119	PF25968,PF04652,PF02364,PF14288	54.6;0.0	glucan synthase-like 7	The Glycan Synthase, Fks1 (Fks1) Family
+AT5G35160	AT5G35160.1	8.A.68	PF02990	42.4;5.9e-136	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT3G09570	AT3G09570.1	9.A.14	PF21904,PF06814	40.1;1.1e-59	Lung seven transmembrane receptor family protein	The G-protein-coupled receptor (GPCR) Family
+AT3G03800	AT3G03800.1	8.A.91	PF00804,PF05739	46.8;5e-64	syntaxin of plants 131	The Syntaxin (Syntaxin) Family
+AT1G06490	AT1G06490.1	9.B.119	PF25968,PF04652,PF02364,PF14288	54.6;0.0	glucan synthase-like 7	The Glycan Synthase, Fks1 (Fks1) Family
+AT4G01510	AT4G01510.6	9.A.19	PF04161	49.1;2.5e-37	Arv1-like protein	The Lipid Intermediate Transporter (Arv1) Family
+AT5G36870	AT5G36870.5	9.B.119	PF25968,PF02364,PF14288	51.3;0.0	glucan synthase-like 9	The Glycan Synthase, Fks1 (Fks1) Family
+AT5G40810	AT5G40810.1	3.D.3	PF02167	56.2;1.6e-86	Cytochrome C1 family	The Proton-translocating Quinol:Cytochrome c Reductase (QCR) Superfamily
+AT1G01020	AT1G01020.2	9.A.19	PF04161	50.3;5.9e-39	ARV1 family protein	The Lipid Intermediate Transporter (Arv1) Family
+AT5G60010	AT5G60010.1	5.B.1	PF01794,PF08414,PF13405,PF08030,PF13499,PF00036,PF08022	51.3;1.3e-229	ferric reductase-like transmembrane component family protein	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT1G19230	AT1G19230.2	5.B.1	PF01794,PF08414,PF08030,PF13499,PF08022	54.0;2.6e-276	Riboflavin synthase-like superfamily protein	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT3G44160	AT3G44160.1	1.B.33	PF01103	42.1;1.8e-68	Outer membrane OMP85 family protein	The Outer Membrane Protein Insertion Porin (Bam Complex) (OmpIP) Family
+AT4G01510	AT4G01510.7	9.A.19	PF04161	47.6;1.6e-33	Arv1-like protein	The Lipid Intermediate Transporter (Arv1) Family
+AT5G13000	AT5G13000.2	9.B.119	PF25968,PF04652,PF02364,PF14288	59.9;0.0	glucan synthase-like 12	The Glycan Synthase, Fks1 (Fks1) Family
+AT1G05570	AT1G05570.2	9.B.119	PF25968,PF04652,PF02364,PF14288	59.2;0.0	callose synthase 1	The Glycan Synthase, Fks1 (Fks1) Family
+AT1G08350	AT1G08350.4	8.A.68	PF02990	48.8;2.6e-124	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+ATMG00990	ATMG00990.1	3.D.1	PF00507	48.7;8e-26	NADH dehydrogenase 3	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT4G03330	AT4G03330.1	8.A.91	PF00804,PF05739	58.9;5.5e-87	syntaxin of plants 123	The Syntaxin (Syntaxin) Family
+AT2G31960	AT2G31960.4	9.B.119	PF25968,PF04652,PF02364,PF14288	58.5;0.0	glucan synthase-like 3	The Glycan Synthase, Fks1 (Fks1) Family
+AT2G07695	AT2G07695.1	3.D.4	PF02790	43.3;4.7e-11	Cytochrome C oxidase subunit II-like, transmembrane domain-containing protein	The Proton-translocating Cytochrome Oxidase (COX) Superfamily
+AT4G03550	AT4G03550.1	9.B.119	PF25968,PF02364,PF14288	46.8;0.0	glucan synthase-like 5	The Glycan Synthase, Fks1 (Fks1) Family
+AT3G59820	AT3G59820.4	2.A.97	PF07766	45.3;1.8e-62	LETM1-like protein	The Mitochondrial Inner Membrane K+/H+ and Ca2+/H+ Exchanger (LetM1) Family
+AT2G45140	AT2G45140.2	9.B.17	PF00635	41.2;3.1e-39	plant VAP homolog 12	The VAMP-associated protein (VAP) Family
+AT4G12650	AT4G12650.1	8.A.68	PF02990	41.7;3.6e-136	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+ATMG00270	ATMG00270.1	3.D.1	PF00499	40.1;1.7e-23	NADH dehydrogenase 6	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT2G31960	AT2G31960.3	9.B.119	PF25968,PF04652,PF02364,PF14288	59.2;0.0	glucan synthase-like 3	The Glycan Synthase, Fks1 (Fks1) Family
+AT1G01020	AT1G01020.3	9.A.19	PF04161	44.9;3.9e-32	ARV1 family protein	The Lipid Intermediate Transporter (Arv1) Family
+AT1G03860	AT1G03860.3	8.A.21	PF01145	55.1;2.2e-69	prohibitin 2	The Stomatin/Podocin/Band 7/Nephrosis.2/SPFH (Stomatin) Family
+AT2G20725	AT2G20725.1	9.B.2	PF02517	49.8;1.1e-68	CAAX amino terminal protease family protein	The Integral Membrane CAAX Protease-2 (CAAX Protease2) Family
+AT3G50940	AT3G50940.1	3.A.28	PF00004,PF14363,PF25568	42.8;4e-94	P-loop containing nucleoside triphosphate hydrolases superfamily protein	The AAA-ATPase, Bcs1 (Bcs1) Family
+AT5G19690	AT5G19690.2	9.B.142	PF02516	50.1;2.3e-192	staurosporin and temperature sensitive 3-like A	The Integral membrane Glycosyltransferase family 39 (GT39) Family
+AT3G45810	AT3G45810.1	5.B.1	PF01794,PF08414,PF08030,PF13405,PF13499,PF00036,PF08022	49.6;4.7e-227	ferric reductase-like transmembrane component family protein	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT2G35520	AT2G35520.2	9.B.142	PF02109	51.0;1.1e-24	Defender against death (DAD family) protein	The Integral membrane Glycosyltransferase family 39 (GT39) Family
+AT1G09090	AT1G09090.2	5.B.1	PF01794,PF08414,PF08030,PF13499,PF00036,PF08022	56.7;5.3e-273	respiratory burst oxidase-like protein	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT3G59820	AT3G59820.3	2.A.97	PF07766	45.3;1.8e-62	LETM1-like protein	The Mitochondrial Inner Membrane K+/H+ and Ca2+/H+ Exchanger (LetM1) Family
+AT1G65540	AT1G65540.2	2.A.97	PF07766,PF13499	46.6;1.6e-68	LETM1-like protein	The Mitochondrial Inner Membrane K+/H+ and Ca2+/H+ Exchanger (LetM1) Family
+AT4G01510	AT4G01510.8	9.A.19	PF04161	47.6;1.4e-33	Arv1-like protein	The Lipid Intermediate Transporter (Arv1) Family
+AT4G17280	AT4G17280.1	5.B.2	PF03188,PF04526	47.6;2.1e-94	Auxin-responsive family protein	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT1G08820	AT1G08820.4	9.B.17	PF00635	49.2;1.1e-28	vamp/synaptobrevin-associated protein 27-2	The VAMP-associated protein (VAP) Family
+AT1G05570	AT1G05570.3	9.B.119	PF25968,PF04652,PF02364,PF14288	60.0;0.0	callose synthase 1	The Glycan Synthase, Fks1 (Fks1) Family
+AT2G18240	AT2G18240.2	9.B.82	PF03248	57.0;5.9e-51	Rer1 family protein	The Endoplasmic Reticulum Retrieval Protein1 (Putative Heavy Metal Transporter) (Rer1) Family
+AT2G04350	AT2G04350.1	4.C.1	PF00501	46.7;4e-173	AMP-dependent synthetase and ligase family protein	The Fatty Acid Group Translocation (FAT) Family
+AT2G30890	AT2G30890.1	5.B.2	PF03188	47.9;9.7e-53	Cytochrome b561/ferric reductase transmembrane protein family	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT5G35160	AT5G35160.4	8.A.68	PF02990	44.2;3.1e-148	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT1G01020	AT1G01020.5	9.A.19	PF04161	45.2;1.9e-32	ARV1 family protein	The Lipid Intermediate Transporter (Arv1) Family
+AT3G17611	AT3G17611.2	9.B.104	PF01694,PF00641	42.6;1.1e-18	RHOMBOID-like protein 14	The Rhomboid Protease (Rhomboid) Family
+AT3G59100	AT3G59100.2	9.B.119	PF25968,PF02364,PF14288	55.8;0.0	glucan synthase-like 11	The Glycan Synthase, Fks1 (Fks1) Family
+AT1G08820	AT1G08820.1	9.B.17	PF00635	49.2;1.1e-28	vamp/synaptobrevin-associated protein 27-2	The VAMP-associated protein (VAP) Family
+AT4G28510	AT4G28510.1	8.A.21	PF01145	52.9;9.8e-70	prohibitin 1	The Stomatin/Podocin/Band 7/Nephrosis.2/SPFH (Stomatin) Family
+AT1G02410	AT1G02410.2	3.D.4	PF04442	50.6;7.5e-46	cytochrome c oxidase assembly protein CtaG / Cox11 family	The Proton-translocating Cytochrome Oxidase (COX) Superfamily
+AT1G08350	AT1G08350.3	8.A.68	PF02990	44.9;3e-134	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT4G18260	AT4G18260.1	5.B.2	PF03188	48.9;8.2e-53	Cytochrome b561/ferric reductase transmembrane protein family	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT4G23410	AT4G23410.1	8.A.40	PF00335	44.6;1.5e-67	tetraspanin5	The Tetraspanin (Tetraspanin) Family
+AT3G55920	AT3G55920.1	3.D.1	PF00160	59.0;5.7e-57	Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT1G12750	AT1G12750.5	9.B.104	PF01694	42.2;1e-12	RHOMBOID-like protein 6	The Rhomboid Protease (Rhomboid) Family
+AT2G03120	AT2G03120.1	1.A.54	PF04258	42.3;1.1e-62	signal peptide peptidase	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family
+AT2G20740	AT2G20740.2	8.A.40	PF00335	48.1;8.6e-32	Tetraspanin family protein	The Tetraspanin (Tetraspanin) Family
+AT5G36870	AT5G36870.4	9.B.119	PF25968,PF04652,PF02364,PF14288	51.9;0.0	glucan synthase-like 9	The Glycan Synthase, Fks1 (Fks1) Family
+AT4G17790	AT4G17790.1	9.B.27	PF09335	40.5;1.6e-42	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+AT4G04970	AT4G04970.1	9.B.119	PF25968,PF02364,PF14288	46.0;0.0	glucan synthase-like 1	The Glycan Synthase, Fks1 (Fks1) Family
+AT1G01020	AT1G01020.4	9.A.19	PF04161	44.9;3.9e-32	ARV1 family protein	The Lipid Intermediate Transporter (Arv1) Family
+ATMG00650	ATMG00650.1	3.D.1	PF00420	54.1;6.1e-19	NADH dehydrogenase subunit 4L	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT2G07727	AT2G07727.1	3.D.3	PF00033,PF00032,PF13631	54.5;2.8e-120	cytochrome b	The Proton-translocating Quinol:Cytochrome c Reductase (QCR) Superfamily
+AT1G05570	AT1G05570.1	9.B.119	PF25968,PF04652,PF02364,PF14288	60.0;0.0	callose synthase 1	The Glycan Synthase, Fks1 (Fks1) Family
+AT2G40710	AT2G40710.1	1.C.113	PF03006	49.4;1.1e-14	hemolysin-III related integral membrane protein	The Hemolysin III (Hly III) Family
+AT1G08820	AT1G08820.2	9.B.17	PF00635	49.2;1.1e-28	vamp/synaptobrevin-associated protein 27-2	The VAMP-associated protein (VAP) Family
+ATMG00960	ATMG00960.1	9.B.14	PF01578	51.2;4.1e-30	Cytochrome C assembly protein	The Putative Heme Handling Protein (HHP) Family
+AT2G35520	AT2G35520.3	9.B.142	PF02109	51.5;4.5e-26	Defender against death (DAD family) protein	The Integral membrane Glycosyltransferase family 39 (GT39) Family
+AT4G01510	AT4G01510.5	9.A.19	PF04161	44.2;1.1e-48	Arv1-like protein	The Lipid Intermediate Transporter (Arv1) Family
+AT3G45600	AT3G45600.1	8.A.40	PF00335	48.3;2.9e-66	tetraspanin3	The Tetraspanin (Tetraspanin) Family
+AT4G12000	AT4G12000.3	9.B.27	PF09335	43.3;6.3e-59	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+AT3G59820	AT3G59820.2	2.A.97	PF07766	45.3;1.8e-62	LETM1-like protein	The Mitochondrial Inner Membrane K+/H+ and Ca2+/H+ Exchanger (LetM1) Family
+AT3G59100	AT3G59100.1	9.B.119	PF25968,PF04652,PF02364,PF14288	53.8;0.0	glucan synthase-like 11	The Glycan Synthase, Fks1 (Fks1) Family
+AT1G18520	AT1G18520.1	8.A.40	PF00335	41.3;4.9e-55	tetraspanin11	The Tetraspanin (Tetraspanin) Family
+AT5G40810	AT5G40810.2	3.D.3	PF02167	58.8;5.7e-85	Cytochrome C1 family	The Proton-translocating Quinol:Cytochrome c Reductase (QCR) Superfamily
+AT4G01510	AT4G01510.1	9.A.19	PF04161	51.0;7.8e-54	Arv1-like protein	The Lipid Intermediate Transporter (Arv1) Family
+AT5G46700	AT5G46700.1	8.A.40	PF00335	44.3;2.4e-54	Tetraspanin family protein	The Tetraspanin (Tetraspanin) Family
+AT5G23990	AT5G23990.1	5.B.1	PF01794,PF08030,PF08022	45.6;4.1e-180	ferric reduction oxidase 5	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT1G45474	AT1G45474.1	5.B.4	PF00504	50.2;1.1e-53	photosystem I light harvesting complex protein 5	The Plant Photosystem I Supercomplex (PSI) Family
+AT5G23980	AT5G23980.1	5.B.1	PF01794,PF08030,PF08022	49.9;1.6e-206	ferric reduction oxidase 4	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT5G54170	AT5G54170.1	8.A.120	PF01852	42.6;3e-49	Polyketide cyclase/dehydrase and lipid transport superfamily protein	The Mitochondrial StAR-related Lipid Transfer Protein (StAR) Family
+AT3G51390	AT3G51390.1	8.A.114	PF01529	52.5;1.1e-14	DHHC-type zinc finger family protein	The Huntington-interacting Protein 14 (HIP14) Family
+AT3G27280	AT3G27280.2	8.A.21	PF01145	53.0;1.6e-77	prohibitin 4	The Stomatin/Podocin/Band 7/Nephrosis.2/SPFH (Stomatin) Family
+AT4G30660	AT4G30660.2	9.B.12	PF01679	78.3;1.2e-11	Low temperature and salt responsive protein family	The Sensitivity to Sodium or Salt Stress-induced Hydrophobic Peptide (Sna) Family
+AT5G25100	AT5G25100.1	8.A.68	PF02990	73.7;2.4e-270	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT1G23020	AT1G23020.7	5.B.1	PF01794,PF08030,PF08022	61.7;6.7e-242	ferric reduction oxidase 3	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT4G25090	AT4G25090.2	5.B.1	PF01794,PF08414,PF08030,PF13499,PF08022	63.6;7.5e-288	Riboflavin synthase-like superfamily protein	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT1G23020	AT1G23020.2	5.B.1	PF01794,PF08030,PF08022	61.4;8.5e-240	ferric reduction oxidase 3	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT2G07565	AT2G07565.1	3.A.9	PF05758	65.1;2.5e-101	Ycf1 domain protein	The Chloroplast Envelope Protein Translocase (CEPT or Tic-Toc) Family
+AT5G51060	AT5G51060.1	5.B.1	PF01794,PF08414,PF08030,PF13499,PF00036,PF08022	66.2;0.0	NADPH/respiratory burst oxidase protein D	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT4G03820	AT4G03820.4	1.A.69	PF12056	70.0;9.1e-164	transmembrane protein, putative (DUF3537)	The Heteromeric Odorant Receptor Channel (HORC) Family
+ATCG00150	ATCG00150.1	3.A.2	PF00119	75.3;1.3e-97	ATPase, F0 complex, subunit A protein	The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily
+AT4G03820	AT4G03820.2	1.A.69	PF12056	70.0;1.1e-163	transmembrane protein, putative (DUF3537)	The Heteromeric Odorant Receptor Channel (HORC) Family
+AT5G13000	AT5G13000.1	9.B.119	PF25968,PF04652,PF02364,PF14288	60.9;0.0	glucan synthase-like 12	The Glycan Synthase, Fks1 (Fks1) Family
+AT5G37310	AT5G37310.2	8.A.68	PF02990	79.8;3.1e-227	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT1G32270	AT1G32270.1	8.A.91	PF03168,PF14523,PF05739	65.1;1.9e-34	syntaxin	The Syntaxin (Syntaxin) Family
+AT5G25100	AT5G25100.2	8.A.68	PF02990	72.8;5.1e-268	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT1G57550	AT1G57550.1	9.B.12	PF01679	64.0;1.8e-14	Low temperature and salt responsive protein family	The Sensitivity to Sodium or Salt Stress-induced Hydrophobic Peptide (Sna) Family
+AT4G27630	AT4G27630.2	1.A.38	PF12537,PF12430	79.9;3.6e-207	GPCR-type G protein 2	The Golgi pH Regulator (GPHR) Family
+AT4G30660	AT4G30660.1	9.B.12	PF01679	78.3;1.2e-11	Low temperature and salt responsive protein family	The Sensitivity to Sodium or Salt Stress-induced Hydrophobic Peptide (Sna) Family
+AT4G28088	AT4G28088.1	9.B.12	PF01679	69.6;2.1e-11	Low temperature and salt responsive protein family	The Sensitivity to Sodium or Salt Stress-induced Hydrophobic Peptide (Sna) Family
+ATMG00730	ATMG00730.1	3.D.4	PF00510	60.6;2.6e-93	cytochrome c oxidase subunit 3	The Proton-translocating Cytochrome Oxidase (COX) Superfamily
+AT1G74045	AT1G74045.1	8.A.40	PF00335	69.0;7.5e-103	tetraspanin-17 protein	The Tetraspanin (Tetraspanin) Family
+AT5G16830	AT5G16830.1	8.A.91	PF14523,PF05739	61.2;3.3e-54	syntaxin of plants 21	The Syntaxin (Syntaxin) Family
+AT2G02370	AT2G02370.2	9.B.27	PF09335	72.5;6.5e-115	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+AT4G05380	AT4G05380.1	3.A.28	PF00004,PF14363,PF25568	65.7;8.6e-169	P-loop nucleoside triphosphate hydrolase superfamily protein	The AAA-ATPase, Bcs1 (Bcs1) Family
+AT2G40100	AT2G40100.1	3.E.2	PF00504	70.4;2.8e-106	light harvesting complex photosystem II	The Photosynthetic Reaction Center (PRC) Family
+AT2G24170	AT2G24170.1	8.A.68	PF02990	71.2;1e-260	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT4G25570	AT4G25570.2	5.B.2	PF03188	67.0;1.3e-79	Cytochrome b561/ferric reductase transmembrane protein family	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT4G27630	AT4G27630.3	1.A.38	PF12537,PF12430	76.0;8.8e-204	GPCR-type G protein 2	The Golgi pH Regulator (GPHR) Family
+AT4G11230	AT4G11230.1	5.B.1	PF01794,PF08414,PF08030,PF08022	66.3;8.7e-309	Riboflavin synthase-like superfamily protein	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT1G61290	AT1G61290.1	8.A.91	PF00804,PF05739	63.0;1.9e-95	syntaxin of plants 124	The Syntaxin (Syntaxin) Family
+AT2G23310	AT2G23310.1	9.B.82	PF03248	64.6;7.5e-59	Rer1 family protein	The Endoplasmic Reticulum Retrieval Protein1 (Putative Heavy Metal Transporter) (Rer1) Family
+AT1G34130	AT1G34130.1	9.B.142	PF02516	61.0;3e-248	staurosporin and temperature sensitive 3-like b	The Integral membrane Glycosyltransferase family 39 (GT39) Family
+AT5G26740	AT5G26740.3	2.A.82	PF03619	62.2;1.2e-140	organic solute transporter ostalpha protein (DUF300)	The Organic Solute Transporter (OST) Family
+AT4G38290	AT4G38290.1	1.C.113	PF03006	63.5;3.2e-13	hemolysin-III related integral membrane protein	The Hemolysin III (Hly III) Family
+AT4G03820	AT4G03820.3	1.A.69	PF12056	70.0;6.7e-164	transmembrane protein, putative (DUF3537)	The Heteromeric Odorant Receptor Channel (HORC) Family
+AT1G61290	AT1G61290.2	8.A.91	PF00804,PF05739	63.0;1.9e-95	syntaxin of plants 124	The Syntaxin (Syntaxin) Family
+AT1G23020	AT1G23020.5	5.B.1	PF01794,PF08030,PF08022	61.3;1e-240	ferric reduction oxidase 3	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT5G37310	AT5G37310.1	8.A.68	PF02990	79.8;3.1e-227	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT4G27630	AT4G27630.4	1.A.38	PF12430,PF12537	77.0;1e-157	GPCR-type G protein 2	The Golgi pH Regulator (GPHR) Family
+AT2G24040	AT2G24040.1	9.B.12	PF01679	71.7;3.5e-11	Low temperature and salt responsive protein family	The Sensitivity to Sodium or Salt Stress-induced Hydrophobic Peptide (Sna) Family
+AT4G25570	AT4G25570.1	5.B.2	PF03188	67.0;4.3e-79	Cytochrome b561/ferric reductase transmembrane protein family	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT2G23310	AT2G23310.2	9.B.82	PF03248	65.1;6.3e-58	Rer1 family protein	The Endoplasmic Reticulum Retrieval Protein1 (Putative Heavy Metal Transporter) (Rer1) Family
+AT1G23020	AT1G23020.3	5.B.1	PF01794,PF08030,PF08022	61.4;1.5e-241	ferric reduction oxidase 3	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT4G03820	AT4G03820.1	1.A.69	PF12056	70.0;7.9e-164	transmembrane protein, putative (DUF3537)	The Heteromeric Odorant Receptor Channel (HORC) Family
+AT4G27630	AT4G27630.5	1.A.38	PF12430,PF12537	79.1;2.4e-97	GPCR-type G protein 2	The Golgi pH Regulator (GPHR) Family
+AT5G26740	AT5G26740.2	2.A.82	PF03619	62.2;1.2e-140	organic solute transporter ostalpha protein (DUF300)	The Organic Solute Transporter (OST) Family
+AT3G25290	AT3G25290.2	5.B.2	PF03188,PF04526	76.0;3.5e-171	Auxin-responsive family protein	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT5G47910	AT5G47910.1	5.B.1	PF01794,PF08414,PF08030,PF08022	62.2;2.3e-306	respiratory burst oxidase homologue D	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT2G01970	AT2G01970.1	8.A.68	PF02990	75.2;9.5e-229	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT1G12640	AT1G12640.1	2.A.50	PF03062	72.5;1.2e-194	MBOAT (membrane bound O-acyl transferase) family protein	The Glycerol Uptake (GUP) or Membrane-bound Acyl Transferase (MBOAT) Family
+AT3G52400	AT3G52400.1	8.A.91	PF00804,PF05739	63.5;5.3e-91	syntaxin of plants 122	The Syntaxin (Syntaxin) Family
+AT5G10840	AT5G10840.1	8.A.68	PF02990	74.0;4.9e-271	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT2G23810	AT2G23810.1	8.A.40	PF00335	64.6;1e-97	tetraspanin8	The Tetraspanin (Tetraspanin) Family
+AT3G08940	AT3G08940.1	3.E.2	PF00504	79.0;5e-77	light harvesting complex photosystem II	The Photosynthetic Reaction Center (PRC) Family
+AT4G25090	AT4G25090.1	5.B.1	PF01794,PF08414,PF08030,PF13405,PF13499,PF08022	64.1;2.1e-290	Riboflavin synthase-like superfamily protein	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT3G05890	AT3G05890.1	9.B.12	PF01679	77.8;5.1e-20	Low temperature and salt responsive protein family	The Sensitivity to Sodium or Salt Stress-induced Hydrophobic Peptide (Sna) Family
+AT1G63050	AT1G63050.1	2.A.50	PF03062	71.2;3.9e-193	MBOAT (membrane bound O-acyl transferase) family protein	The Glycerol Uptake (GUP) or Membrane-bound Acyl Transferase (MBOAT) Family
+AT1G11250	AT1G11250.1	8.A.91	PF00804,PF05739	62.0;1.1e-95	syntaxin of plants 125	The Syntaxin (Syntaxin) Family
+AT3G05940	AT3G05940.1	2.A.82	PF03619	63.4;2.6e-143	organic solute transporter ostalpha protein (DUF300)	The Organic Solute Transporter (OST) Family
+AT2G02370	AT2G02370.3	9.B.27	PF09335	72.5;6.5e-115	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+AT4G27630	AT4G27630.7	1.A.38	PF12430,PF12537	77.0;1.3e-157	GPCR-type G protein 2	The Golgi pH Regulator (GPHR) Family
+ATMG01360	ATMG01360.1	3.D.4	PF00115	69.9;8.2e-208	cytochrome oxidase	The Proton-translocating Cytochrome Oxidase (COX) Superfamily
+AT2G07687	AT2G07687.1	3.D.4	PF00510	60.6;2.6e-93	Cytochrome c oxidase, subunit III	The Proton-translocating Cytochrome Oxidase (COX) Superfamily
+AT1G01590	AT1G01590.1	5.B.1	PF01794,PF08030,PF08022	63.4;7.8e-254	ferric reduction oxidase 1	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT1G23020	AT1G23020.4	5.B.1	PF01794,PF08030,PF08022	61.4;1.5e-241	ferric reduction oxidase 3	The Phagocyte (gp91phox) NADPH Oxidase Family
+ATCG00540	ATCG00540.1	3.D.3	PF16639,PF01333	60.6;1.6e-97	photosynthetic electron transfer A	The Proton-translocating Quinol:Cytochrome c Reductase (QCR) Superfamily
+AT3G47470	AT3G47470.1	5.B.4	PF00504	74.7;1.6e-105	light-harvesting chlorophyll-protein complex I subunit A4	The Plant Photosystem I Supercomplex (PSI) Family
+AT1G14670	AT1G14670.1	8.A.68	PF02990	77.2;5.6e-229	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT1G23020	AT1G23020.6	5.B.1	PF01794,PF08030,PF08022	61.5;9.7e-241	ferric reduction oxidase 3	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT4G30650	AT4G30650.1	9.B.12	PF01679	75.0;8.9e-12	Low temperature and salt responsive protein family	The Sensitivity to Sodium or Salt Stress-induced Hydrophobic Peptide (Sna) Family
+AT3G25290	AT3G25290.1	5.B.2	PF03188,PF04526	76.0;3.5e-171	Auxin-responsive family protein	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT5G13940	AT5G13940.1	2.A.1	PF12576	64.8;2.1e-32	aminopeptidase	The Major Facilitator Superfamily (MFS)
+AT5G26740	AT5G26740.1	2.A.82	PF03619	62.2;1.2e-140	organic solute transporter ostalpha protein (DUF300)	The Organic Solute Transporter (OST) Family
+AT3G50050	AT3G50050.1	8.A.32	PF00026,PF14541,PF23180,PF14543	78.4;1.2e-293	Eukaryotic aspartyl protease family protein	The β-Amyloid Cleaving Enzyme (BACE1) Family
+AT1G23020	AT1G23020.1	5.B.1	PF01794,PF08030,PF08022	61.3;1e-240	ferric reduction oxidase 3	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT2G24170	AT2G24170.2	8.A.68	PF02990	69.3;1.6e-175	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT2G02370	AT2G02370.1	9.B.27	PF09335	72.5;6.5e-115	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+AT1G44960	AT1G44960.1	9.B.27	PF09335	65.5;1.4e-91	SNARE associated Golgi protein family	The Death Effector Domain A (DedA) Family
+AT1G55130	AT1G55130.1	8.A.68	PF02990	91.0;0.0	Endomembrane protein 70 protein family	The Endomembrane protein-70 (EMP70) Family
+AT5G54290	AT5G54290.1	5.A.1	PF02683	100.0;1.1e-187	cytochrome c biogenesis protein family	The Disulfide Bond Oxidoreductase D (DsbD) Family
+AT4G39220	AT4G39220.2	9.B.82	PF03248	100.0;4.6e-108	Rer1 family protein	The Endoplasmic Reticulum Retrieval Protein1 (Putative Heavy Metal Transporter) (Rer1) Family
+AT2G47770	AT2G47770.1	9.A.24	PF03073	100.0;4.3e-109	TSPO(outer membrane tryptophan-rich sensory protein)-like protein	The Mitochondrial Cholesterol/Porphyrin/5-aminolevulinic acid Uptake Translocator Protein (TSPO) Family
+AT3G14570	AT3G14570.1	9.B.119	PF25968,PF04652,PF02364,PF14288	100.0;0.0	glucan synthase-like 4	The Glycan Synthase, Fks1 (Fks1) Family
+AT3G04370	AT3G04370.2	1.I.2	PF01657	99.4;6.5e-184	plasmodesmata-located protein 4	The Plant Plasmodesmata (PPD) Family
+AT4G34100	AT4G34100.2	3.A.16	PF23113,PF12906	99.9;0.0	RING/U-box superfamily protein	The Endoplasmic Reticular Retrotranslocon (ER-RT) Family
+AT5G07390	AT5G07390.2	5.B.1	PF01794,PF08414,PF08030,PF08022	94.2;0.0	respiratory burst oxidase homolog A	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT5G07390	AT5G07390.1	5.B.1	PF01794,PF08414,PF08030,PF13499,PF08022	100.0;0.0	respiratory burst oxidase homolog A	The Phagocyte (gp91phox) NADPH Oxidase Family
+ATCG01250	ATCG01250.1	3.D.1	PF00361	98.2;2.6e-211	NADH-quinone oxidoreductase protein	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT1G63260	AT1G63260.5	8.A.40	PF00335	100.0;5.8e-115	tetraspanin10	The Tetraspanin (Tetraspanin) Family
+AT3G58460	AT3G58460.2	9.B.104	PF01694,PF04511,PF00627	90.2;6.9e-197	RHOMBOID-like protein 15	The Rhomboid Protease (Rhomboid) Family
+AT3G16140	AT3G16140.1	5.B.4	PF03244	91.7;2.2e-70	photosystem I subunit H-1	The Plant Photosystem I Supercomplex (PSI) Family
+AT1G18510	AT1G18510.1	8.A.40	PF00335	100.0;8.5e-147	tetraspanin	The Tetraspanin (Tetraspanin) Family
+AT5G50160	AT5G50160.1	5.B.1	PF01794,PF00175,PF08030,PF08022	97.9;0.0	ferric reduction oxidase 8	The Phagocyte (gp91phox) NADPH Oxidase Family
+ATCG01070	ATCG01070.1	3.D.1	PF00420	100.0;1.2e-46	NADH-ubiquinone/plastoquinone oxidoreductase chain 4L	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT3G14570	AT3G14570.3	9.B.119	PF25968,PF04652,PF02364,PF14288	99.1;0.0	glucan synthase-like 4	The Glycan Synthase, Fks1 (Fks1) Family
+AT1G63260	AT1G63260.2	8.A.40	PF00335	100.0;7.8e-127	tetraspanin10	The Tetraspanin (Tetraspanin) Family
+AT5G54290	AT5G54290.2	5.A.1	PF02683	99.4;6e-186	cytochrome c biogenesis protein family	The Disulfide Bond Oxidoreductase D (DsbD) Family
+ATCG01100	ATCG01100.1	3.D.1	PF00146	100.0;1.8e-198	NADH dehydrogenase family protein	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT1G64990	AT1G64990.1	1.A.38	PF12537,PF12430	80.8;5.4e-211	GPCR-type G protein 1	The Golgi pH Regulator (GPHR) Family
+ATCG00510	ATCG00510.1	5.B.4	PF00796	100.0;1.7e-14	photsystem I subunit I	The Plant Photosystem I Supercomplex (PSI) Family
+AT5G02410	AT5G02410.1	9.B.231	PF04922	100.0;2.3e-292	DIE2/ALG10 family	The Die2/ALG10 Glycosyl Transferase (Die2/ALG10) Family
+AT3G08930	AT3G08930.1	9.A.54	PF04791	85.1;3.4e-251	LMBR1-like membrane protein	The Lysosomal Cobalamin (B12) Transporter (L-B12T) Family
+ATCG01000	ATCG01000.1	3.A.9	PF05758	99.7;6.4e-193	Ycf1 protein	The Chloroplast Envelope Protein Translocase (CEPT or Tic-Toc) Family
+AT1G29910	AT1G29910.1	3.E.2	PF00504	100.0;4.1e-155	chlorophyll A/B binding protein 3	The Photosynthetic Reaction Center (PRC) Family
+AT4G12800	AT4G12800.1	5.B.4	PF02605	100.0;3.9e-119	photosystem I subunit l	The Plant Photosystem I Supercomplex (PSI) Family
+AT1G63260	AT1G63260.1	8.A.40	PF00335	100.0;4.1e-153	tetraspanin10	The Tetraspanin (Tetraspanin) Family
+AT1G64060	AT1G64060.1	5.B.1	PF01794,PF08414,PF08030,PF08022	100.0;0.0	respiratory burst oxidase protein F	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT2G19450	AT2G19450.1	2.A.50	PF13813,PF03062	93.0;1.3e-186	membrane bound O-acyl transferase (MBOAT) family protein	The Glycerol Uptake (GUP) or Membrane-bound Acyl Transferase (MBOAT) Family
+ATMG00370	ATMG00370.1	3.A.9	PF05758	92.0;3.1e-91		The Chloroplast Envelope Protein Translocase (CEPT or Tic-Toc) Family
+AT4G10340	AT4G10340.1	3.E.2	PF00504	100.0;6.2e-162	light harvesting complex of photosystem II 5	The Photosynthetic Reaction Center (PRC) Family
+ATCG00350	ATCG00350.1	5.B.4	PF00223	100.0;0.0	Photosystem I, PsaA/PsaB protein	The Plant Photosystem I Supercomplex (PSI) Family
+AT5G54270	AT5G54270.1	3.E.2	PF00504	100.0;1.5e-157	light-harvesting chlorophyll B-binding protein 3	The Photosynthetic Reaction Center (PRC) Family
+AT3G59520	AT3G59520.1	9.B.104	PF01694	83.6;6e-130	RHOMBOID-like protein 13	The Rhomboid Protease (Rhomboid) Family
+AT2G34430	AT2G34430.1	3.E.2	PF00504	95.1;1.8e-147	light-harvesting chlorophyll-protein complex II subunit B1	The Photosynthetic Reaction Center (PRC) Family
+AT1G63260	AT1G63260.4	8.A.40	PF00335	94.2;5.8e-88	tetraspanin10	The Tetraspanin (Tetraspanin) Family
+AT4G06676	AT4G06676.2	2.A.121	PF07264	100.0;3.4e-174	etoposide-induced protein	The Sulfate Transporter (CysZ) Family
+AT3G04370	AT3G04370.1	1.I.2	PF01657	100.0;2.4e-186	plasmodesmata-located protein 4	The Plant Plasmodesmata (PPD) Family
+AT1G30380	AT1G30380.1	5.B.4	PF01241	100.0;1.3e-66	photosystem I subunit K	The Plant Photosystem I Supercomplex (PSI) Family
+ATCG00340	ATCG00340.1	5.B.4	PF00223	100.0;0.0	Photosystem I, PsaA/PsaB protein	The Plant Photosystem I Supercomplex (PSI) Family
+AT2G01660	AT2G01660.3	1.I.2	PF01657	100.0;5.4e-153	plasmodesmata-located protein 6	The Plant Plasmodesmata (PPD) Family
+AT1G63260	AT1G63260.6	8.A.40	PF00335	100.0;4.1e-153	tetraspanin10	The Tetraspanin (Tetraspanin) Family
+AT3G16090	AT3G16090.1	3.A.16	PF25563,PF13639,PF13445,PF13923,PF00097,PF12678	100.0;2.3e-268	RING/U-box superfamily protein	The Endoplasmic Reticular Retrotranslocon (ER-RT) Family
+AT1G31330	AT1G31330.1	5.B.4	PF02507	100.0;1.1e-121	photosystem I subunit F	The Plant Photosystem I Supercomplex (PSI) Family
+AT1G29930	AT1G29930.1	3.E.2	PF00504	99.6;2.7e-154	chlorophyll A/B binding protein 1	The Photosynthetic Reaction Center (PRC) Family
+AT2G05070	AT2G05070.1	3.E.2	PF00504	98.1;5.9e-154	photosystem II light harvesting complex protein 2.2	The Photosynthetic Reaction Center (PRC) Family
+AT4G22270	AT4G22270.1	1.A.69	PF12056	100.0;5.7e-247	transmembrane protein, putative (DUF3537)	The Heteromeric Odorant Receptor Channel (HORC) Family
+AT1G01580	AT1G01580.1	5.B.1	PF01794,PF00175,PF08030,PF08022	100.0;0.0	ferric reduction oxidase 2	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT3G61470	AT3G61470.1	5.B.4	PF00504	100.0;5.7e-154	photosystem I light harvesting complex protein	The Plant Photosystem I Supercomplex (PSI) Family
+AT1G65040	AT1G65040.1	3.A.16	PF25563,PF13639,PF13445,PF13923,PF00097,PF12678	100.0;3.5e-141	RING/U-box superfamily protein	The Endoplasmic Reticular Retrotranslocon (ER-RT) Family
+AT1G70690	AT1G70690.1	1.I.2	PF01657	100.0;4.6e-171	Receptor-like protein kinase-related family protein	The Plant Plasmodesmata (PPD) Family
+AT3G07570	AT3G07570.1	5.B.2	PF03188,PF03351	100.0;1.3e-212	Cytochrome b561/ferric reductase transmembrane with DOMON related domain-containing protein	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT3G11820	AT3G11820.2	8.A.91	PF00804,PF05739	100.0;1.3e-144	syntaxin of plants 121	The Syntaxin (Syntaxin) Family
+AT4G32670	AT4G32670.2	3.A.16	PF23113,PF12906	100.0;0.0	RING/FYVE/PHD zinc finger superfamily protein	The Endoplasmic Reticular Retrotranslocon (ER-RT) Family
+AT5G43980	AT5G43980.1	1.I.2	PF01657	100.0;5.9e-142	plasmodesmata-located protein 1	The Plant Plasmodesmata (PPD) Family
+AT4G12980	AT4G12980.1	5.B.2	PF03188,PF04526	100.0;1.7e-226	Auxin-responsive family protein	The Eukaryotic Cytochrome b561 (Cytb561) Family
+AT5G46860	AT5G46860.1	8.A.91	PF14523,PF05739	100.0;3.4e-101	Syntaxin/t-SNARE family protein	The Syntaxin (Syntaxin) Family
+AT2G34420	AT2G34420.1	3.E.2	PF00504	97.0;6.7e-150	photosystem II light harvesting complex protein B1B2	The Photosynthetic Reaction Center (PRC) Family
+AT2G21600	AT2G21600.1	9.B.82	PF03248	84.2;1.3e-89	endoplasmatic reticulum retrieval protein 1B	The Endoplasmic Reticulum Retrieval Protein1 (Putative Heavy Metal Transporter) (Rer1) Family
+AT2G01660	AT2G01660.1	1.I.2	PF01657	100.0;2.9e-154	plasmodesmata-located protein 6	The Plant Plasmodesmata (PPD) Family
+AT1G29920	AT1G29920.1	3.E.2	PF00504	100.0;4.1e-155	chlorophyll A/B-binding protein 2	The Photosynthetic Reaction Center (PRC) Family
+ATCG00720	ATCG00720.1	3.D.3	PF00033,PF13631	100.0;1.1e-121	photosynthetic electron transfer B	The Proton-translocating Quinol:Cytochrome c Reductase (QCR) Superfamily
+AT1G04945	AT1G04945.3	3.A.9	PF25790,PF04438,PF16166	100.0;4.4e-147	HIT-type Zinc finger family protein	The Chloroplast Envelope Protein Translocase (CEPT or Tic-Toc) Family
+AT4G27630	AT4G27630.1	1.A.38	PF12537,PF12430	82.6;7e-147	GPCR-type G protein 2	The Golgi pH Regulator (GPHR) Family
+AT1G10950	AT1G10950.1	8.A.68	PF02990	98.8;3.1e-314	transmembrane nine 1	The Endomembrane protein-70 (EMP70) Family
+AT5G38630	AT5G38630.1	5.B.2	PF03188	100.0;5.9e-126	cytochrome B561-1	The Eukaryotic Cytochrome b561 (Cytb561) Family
+ATCG00890	ATCG00890.1	3.D.1	PF00361	98.2;2.6e-211	NADH-Ubiquinone/plastoquinone (complex I) protein	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT3G27690	AT3G27690.1	3.E.2	PF00504	95.8;1.6e-151	photosystem II light harvesting complex protein 2.3	The Photosynthetic Reaction Center (PRC) Family
+AT1G48270	AT1G48270.2	9.A.14	PF00002,PF05462	100.0;1.3e-190	G-protein-coupled receptor 1	The G-protein-coupled receptor (GPCR) Family
+ATCG00440	ATCG00440.1	3.D.1	PF00507	100.0;1.5e-61	NADH:ubiquinone/plastoquinone oxidoreductase, chain 3 protein	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+ATCG00140	ATCG00140.1	3.A.2	PF00137	86.2;1.5e-28	ATP synthase subunit C family protein	The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily
+AT4G34100	AT4G34100.1	3.A.16	PF23113,PF12906	100.0;0.0	RING/U-box superfamily protein	The Endoplasmic Reticular Retrotranslocon (ER-RT) Family
+ATCG00730	ATCG00730.1	3.D.3	PF00032	100.0;4.7e-90	photosynthetic electron transfer D	The Proton-translocating Quinol:Cytochrome c Reductase (QCR) Superfamily
+ATCG00300	ATCG00300.1	3.E.2	PF01737	100.0;7.1e-26	YCF9	The Photosynthetic Reaction Center (PRC) Family
+AT2G38905	AT2G38905.1	9.B.12	PF01679	86.8;1.9e-19	Low temperature and salt responsive protein family	The Sensitivity to Sodium or Salt Stress-induced Hydrophobic Peptide (Sna) Family
+AT2G20230	AT2G20230.1	8.A.40	PF00335	100.0;1.1e-152	Tetraspanin family protein	The Tetraspanin (Tetraspanin) Family
+AT1G65040	AT1G65040.3	3.A.16	PF25563,PF13639,PF13445,PF13923,PF00097,PF12678	84.6;1.8e-191	RING/U-box superfamily protein	The Endoplasmic Reticular Retrotranslocon (ER-RT) Family
+ATCG00270	ATCG00270.1	3.E.2	PF00124	100.0;1.2e-210	photosystem II reaction center protein D	The Photosynthetic Reaction Center (PRC) Family
+AT4G29870	AT4G29870.1	1.A.76	PF04756	88.4;1.1e-79	Oligosaccharyltransferase complex/magnesium transporter family protein	The Magnesium Transporter1 (MagT1) Family
+AT1G61520	AT1G61520.1	5.B.4	PF00504	99.3;4.2e-155	PSI type III chlorophyll a/b-binding protein	The Plant Photosystem I Supercomplex (PSI) Family
+AT1G15820	AT1G15820.1	3.E.2	PF00504	100.0;4.2e-149	light harvesting complex photosystem II subunit 6	The Photosynthetic Reaction Center (PRC) Family
+AT5G50160	AT5G50160.2	5.B.1	PF01794,PF00175,PF08030,PF08022	97.3;7.3e-308	ferric reduction oxidase 8	The Phagocyte (gp91phox) NADPH Oxidase Family
+ATCG00020	ATCG00020.1	3.E.2	PF00124	100.0;4e-206	photosystem II reaction center protein A	The Photosynthetic Reaction Center (PRC) Family
+AT2G33220	AT2G33220.1	3.D.1	PF06212	97.2;4.4e-79	GRIM-19 protein	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT1G70760	AT1G70760.1	3.D.1	PF10716	100.0;9.2e-109	inorganic carbon transport protein-like protein	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT4G29330	AT4G29330.1	3.A.16	PF04511	100.0;7.5e-141	DERLIN-1	The Endoplasmic Reticular Retrotranslocon (ER-RT) Family
+AT4G21810	AT4G21810.1	3.A.16	PF04511	100.0;3.5e-137	DERLIN-2.1	The Endoplasmic Reticular Retrotranslocon (ER-RT) Family
+AT3G11820	AT3G11820.1	8.A.91	PF00804,PF05739	100.0;2.6e-162	syntaxin of plants 121	The Syntaxin (Syntaxin) Family
+AT2G05100	AT2G05100.2	3.E.2	PF00504	99.2;1e-136	photosystem II light harvesting complex protein 2.1	The Photosynthetic Reaction Center (PRC) Family
+AT4G22270	AT4G22270.2	1.A.69	PF12056	100.0;1.6e-244	transmembrane protein, putative (DUF3537)	The Heteromeric Odorant Receptor Channel (HORC) Family
+AT5G01530	AT5G01530.1	3.E.2	PF00504	100.0;6.6e-167	light harvesting complex photosystem II	The Photosynthetic Reaction Center (PRC) Family
+AT2G07739	AT2G07739.1	3.A.9	PF05758	91.5;2e-90	Ycf1 protein	The Chloroplast Envelope Protein Translocase (CEPT or Tic-Toc) Family
+AT3G14570	AT3G14570.2	9.B.119	PF25968,PF04652,PF02364,PF14288	98.7;0.0	glucan synthase-like 4	The Glycan Synthase, Fks1 (Fks1) Family
+AT5G47180	AT5G47180.1	9.B.17	PF22076,PF00635	100.0;1.8e-108	Plant VAMP (vesicle-associated membrane protein) family protein	The VAMP-associated protein (VAP) Family
+AT4G28770	AT4G28770.2	8.A.40	PF00335	99.6;5.7e-151	Tetraspanin family protein	The Tetraspanin (Tetraspanin) Family
+AT3G08940	AT3G08940.2	3.E.2	PF00504	88.6;2.4e-145	light harvesting complex photosystem II	The Photosynthetic Reaction Center (PRC) Family
+AT4G12800	AT4G12800.2	5.B.4	PF02605	100.0;1.3e-119	photosystem I subunit l	The Plant Photosystem I Supercomplex (PSI) Family
+AT3G60720	AT3G60720.3	1.I.2	PF01657	100.0;6e-144	plasmodesmata-located protein 8	The Plant Plasmodesmata (PPD) Family
+AT1G63260	AT1G63260.3	8.A.40	PF00335	100.0;8.6e-140	tetraspanin10	The Tetraspanin (Tetraspanin) Family
+AT4G16450	AT4G16450.2	3.D.1	PF10785	100.0;3.9e-56	NADH-ubiquinone oxidoreductase	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+ATCG01080	ATCG01080.1	3.D.1	PF00499	100.0;2.3e-90	NADH:ubiquinone/plastoquinone oxidoreductase, chain 6	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT1G08560	AT1G08560.1	8.A.91	PF00804,PF05739	100.0;5.3e-162	syntaxin of plants 111	The Syntaxin (Syntaxin) Family
+AT2G19340	AT2G19340.2	1.A.76	PF04756	100.0;8.7e-90	Oligosaccharyltransferase complex/magnesium transporter family protein	The Magnesium Transporter1 (MagT1) Family
+AT3G05880	AT3G05880.1	9.B.12	PF01679	100.0;7.5e-24	Low temperature and salt responsive protein family	The Sensitivity to Sodium or Salt Stress-induced Hydrophobic Peptide (Sna) Family
+AT5G37660	AT5G37660.2	1.I.2	PF01657	100.0;3.6e-168	plasmodesmata-located protein 7	The Plant Plasmodesmata (PPD) Family
+ATCG01050	ATCG01050.1	3.D.1	PF00361	100.0;4.4e-283	NADH-plastoquinone oxidoreductase subunit	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT5G19620	AT5G19620.1	1.B.33	PF07244,PF01103	100.0;0.0	outer envelope protein of 80 kDa	The Outer Membrane Protein Insertion Porin (Bam Complex) (OmpIP) Family
+AT4G16444	AT4G16444.1	3.A.19	PF04420	100.0;4.2e-95	tail-anchored protein insertion receptor WRB-like protein	The Guided Entry of Tail Anchored Protein (GET) Family
+AT4G32670	AT4G32670.1	3.A.16	PF23113,PF12906	100.0;0.0	RING/FYVE/PHD zinc finger superfamily protein	The Endoplasmic Reticular Retrotranslocon (ER-RT) Family
+AT5G57810	AT5G57810.1	8.A.40	PF00335	100.0;6.8e-173	tetraspanin15	The Tetraspanin (Tetraspanin) Family
+AT1G43910	AT1G43910.1	3.A.28	PF00004,PF05496,PF14363,PF25568	100.0;1.1e-256	P-loop containing nucleoside triphosphate hydrolases superfamily protein	The AAA-ATPase, Bcs1 (Bcs1) Family
+AT4G16450	AT4G16450.1	3.D.1	PF10785	100.0;3.9e-56	NADH-ubiquinone oxidoreductase	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT2G19340	AT2G19340.1	1.A.76	PF04756	100.0;9.1e-83	Oligosaccharyltransferase complex/magnesium transporter family protein	The Magnesium Transporter1 (MagT1) Family
+AT1G48270	AT1G48270.1	9.A.14	PF00002,PF05462	100.0;1.3e-190	G-protein-coupled receptor 1	The G-protein-coupled receptor (GPCR) Family
+AT1G65040	AT1G65040.2	3.A.16	PF25563,PF13639,PF13445,PF13923,PF00097,PF12678	100.0;3.9e-238	RING/U-box superfamily protein	The Endoplasmic Reticular Retrotranslocon (ER-RT) Family
+AT5G03345	AT5G03345.1	1.A.67	PF10270	88.5;1.8e-50	membrane magnesium transporter-like protein	The Membrane Mg2+ Transporter (MMgT) Family 
+AT2G05100	AT2G05100.1	3.E.2	PF00504	100.0;7.4e-157	photosystem II light harvesting complex protein 2.1	The Photosynthetic Reaction Center (PRC) Family
+AT1G55670	AT1G55670.1	5.B.4	PF01241	100.0;1.7e-84	photosystem I subunit G	The Plant Photosystem I Supercomplex (PSI) Family
+AT2G31260	AT2G31260.1	9.A.15	PF04109	100.0;0.0	autophagy 9 (APG9)	The Autophagy-related Phagophore-formation Transporter (APT) Family
+AT2G33220	AT2G33220.2	3.D.1	PF06212	97.2;1e-77	GRIM-19 protein	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT1G61520	AT1G61520.3	5.B.4	PF00504	99.3;4.2e-155	PSI type III chlorophyll a/b-binding protein	The Plant Photosystem I Supercomplex (PSI) Family
+AT1G04520	AT1G04520.1	1.I.2	PF01657	100.0;2e-145	plasmodesmata-located protein 2	The Plant Plasmodesmata (PPD) Family
+AT4G39220	AT4G39220.1	9.B.82	PF03248	100.0;4.6e-108	Rer1 family protein	The Endoplasmic Reticulum Retrieval Protein1 (Putative Heavy Metal Transporter) (Rer1) Family
+AT4G04860	AT4G04860.1	3.A.16	PF04511	100.0;1.7e-136	DERLIN-2.2	The Endoplasmic Reticular Retrotranslocon (ER-RT) Family
+AT1G52230	AT1G52230.1	5.B.4	PF03244	100.0;1.4e-77	photosystem I subunit H2	The Plant Photosystem I Supercomplex (PSI) Family
+ATCG00280	ATCG00280.1	3.E.2	PF00421	100.0;8.5e-289	photosystem II reaction center protein C	The Photosynthetic Reaction Center (PRC) Family
+AT1G64990	AT1G64990.2	1.A.38	PF12537,PF12430	80.8;5.4e-211	GPCR-type G protein 1	The Golgi pH Regulator (GPHR) Family
+AT3G27690	AT3G27690.2	3.E.2	PF00504	95.8;1.8e-151	photosystem II light harvesting complex protein 2.3	The Photosynthetic Reaction Center (PRC) Family
+ATMG00180	ATMG00180.1	9.B.14	PF16327	97.1;8e-252	cytochrome C biogenesis 452	The Putative Heme Handling Protein (HHP) Family
+ATCG00680	ATCG00680.1	3.E.2	PF00421	100.0;1.6e-312	photosystem II reaction center protein B	The Photosynthetic Reaction Center (PRC) Family
+ATCG00630	ATCG00630.1	5.B.4	PF01701	100.0;2e-19	PSAJ	The Plant Photosystem I Supercomplex (PSI) Family
+AT4G14870	AT4G14870.1	3.A.5	PF00584	100.0;1.5e-76	secE/sec61-gamma protein transport protein	The General Secretory Pathway (Sec) Family
+AT5G37660	AT5G37660.1	1.I.2	PF01657	100.0;8.3e-162	plasmodesmata-located protein 7	The Plant Plasmodesmata (PPD) Family
+ATCG01130	ATCG01130.1	3.A.9	PF05758	99.9;0.0	Ycf1 protein	The Chloroplast Envelope Protein Translocase (CEPT or Tic-Toc) Family
+AT4G27630	AT4G27630.6	1.A.38	PF12537,PF12430	82.6;7e-147	GPCR-type G protein 2	The Golgi pH Regulator (GPHR) Family
+AT1G65040	AT1G65040.4	3.A.16	PF25563,PF13639,PF13445,PF13923,PF00097,PF12678	95.0;9.8e-223	RING/U-box superfamily protein	The Endoplasmic Reticular Retrotranslocon (ER-RT) Family
+AT3G60720	AT3G60720.1	1.I.2	PF01657	100.0;4e-145	plasmodesmata-located protein 8	The Plant Plasmodesmata (PPD) Family
+AT2G13680	AT2G13680.1	9.B.119	PF25968,PF04652,PF02364,PF14288	100.0;0.0	callose synthase 5	The Glycan Synthase, Fks1 (Fks1) Family
+AT3G58460	AT3G58460.1	9.B.104	PF01694,PF04511,PF00627	90.4;8.8e-202	RHOMBOID-like protein 15	The Rhomboid Protease (Rhomboid) Family
+AT2G33330	AT2G33330.1	1.I.2	PF01657	100.0;1.3e-144	plasmodesmata-located protein 3	The Plant Plasmodesmata (PPD) Family
+ATCG01010	ATCG01010.1	3.D.1	PF01010,PF00662,PF00361	100.0;0.0	NADH-Ubiquinone oxidoreductase (complex I), chain 5 protein	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family
+AT4G06676	AT4G06676.1	2.A.121	PF07264	100.0;9.5e-183	etoposide-induced protein	The Sulfate Transporter (CysZ) Family
+AT4G28770	AT4G28770.1	8.A.40	PF00335	100.0;9.9e-152	Tetraspanin family protein	The Tetraspanin (Tetraspanin) Family
+AT1G01580	AT1G01580.2	5.B.1	PF01794,PF00175,PF08030,PF08022	100.0;0.0	ferric reduction oxidase 2	The Phagocyte (gp91phox) NADPH Oxidase Family
+AT5G01460	AT5G01460.1	9.A.54	PF04791	87.0;1.7e-255	LMBR1-like membrane protein	The Lysosomal Cobalamin (B12) Transporter (L-B12T) Family
+AT3G13772	AT3G13772.1	8.A.68	PF02990	100.0;0.0	transmembrane nine 7	The Endomembrane protein-70 (EMP70) Family
+AT2G30570	AT2G30570.1	3.E.2	PF07123	100.0;5.2e-66	photosystem II reaction center W	The Photosynthetic Reaction Center (PRC) Family
+AT4G29330	AT4G29330.2	3.A.16	PF04511	100.0;1.3e-114	DERLIN-1	The Endoplasmic Reticular Retrotranslocon (ER-RT) Family
+AT5G47180	AT5G47180.2	9.B.17	PF22076,PF00635	100.0;1.8e-108	Plant VAMP (vesicle-associated membrane protein) family protein	The VAMP-associated protein (VAP) Family
+AT1G01910	AT1G01910.2	3.A.19	PF13614,PF01656,PF02374		
+AT1G01910	AT1G01910.5	3.A.19	PF13614,PF01656,PF02374		
+AT1G01910	AT1G01910.3	3.A.19	PF13614,PF01656,PF02374		
+AT1G01910	AT1G01910.4	3.A.19	PF13614,PF01656,PF02374		
+AT1G01910	AT1G01910.1	3.A.19	PF13614,PF01656,PF02374		
+AT1G02280	AT1G02280.2	3.A.9	PF01926,PF04548,PF03193		
+AT1G02280	AT1G02280.1	3.A.9	PF01926,PF04548,PF03193		
+AT1G03070	AT1G03070.2	1.A.14	PF01027		
+AT1G03070	AT1G03070.1	1.A.14	PF01027		
+AT1G03070	AT1G03070.3	1.A.14	PF01027		
+AT1G03905	AT1G03905.1	3.A.1	PF13304,PF00005		
+AT1G03905	AT1G03905.2	3.A.1	PF13304,PF00005		
+AT1G03905	AT1G03905.3	3.A.1	PF13304,PF00005		
+AT1G03905	AT1G03905.4	3.A.1	PF13304,PF00005		
+AT1G04940	AT1G04940.1	3.A.9	PF16166		
+AT1G06950	AT1G06950.1	3.A.9	PF22915,PF16940		
+AT1G08700	AT1G08700.1	1.A.54	PF01080		
+AT1G08980	AT1G08980.1	3.A.9	PF01425		
+AT1G15310	AT1G15310.1	3.A.5	PF02492,PF02881,PF02978,PF00448		
+AT1G15700	AT1G15700.1	3.A.2	PF00231		
+AT1G16820	AT1G16820.1	3.A.2			
+AT1G16820	AT1G16820.3	3.A.2			
+AT1G16820	AT1G16820.4	3.A.2			
+AT1G16820	AT1G16820.2	3.A.2			
+AT1G17530	AT1G17530.2	3.A.8	PF02466		
+AT1G17530	AT1G17530.1	3.A.8	PF02466		
+AT1G18320	AT1G18320.1	3.A.8	PF02466		
+AT1G19550	AT1G19550.1	1.A.12	PF00043,PF13410,PF13417		
+AT1G19570	AT1G19570.1	1.A.12	PF02798,PF13410,PF22441,PF13417,PF00043,PF13409		
+AT1G19910	AT1G19910.1	3.A.2	PF00137		
+AT1G19910	AT1G19910.2	3.A.2	PF00137		
+AT1G20350	AT1G20350.1	3.A.8	PF02466		
+AT1G24490	AT1G24490.1	2.A.9	PF02096		
+AT1G24490	AT1G24490.2	2.A.9	PF02096		
+AT1G25500	AT1G25500.2	2.A.92	PF04515		
+AT1G25500	AT1G25500.3	2.A.92	PF04515		
+AT1G25500	AT1G25500.1	2.A.92	PF04515		
+AT1G29310	AT1G29310.2	3.A.5	PF10559,PF00344		
+AT1G29310	AT1G29310.1	3.A.5	PF10559,PF00344		
+AT1G32500	AT1G32500.1	3.A.1	PF19295,PF01458		
+AT1G35720	AT1G35720.1	1.A.31	PF00191		
+AT1G35860	AT1G35860.1	1.B.33	PF25282,PF25280,PF01103		
+AT1G42470	AT1G42470.1	2.A.6	PF12349,PF16414,PF02460,PF22314		
+AT1G43310	AT1G43310.1	2.A.7	PF03151		
+AT1G48160	AT1G48160.1	3.A.5	PF01922		
+AT1G48160	AT1G48160.2	3.A.5	PF01922		
+AT1G48635	AT1G48635.2	9.A.17	PF04882		
+AT1G48635	AT1G48635.1	9.A.17	PF04882		
+AT1G48900	AT1G48900.1	3.A.5	PF02492,PF02881,PF02978,PF00448		
+AT1G48900	AT1G48900.2	3.A.5	PF02492,PF02881,PF02978,PF00448		
+AT1G49260	AT1G49260.1	1.A.23			
+AT1G50400	AT1G50400.1	1.B.8	PF01459		
+AT1G52180	AT1G52180.1	1.A.8	PF00230		
+AT1G57600	AT1G57600.3	2.A.50	PF03062		
+AT1G57600	AT1G57600.2	2.A.50	PF03062		
+AT1G57600	AT1G57600.1	2.A.50	PF03062		
+AT1G57600	AT1G57600.4	2.A.50	PF03062		
+AT1G67650	AT1G67650.1	3.A.5	PF13174,PF08492,PF14559,PF13428,PF17004,PF25062		
+AT1G67680	AT1G67680.1	3.A.5	PF13174,PF08492,PF14559,PF13428,PF17004		
+AT1G68090	AT1G68090.1	1.A.31	PF00191		
+AT1G68090	AT1G68090.2	1.A.31	PF00191		
+AT1G71330	AT1G71330.1	3.A.1	PF00005		
+AT1G72750	AT1G72750.1	3.A.8	PF02466		
+AT1G75270	AT1G75270.1	1.A.12	PF02798,PF13410,PF22441,PF13417,PF13409		
+AT1G75630	AT1G75630.1	3.A.2	PF00137		
+AT1G75630	AT1G75630.2	3.A.2	PF00137		
+AT1G76490	AT1G76490.1	2.A.6	PF00368		
+AT1G78720	AT1G78720.1	3.A.5	PF10559,PF00344		
+AT1G78720	AT1G78720.2	3.A.5	PF10559,PF00344		
+AT1G78720	AT1G78720.3	3.A.5	PF10559,PF00344		
+AT2G01110	AT2G01110.1	2.A.64	PF00902		
+AT2G02590	AT2G02590.1	2.A.7	PF06695		
+AT2G07671	AT2G07671.1	3.A.2	PF00137		
+AT2G07681	AT2G07681.1	9.B.14	PF01578		
+AT2G07698	AT2G07698.1	3.A.2	PF00306,PF02874,PF00006
+ATMG01190	ATMG01190.1	3.A.2	PF00306,PF02874,PF00006		
+AT2G07741	AT2G07741.1	3.A.2	PF00119		
+AT2G07771	AT2G07771.2	9.B.14	PF01578		
+AT2G16510	AT2G16510.1	3.A.2	PF00137		
+AT2G16640	AT2G16640.2	3.A.9	PF04548,PF01926,PF11886		
+AT2G16640	AT2G16640.1	3.A.9	PF04548,PF01926,PF11886		
+AT2G16640	AT2G16640.3	3.A.9	PF04548,PF01926,PF11886		
+AT2G16835	AT2G16835.1	1.A.8	PF00230		
+AT2G17370	AT2G17370.1	2.A.6	PF00368		
+AT2G18710	AT2G18710.1	3.A.5	PF00344		
+AT2G25610	AT2G25610.1	3.A.2	PF00137		
+AT2G25610	AT2G25610.2	3.A.2	PF00137		
+AT2G26350	AT2G26350.3	3.A.20	PF13639,PF04757,PF13920,PF15227,PF13923,PF00097		
+AT2G26350	AT2G26350.5	3.A.20	PF13639,PF04757,PF13920,PF15227,PF13923,PF00097		
+AT2G26350	AT2G26350.2	3.A.20	PF13639,PF04757,PF13920,PF15227,PF13923,PF00097		
+AT2G26350	AT2G26350.4	3.A.20	PF13639,PF04757,PF13920,PF15227,PF13923,PF00097		
+AT2G26350	AT2G26350.1	3.A.20	PF13639,PF04757,PF13920,PF15227,PF13923,PF00097		
+AT2G28800	AT2G28800.4	2.A.9	PF02096		
+AT2G28800	AT2G28800.2	2.A.9	PF02096		
+AT2G28800	AT2G28800.1	2.A.9	PF02096		
+AT2G28800	AT2G28800.3	2.A.9	PF02096		
+AT2G29870	AT2G29870.1	1.A.8	PF00230		
+AT2G29900	AT2G29900.1	1.A.54	PF01080		
+AT2G31530	AT2G31530.1	3.A.5	PF00344		
+AT2G33040	AT2G33040.1	3.A.2	PF00231		
+AT2G34250	AT2G34250.2	3.A.5	PF10559,PF00344		
+AT2G34250	AT2G34250.3	3.A.5	PF10559,PF00344		
+AT2G34250	AT2G34250.1	3.A.5	PF10559,PF00344		
+AT2G37410	AT2G37410.2	3.A.8	PF02466		
+AT2G37410	AT2G37410.1	3.A.8	PF02466		
+AT2G38750	AT2G38750.1	1.A.31	PF00191		
+AT2G38750	AT2G38750.2	1.A.31	PF00191		
+AT2G38760	AT2G38760.1	1.A.31	PF00191		
+AT2G42210	AT2G42210.4	1.B.30	PF02466		
+AT2G42210	AT2G42210.3	1.B.30	PF02466		
+AT2G42210	AT2G42210.5	1.B.30	PF02466		
+AT2G42210	AT2G42210.1	1.B.30	PF02466		
+AT2G42210	AT2G42210.2	1.B.30	PF02466		
+AT2G43640	AT2G43640.2	3.A.5	PF02290		
+AT2G43640	AT2G43640.3	3.A.5	PF02290		
+AT2G43640	AT2G43640.1	3.A.5	PF02290		
+AT2G45070	AT2G45070.4	3.A.5	PF03911		
+AT2G45070	AT2G45070.3	3.A.5	PF03911		
+AT2G45070	AT2G45070.1	3.A.5	PF03911		
+AT2G45070	AT2G45070.2	3.A.5	PF03911		
+AT2G45690	AT2G45690.1	9.A.17	PF08610		
+AT2G45770	AT2G45770.1	3.A.5	PF25199,PF02881,PF00448		
+AT2G46470	AT2G46470.1	2.A.9	PF02096		
+AT3G03490	AT3G03490.1	9.A.17	PF04614		
+AT3G04460	AT3G04460.2	3.A.20	PF04757		
+AT3G04460	AT3G04460.1	3.A.20	PF04757		
+AT3G04800	AT3G04800.1	3.A.8	PF02466		
+AT3G07430	AT3G07430.1	9.A.4	PF02325		
+AT3G10110	AT3G10110.3	3.A.8	PF02466		
+AT3G10110	AT3G10110.1	3.A.8	PF02466		
+AT3G10110	AT3G10110.4	3.A.8	PF02466		
+AT3G10110	AT3G10110.2	3.A.8	PF02466		
+AT3G10350	AT3G10350.1	3.A.19	PF10609,PF01656,PF02374		
+AT3G10350	AT3G10350.2	3.A.19	PF10609,PF01656,PF02374		
+AT3G10670	AT3G10670.1	9.B.29	PF00005		
+AT3G16620	AT3G16620.1	3.A.9	PF04548,PF01926,PF11886		
+AT3G17970	AT3G17970.1	3.A.9	PF01425,PF13431,PF07719,PF00515,PF13414		
+AT3G17970	AT3G17970.2	3.A.9	PF01425,PF13431,PF07719,PF00515,PF13414		
+AT3G18160	AT3G18160.2	9.A.17	PF04882		
+AT3G18160	AT3G18160.1	9.A.17	PF04882		
+AT3G18160	AT3G18160.3	9.A.17	PF04882		
+AT3G18700	AT3G18700.1	3.A.3	PF16212		
+AT3G20000	AT3G20000.2	1.B.8	PF01459		
+AT3G20000	AT3G20000.1	1.B.8	PF01459		
+AT3G20920	AT3G20920.1	1.A.15	PF03839		
+AT3G20920	AT3G20920.2	1.A.15	PF03839		
+AT3G21080	AT3G21080.1	3.A.1			
+AT3G23710	AT3G23710.2	3.A.9	PF04278		
+AT3G23710	AT3G23710.1	3.A.9	PF04278		
+AT3G46740	AT3G46740.1	1.B.33	PF07244,PF25282,PF25280,PF01103		
+AT3G48570	AT3G48570.1	3.A.5	PF00584		
+AT3G49100	AT3G49100.2	3.A.5	PF05486		
+AT3G49100	AT3G49100.1	3.A.5	PF05486		
+AT3G52300	AT3G52300.1	3.A.2	PF05873		
+AT3G52300	AT3G52300.2	3.A.2	PF05873		
+AT3G60070	AT3G60070.4	2.A.2	PF13347,PF07690		
+AT3G60070	AT3G60070.6	2.A.2	PF13347,PF07690		
+AT3G60070	AT3G60070.1	2.A.2	PF13347,PF07690		
+AT3G60070	AT3G60070.2	2.A.2	PF13347,PF07690		
+AT3G60070	AT3G60070.5	2.A.2	PF13347,PF07690		
+AT3G60070	AT3G60070.3	2.A.2	PF13347,PF07690		
+AT3G60540	AT3G60540.1	3.A.5	PF03911		
+AT3G60540	AT3G60540.3	3.A.5	PF03911		
+AT3G60540	AT3G60540.2	3.A.5	PF03911		
+AT3G63310	AT3G63310.1	1.A.14	PF01027		
+AT4G01800	AT4G01800.3	3.A.5	PF07517,PF21090,PF01043,PF07516,PF00270		
+AT4G01800	AT4G01800.2	3.A.5	PF07517,PF21090,PF01043,PF07516,PF00270		
+AT4G01800	AT4G01800.1	3.A.5	PF07517,PF21090,PF01043,PF07516,PF00270		
+AT4G02690	AT4G02690.2	1.A.14	PF01027		
+AT4G02690	AT4G02690.1	1.A.14	PF01027		
+AT4G03320	AT4G03320.1	3.A.9	PF16166		
+AT4G03950	AT4G03950.1	2.A.7	PF03151		
+AT4G04640	AT4G04640.1	3.A.2	PF00231		
+AT4G04770	AT4G04770.1	3.A.1	PF19295,PF01458		
+AT4G07390	AT4G07390.2	2.A.43	PF04193		
+AT4G07390	AT4G07390.1	2.A.43	PF04193		
+AT4G08895	AT4G08895.1	2.A.1	PF00083		
+AT4G09080	AT4G09080.2	1.B.33	PF01103		
+AT4G09080	AT4G09080.1	1.B.33	PF01103		
+AT4G09080	AT4G09080.3	1.B.33	PF01103		
+AT4G14730	AT4G14730.1	1.A.14	PF01027		
+AT4G15470	AT4G15470.1	1.A.14	PF01027		
+AT4G17580	AT4G17580.1	1.A.14	PF01027		
+AT4G21180	AT4G21180.2	3.A.5	PF00226,PF02889		
+AT4G21180	AT4G21180.1	3.A.5	PF00226,PF02889		
+AT4G24920	AT4G24920.2	3.A.5	PF00584		
+AT4G24920	AT4G24920.1	3.A.5	PF00584		
+AT4G24980	AT4G24980.1	2.A.7	PF00892		
+AT4G26670	AT4G26670.1	3.A.8	PF02466		
+AT4G26780	AT4G26780.1	3.A.8	PF01025		
+AT4G27990	AT4G27990.1	9.A.4	PF02325		
+AT4G30600	AT4G30600.1	3.A.5	PF13401,PF25199,PF02881,PF00448,PF04086		
+AT4G30600	AT4G30600.2	3.A.5	PF13401,PF25199,PF02881,PF00448,PF04086		
+AT4G32530	AT4G32530.2	3.A.2	PF00137		
+AT4G32530	AT4G32530.1	3.A.2	PF00137		
+AT4G33350	AT4G33350.1	3.A.9	PF04278		
+AT4G33350	AT4G33350.2	3.A.9	PF04278		
+AT4G34720	AT4G34720.2	3.A.2	PF00137		
+AT4G34720	AT4G34720.1	3.A.2	PF00137		
+AT4G38350	AT4G38350.1	2.A.6	PF12349,PF16414,PF02460,PF22314		
+AT4G38350	AT4G38350.2	2.A.6	PF12349,PF16414,PF02460,PF22314		
+AT4G38920	AT4G38920.2	3.A.2	PF00137		
+AT4G38920	AT4G38920.1	3.A.2	PF00137		
+AT5G02270	AT5G02270.1	3.A.1	PF13304,PF00005		
+AT5G02270	AT5G02270.2	3.A.1	PF13304,PF00005		
+AT5G03280	AT5G03280.1	2.A.55	PF01566		
+AT5G03940	AT5G03940.1	3.A.5	PF01656,PF02881,PF02978,PF00448		
+AT5G05000	AT5G05000.2	3.A.9	PF01926,PF04548,PF03193		
+AT5G05000	AT5G05000.1	3.A.9	PF01926,PF04548,PF03193		
+AT5G05000	AT5G05000.3	3.A.9	PF01926,PF04548,PF03193		
+AT5G08670	AT5G08670.1	3.A.2	PF22919,PF11421,PF02874,PF00006		
+AT5G08680	AT5G08680.1	3.A.2	PF22919,PF11421,PF02874,PF00006		
+AT5G08690	AT5G08690.1	3.A.2	PF22919,PF11421,PF02874,PF00006		
+AT5G09420	AT5G09420.1	3.A.9	PF01425,PF00515,PF07719,PF13414		
+AT5G09930	AT5G09930.1	3.A.1	PF13555,PF02463,PF13304,PF12848,PF00005		
+AT5G10220	AT5G10220.1	1.A.31	PF00191		
+AT5G10230	AT5G10230.1	1.A.31	PF00191		
+AT5G11690	AT5G11690.1	3.A.8	PF02466		
+AT5G12130	AT5G12130.1	2.A.109	PF03741		
+AT5G12130	AT5G12130.2	2.A.109	PF03741		
+AT5G12380	AT5G12380.1	1.A.31	PF00191		
+AT5G16710	AT5G16710.1	1.A.12	PF02798,PF13410,PF22441,PF13417,PF13409		
+AT5G17550	AT5G17550.1	9.A.17	PF04614		
+AT5G17550	AT5G17550.2	9.A.17	PF04614		
+AT5G20300	AT5G20300.5	3.A.9	PF04548,PF01926,PF11886		
+AT5G20300	AT5G20300.3	3.A.9	PF04548,PF01926,PF11886		
+AT5G20300	AT5G20300.4	3.A.9	PF04548,PF01926,PF11886		
+AT5G20300	AT5G20300.2	3.A.9	PF04548,PF01926,PF11886		
+AT5G20300	AT5G20300.1	3.A.9	PF04548,PF01926,PF11886		
+AT5G21920	AT5G21920.1	9.A.4	PF02325		
+AT5G21920	AT5G21920.2	9.A.4	PF02325		
+AT5G28750	AT5G28750.1	2.A.64	PF02416		
+AT5G36120	AT5G36120.1	9.A.4	PF02325		
+AT5G38380	AT5G38380.1	2.A.4	PF00892		
+AT5G38380	AT5G38380.2	2.A.4	PF00892		
+AT5G40670	AT5G40670.1	2.A.43	PF04193		
+AT5G44110	AT5G44110.2	3.A.1	PF13304,PF00005		
+AT5G44110	AT5G44110.3	3.A.1	PF13304,PF00005		
+AT5G44110	AT5G44110.4	3.A.1	PF13304,PF00005		
+AT5G44110	AT5G44110.1	3.A.1	PF13304,PF00005		
+AT5G44316	AT5G44316.1	3.A.1	PF19295,PF01458		
+AT5G45450	AT5G45450.1	2.A.67	PF03169		
+AT5G47030	AT5G47030.1	3.A.2	PF02823		
+AT5G47120	AT5G47120.1	1.A.14	PF01027		
+AT5G49500	AT5G49500.2	3.A.5	PF02881,PF02978,PF00448		
+AT5G49500	AT5G49500.1	3.A.5	PF02881,PF02978,PF00448		
+AT5G50460	AT5G50460.1	3.A.5	PF00584		
+AT5G52440	AT5G52440.1	2.A.64	PF02416		
+AT5G55200	AT5G55200.1	3.A.8	PF01025		
+AT5G55510	AT5G55510.1	3.A.8	PF02466		
+AT5G60460	AT5G60460.2	3.A.5	PF03911		
+AT5G60460	AT5G60460.1	3.A.5	PF03911		
+AT5G60730	AT5G60730.1	3.A.19	PF10609,PF01656,PF02374		
+AT5G61970	AT5G61970.1	3.A.5	PF16969		
+AT5G62050	AT5G62050.1	2.A.9	PF02096		
+AT5G62290	AT5G62290.1	1.A.47	PF03517		
+AT5G62290	AT5G62290.2	1.A.47	PF03517		
+AT5G64840	AT5G64840.1	3.A.1	PF13555,PF02463,PF13304,PF12848,PF00005		
+AT5G65020	AT5G65020.2	1.A.31	PF00191		
+AT5G65020	AT5G65020.1	1.A.31	PF00191		
+AT1G03000	AT1G03000.1	3.A.20	PF13191,PF03215,PF24883,PF13207,PF13238,PF07728,PF02367,PF05496,PF00004,PF20720,PF17862,PF13401
+AT1G03130	AT1G03130.1	5.B.4	PF02531
+AT1G04630	AT1G04630.1	3.D.1	PF06212
+AT1G09460	AT1G09460.1	1.I.2	PF07983
+AT1G13830	AT1G13830.1	1.I.2	PF07983
+AT1G14150	AT1G14150.1	3.D.1	PF05757
+AT1G14150	AT1G14150.2	3.D.1	PF05757
+AT1G16030	AT1G16030.1	1.A.33	PF06723,PF00012
+AT1G16700	AT1G16700.1	3.D.1	PF13484,PF13237,PF12838,PF12837,PF12797,PF14697,PF13183,PF13187,PF00037
+AT1G18650	AT1G18650.1	1.I.2	PF07983
+AT1G28380	AT1G28380.1	1.C.39	PF01823
+AT1G29260	AT1G29260.1	3.A.20	PF25391,PF25460,PF25175,PF24805,PF24782,PF24814,PF23419,PF23609,PF24105,PF24796,PF23414,PF23869,PF25173,PF25174,PF23393,PF25168,PF25047,PF25171,PF24807,PF24817,PF00400,PF23215,PF25048,PF21720,PF23775,PF25172
+AT1G29690	AT1G29690.1	1.C.39	PF01823
+AT1G49430	AT1G49430.1	4.C.1	PF00501
+AT1G49430	AT1G49430.2	4.C.1	PF00501
+AT1G49490	AT1G49490.1	3.A.20	PF00560,PF13855,PF12799
+AT1G49490	AT1G49490.2	3.A.20	PF00560,PF13855,PF12799
+AT1G51680	AT1G51680.1	4.C.1	PF00501,PF13193
+AT1G51680	AT1G51680.2	4.C.1	PF00501
+AT1G51680	AT1G51680.3	4.C.1	PF00501,PF13193
+AT1G56410	AT1G56410.1	1.A.33	PF06723,PF00012
+AT1G64480	AT1G64480.1	8.A.82	PF13833,PF13405,PF13499,PF13202,PF00036
+AT1G64480	AT1G64480.2	8.A.82	PF13833,PF13405,PF13499,PF13202,PF00036
+AT1G64480	AT1G64480.3	8.A.82	PF13833,PF13405,PF13499,PF13202,PF00036
+AT1G64480	AT1G64480.4	8.A.82	PF13833,PF13405,PF13499,PF13202,PF00036
+AT1G66410	AT1G66410.1	8.A.82	PF23564,PF13833,PF13405,PF13499,PF25825,PF14658,PF10591,PF24548,PF13202,PF12763,PF00036,PF21008
+AT1G69840	AT1G69840.1	8.A.21	PF01145
+AT1G69840	AT1G69840.2	8.A.21	PF01145
+AT1G69840	AT1G69840.3	8.A.21	PF01145
+AT1G69840	AT1G69840.4	8.A.21	PF01145
+AT1G69840	AT1G69840.5	8.A.21	PF01145
+AT1G69840	AT1G69840.6	8.A.21	PF01145
+AT1G69840	AT1G69840.7	8.A.21	PF01145
+AT1G74880	AT1G74880.1	3.D.1	PF11910
+AT1G79010	AT1G79010.1	3.D.1	PF13484,PF13237,PF12838,PF12837,PF12797,PF14697,PF13183,PF13187,PF00037
+AT2G03505	AT2G03505.1	1.I.2	PF07983
+AT2G03505	AT2G03505.2	1.I.2	PF07983
+AT2G03505	AT2G03505.3	1.I.2	PF07983
+AT2G03505	AT2G03505.4	1.I.2	PF07983
+AT2G03670	AT2G03670.1	3.A.16	PF13191,PF05673,PF24883,PF13671,PF07728,PF06068,PF05496,PF01443,PF13173,PF00004,PF07724,PF17862,PF13401,PF12775
+AT2G03670	AT2G03670.2	3.A.16	PF13191,PF05673,PF24883,PF13086,PF13671,PF07728,PF06068,PF05496,PF01443,PF13173,PF00004,PF07724,PF20720,PF17862,PF13401,PF12775
+AT2G15880	AT2G15880.1	3.A.20	PF00560,PF13855
+AT2G20360	AT2G20360.1	3.D.1	PF01073,PF05368,PF01370,PF13460,PF04321
+AT2G21270	AT2G21270.1	3.A.16	PF24842,PF03152
+AT2G21270	AT2G21270.2	3.A.16	PF24842,PF03152
+AT2G21270	AT2G21270.3	3.A.16	PF24842,PF03152
+AT2G21270	AT2G21270.4	3.A.16	PF24842,PF03152
+AT2G21270	AT2G21270.5	3.A.16	PF24842,PF03152
+AT2G25660	AT2G25660.1	9.B.121	PF04357
+AT2G25660	AT2G25660.2	9.B.121	PF04357
+AT2G25660	AT2G25660.3	9.B.121	PF04357
+AT2G25660	AT2G25660.4	9.B.121	PF04357
+AT2G27030	AT2G27030.1	8.A.82	PF23564,PF08976,PF13833,PF13405,PF13499,PF14658,PF10591,PF24548,PF13202,PF12763,PF00036,PF21008
+AT2G27030	AT2G27030.2	8.A.82	PF23564,PF08976,PF13833,PF13405,PF13499,PF14658,PF10591,PF24548,PF13202,PF12763,PF00036,PF21008
+AT2G27030	AT2G27030.3	8.A.82	PF23564,PF08976,PF13833,PF13405,PF13499,PF14658,PF10591,PF24548,PF13202,PF12763,PF00036,PF21008
+AT2G29070	AT2G29070.1	3.A.16	PF24842,PF03152
+AT2G29070	AT2G29070.2	3.A.16	PF24842,PF03152
+AT2G30933	AT2G30933.1	1.I.2	PF07983
+AT2G30933	AT2G30933.2	1.I.2	PF07983
+AT2G30933	AT2G30933.3	1.I.2	PF07983
+AT2G37840	AT2G37840.1	9.A.15	PF24497,PF00069,PF07714
+AT2G37840	AT2G37840.2	9.A.15	PF00069,PF07714,PF24497
+AT2G39470	AT2G39470.1	3.D.1	PF01789
+AT2G39470	AT2G39470.2	3.D.1	PF01789
+AT2G39470	AT2G39470.3	3.D.1	PF01789
+AT2G41110	AT2G41110.1	8.A.82	PF23564,PF08976,PF13833,PF13405,PF13499,PF14658,PF10591,PF24548,PF13202,PF12763,PF00036,PF21008
+AT2G47450	AT2G47450.1	3.A.5	PF00385,PF13637,PF12796,PF00023,PF14061,PF13606,PF13857,PF23168
+AT2G47970	AT2G47970.1	3.A.16	PF11543,PF05021
+AT2G47970	AT2G47970.2	3.A.16	PF11543,PF05021
+AT3G01440	AT3G01440.1	3.D.1	PF05757
+AT3G01610	AT3G01610.1	3.A.16	PF13191,PF01637,PF13207,PF24883,PF13521,PF01695,PF13238,PF13671,PF07728,PF06068,PF00910,PF05496,PF13173,PF00004,PF07724,PF20720,PF17862,PF13401
+AT3G01610	AT3G01610.2	3.A.16	PF13191,PF01637,PF13207,PF24883,PF13521,PF01695,PF13238,PF13671,PF07728,PF06068,PF00910,PF05496,PF13173,PF00004,PF07724,PF20720,PF17862,PF13401
+AT3G03100	AT3G03100.1	3.D.1	PF05071
+AT3G03100	AT3G03100.2	3.D.1	PF05071
+AT3G09440	AT3G09440.1	1.A.33	PF06723,PF00012
+AT3G09440	AT3G09440.2	1.A.33	PF06723,PF00012
+AT3G09440	AT3G09440.3	1.A.33	PF06723,PF00012
+AT3G09440	AT3G09440.4	1.A.33	PF06723,PF00012
+AT3G09840	AT3G09840.1	3.A.16	PF01637,PF06068,PF00910,PF07724,PF13191,PF13238,PF13401,PF24883,PF13207,PF13521,PF13671,PF02359,PF07728,PF05496,PF13173,PF02933,PF25199,PF01078,PF01057,PF00004,PF20720,PF17862
+AT3G12580	AT3G12580.1	1.A.33	PF06723,PF00012
+AT3G16250	AT3G16250.1	3.D.1	PF00111
+AT3G19020	AT3G19020.1	3.A.20	PF00560,PF13855
+AT3G19020	AT3G19020.2	3.A.20	PF00560,PF13855
+AT3G21240	AT3G21240.1	4.C.1	PF00501,PF13193
+AT3G21240	AT3G21240.2	4.C.1	PF00501
+AT3G21240	AT3G21240.3	4.C.1	PF00501
+AT3G21640	AT3G21640.1	8.A.11	PF07719,PF13181,PF13174,PF00515,PF00254
+AT3G43810	AT3G43810.1	8.A.82	PF23564,PF08976,PF13833,PF13405,PF13499,PF14658,PF10591,PF24548,PF13202,PF12763,PF00036,PF21008
+AT3G43810	AT3G43810.2	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF24548,PF13202,PF12763,PF00036,PF21008
+AT3G49590	AT3G49590.1	9.A.15	PF10033
+AT3G49590	AT3G49590.2	9.A.15	PF10033
+AT3G49590	AT3G49590.3	9.A.15	PF10033
+AT3G53230	AT3G53230.1	3.A.16	PF01637,PF06068,PF00910,PF07724,PF13191,PF13238,PF13401,PF24883,PF13207,PF13521,PF13671,PF02359,PF07728,PF05496,PF13173,PF00005,PF02933,PF25199,PF01078,PF01057,PF00004,PF20720,PF17862
+AT3G56800	AT3G56800.1	8.A.82	PF23564,PF08976,PF13833,PF13405,PF13499,PF14658,PF10591,PF24548,PF13202,PF12763,PF00036,PF21008
+AT3G58100	AT3G58100.1	1.I.2	PF07983
+AT3G61960	AT3G61960.1	9.A.15	PF24497,PF07714,PF00069,PF03109
+AT3G61960	AT3G61960.2	9.A.15	PF24497,PF07714,PF00069,PF03109
+AT3G62770	AT3G62770.1	9.A.15	PF24807,PF25173,PF25174,PF12894,PF25175,PF24817,PF00400,PF24814,PF21032,PF23414
+AT3G62770	AT3G62770.2	9.A.15	PF24807,PF25173,PF25174,PF12894,PF25175,PF24817,PF00400,PF24814,PF21032,PF23414
+AT3G62770	AT3G62770.3	9.A.15	PF24807,PF25173,PF25174,PF12894,PF25175,PF24817,PF00400,PF24814,PF21032,PF23414
+AT3G62880	AT3G62880.1	1.B.30	PF02466
+AT3G63000	AT3G63000.1	3.A.16	PF11543,PF05021
+AT4G02580	AT4G02580.1	3.D.1	PF01257
+AT4G02770	AT4G02770.1	5.B.4	PF02531
+AT4G03280	AT4G03280.1	3.D.3	PF00355,PF25471
+AT4G03280	AT4G03280.2	3.D.3	PF00355,PF25471
+AT4G03290	AT4G03290.1	8.A.82	PF23564,PF00404,PF13833,PF13405,PF13499,PF14658,PF10591,PF24548,PF13202,PF12763,PF00036,PF21008
+AT4G14500	AT4G14500.1	8.A.120	PF01852
+AT4G16160	AT4G16160.1	1.B.30	PF02466
+AT4G16160	AT4G16160.2	1.B.30	PF02466
+AT4G21450	AT4G21450.1	9.B.17	PF00635
+AT4G33970	AT4G33970.1	3.A.20	PF00560,PF13855
+AT4G37925	AT4G37925.1	3.D.1	PF10664
+AT4G38930	AT4G38930.1	3.A.16	PF24842,PF03152
+AT4G38930	AT4G38930.2	3.A.16	PF24842,PF03152
+AT4G38930	AT4G38930.3	3.A.16	PF24842,PF03152
+AT4G38930	AT4G38930.4	3.A.16	PF24842,PF03152
+AT4G39710	AT4G39710.1	3.D.1	PF00254
+AT4G39710	AT4G39710.2	3.D.1	PF00254
+AT4G39710	AT4G39710.3	3.D.1	PF00254
+AT5G02490	AT5G02490.1	1.A.33	PF06723,PF00012
+AT5G02500	AT5G02500.1	1.A.33	PF06723,PF00012
+AT5G03340	AT5G03340.1	3.A.16	PF01637,PF06068,PF00910,PF07724,PF13191,PF13238,PF13401,PF24883,PF13207,PF13521,PF13671,PF02359,PF07728,PF05496,PF13173,PF00005,PF02933,PF25199,PF01078,PF01057,PF01443,PF00004,PF20720,PF17862
+AT5G08000	AT5G08000.1	1.I.2	PF07983
+AT5G08530	AT5G08530.1	3.D.1	PF10531,PF22461,PF10589,PF01512
+AT5G11770	AT5G11770.1	3.D.1	PF01058
+AT5G13120	AT5G13120.1	3.D.1	PF00160
+AT5G13120	AT5G13120.2	3.D.1	PF00160
+AT5G21274	AT5G21274.1	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF10591,PF24548,PF13202,PF12763,PF03672,PF00036,PF21008
+AT5G24270	AT5G24270.1	8.A.82	PF13499,PF00036,PF13405,PF13202
+AT5G24270	AT5G24270.2	8.A.82	PF13499,PF00036,PF13405,PF13202
+AT5G24270	AT5G24270.3	8.A.82	PF23564,PF13833,PF13405,PF13499,PF13202,PF00036
+AT5G24270	AT5G24270.4	8.A.82	PF13499,PF00036,PF13405,PF13202
+AT5G24270	AT5G24270.5	8.A.82	PF13833,PF13405,PF13499,PF13202,PF00036
+AT5G35410	AT5G35410.1	8.A.104	PF14531,PF03822,PF07714,PF00069
+AT5G35410	AT5G35410.2	8.A.104	PF14531,PF03822,PF07714,PF00069
+AT5G37510	AT5G37510.1	3.D.1	PF22151,PF22117,PF00111,PF09326,PF13510,PF00384,PF10588
+AT5G37510	AT5G37510.2	3.D.1	PF22151,PF22117,PF00111,PF09326,PF13510,PF00384,PF10588
+AT5G37780	AT5G37780.1	8.A.82	PF23564,PF13833,PF13405,PF13499,PF25825,PF14658,PF10591,PF24548,PF13202,PF12763,PF00036,PF21008
+AT5G40010	AT5G40010.1	3.A.28	PF00004,PF14363,PF25568
+AT5G49910	AT5G49910.1	3.A.9	PF06723,PF00012
+AT5G52840	AT5G52840.1	3.D.1	PF04716
+AT5G56290	AT5G56290.1	3.A.20	PF13432,PF07719,PF13181,PF23914,PF13371,PF00515,PF13424,PF13414,PF13431,PF14559,PF13428,PF13176
+AT5G58220	AT5G58220.1	9.B.35	PF00576,PF09349
+AT5G58220	AT5G58220.2	9.B.35	PF00576,PF09349
+AT5G58220	AT5G58220.3	9.B.35	PF00576,PF09349
+AT5G58260	AT5G58260.1	3.D.1	PF11909
+AT5G58260	AT5G58260.2	3.D.1	PF11909
+AT5G60790	AT5G60790.1	3.A.1	PF13304,PF02463,PF12848,PF13555,PF00005
+AT5G61130	AT5G61130.1	1.I.2	PF07983
+AT5G62740	AT5G62740.1	8.A.21	PF01145
+AT5G62810	AT5G62810.1	3.A.20	PF04695,PF23020,PF17733
+AT5G67590	AT5G67590.1	3.D.1	PF04800
+ATCG00420	ATCG00420.1	3.D.1	PF00329
+ATCG00430	ATCG00430.1	3.D.1	PF01058
+ATCG00480	ATCG00480.1	3.A.2	PF22919,PF00006,PF02874
+ATCG01090	ATCG01090.1	3.D.1	PF13484,PF13237,PF12838,PF12797,PF14697,PF13534,PF13187,PF00037
+ATCG01110	ATCG01110.1	3.D.1	PF00346
+ATMG00070	ATMG00070.1	3.D.1	PF00329
+ATMG00510	ATMG00510.1	3.D.1	PF00346
+AT1G05990	AT1G05990.1	8.A.82	PF23564,PF00404,PF13833,PF13405,PF13499,PF14658,PF10591,PF24548,PF13202,PF12763,PF00036,PF21008
+AT1G29380	AT1G29380.1	1.I.2	PF07983
+AT1G29380	AT1G29380.2	1.I.2	PF07983
+AT1G29380	AT1G29380.3	1.I.2	PF07983
+AT1G29380	AT1G29380.4	1.I.2	PF07983
+AT2G02100	AT2G02100.1	1.C.45	PF00304
+AT2G02130	AT2G02130.1	1.C.45	PF00304
+AT2G28900	AT2G28900.1	1.B.30	PF02466
+AT2G43290	AT2G43290.1	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF10591,PF24548,PF13202,PF00036,PF21008
+AT3G07490	AT3G07490.1	8.A.82	PF23564,PF00404,PF13833,PF13405,PF13499,PF14658,PF10591,PF24548,PF13202,PF12763,PF00036,PF21008
+AT3G22930	AT3G22930.1	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF10591,PF13202,PF12763,PF00036,PF21008
+AT3G22930	AT3G22930.2	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF10591,PF13202,PF00036,PF21008
+AT3G59440	AT3G59440.1	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF10591,PF24548,PF13202,PF00036,PF21008
+AT4G12860	AT4G12860.1	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF10591,PF24548,PF13202,PF12763,PF00036,PF21008
+AT4G14640	AT4G14640.1	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF10591,PF13202,PF12763,PF00036,PF21008
+AT4G14640	AT4G14640.2	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT4G14640	AT4G14640.3	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF00036,PF21008
+AT4G30300	AT4G30300.1	3.A.1	PF00005,PF02463
+AT5G37780	AT5G37780.1	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT5G37780	AT5G37780.2	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT5G37780	AT5G37780.3	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT5G37780	AT5G37780.4	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT1G13830	AT1G13830.1	1.I.2	PF07983
+AT1G13830	AT1G13830.2	1.I.2	PF07983
+AT1G18650	AT1G18650.1	1.I.2	PF07983
+AT1G18650	AT1G18650.2	1.I.2	PF07983
+AT1G26450	AT1G26450.1	1.I.2	PF07983
+AT1G65290	AT1G65290.1	3.D.1	PF00550
+AT1G66410	AT1G66410.2	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT1G66410	AT1G66410.3	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT1G66410	AT1G66410.4	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT1G69295	AT1G69295.1	1.I.2	PF07983
+AT1G69295	AT1G69295.2	1.I.2	PF07983
+AT1G75830	AT1G75830.1	1.C.45	PF00304
+AT2G02050	AT2G02050.1	3.D.1	PF05676
+AT2G03505	AT2G03505.1	1.I.2	PF07983
+AT2G03505	AT2G03505.2	1.I.2	PF07983
+AT2G03505	AT2G03505.3	1.I.2	PF07983
+AT2G03505	AT2G03505.4	1.I.2	PF07983
+AT2G20260	AT2G20260.1	5.B.4	PF02427
+AT2G26010	AT2G26010.1	1.C.45	PF00304
+AT2G26020	AT2G26020.1	1.C.45	PF00304
+AT2G41110	AT2G41110.1	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT2G41110	AT2G41110.2	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT3G03070	AT3G03070.1	3.D.1	PF10276
+AT3G43810	AT3G43810.1	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT3G43810	AT3G43810.2	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT3G43810	AT3G43810.3	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT3G43810	AT3G43810.4	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT3G62880	AT3G62880.1	1.B.30	PF02466
+AT3G62880	AT3G62880.2	1.B.30	PF02466
+AT4G13600	AT4G13600.1	1.I.2	PF07983
+AT4G21450	AT4G21450.1	9.B.17	PF00635
+AT4G21450	AT4G21450.2	9.B.17	PF00635
+AT4G28750	AT4G28750.1	5.B.4	PF02427
+AT5G08000	AT5G08000.1	1.I.2	PF07983
+AT5G08000	AT5G08000.2	1.I.2	PF07983
+AT5G37780	AT5G37780.1	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT5G37780	AT5G37780.2	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF03672,PF00036,PF21008
+AT5G37780	AT5G37780.3	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF00036,PF21008
+AT5G37780	AT5G37780.4	8.A.82	PF23564,PF13833,PF13405,PF13499,PF14658,PF13202,PF12763,PF03672,PF00036,PF21008
+AT5G44420	AT5G44420.1	1.C.45	PF00304
+AT5G44430	AT5G44430.1	1.C.45	PF00304
+AT5G47890	AT5G47890.1	3.D.1	PF05047
+AT5G52840	AT5G52840.1	3.D.1	PF04716
+AT5G52840	AT5G52840.2	3.D.1	PF04716
+AT5G54110	AT5G54110.1	9.B.17	PF00635
+AT5G54110	AT5G54110.2	9.B.17	PF00635
+ATCG01060	ATCG01060.1	5.B.4	PF13484,PF13237,PF12838,PF12800,PF12837,PF12797,PF14697,PF17179,PF25160,PF13534,PF13187,PF00037
+AT4G14358	AT4G14358.1		
+AT3G56290	AT3G56290.1		
+AT1G27695	AT1G27695.1	8.A.86	
+AT1G27695	AT1G27695.2	8.A.86	
+AT4G19210	AT4G19210.1	3.A.1	PF00005,PF04068,PF02463,PF13304,PF00037,PF13175,PF13237,PF13401
+AT1G64550	AT1G64550.1	3.A.1	PF00005,PF12848,PF26051,PF13304,PF02463,PF13175
+AT3G54540	AT3G54540.1	3.A.1	PF00005,PF13304,PF02463,PF03193,PF13555,PF13521,PF00004,PF01926
+AT3G13640	AT3G13640.1	3.A.1	PF00005,PF04068,PF02463,PF13304,PF00037,PF13401,PF12837,PF19263
+AT1G03900	AT1G03900.1	3.A.1	PF07933
+AT5G44316	AT5G44316.1	3.A.1	PF01458,PF19295
+AT1G32500	AT1G32500.1	3.A.1	PF01458,PF19295
+AT4G04770	AT4G04770.1	3.A.1	PF01458,PF19295	

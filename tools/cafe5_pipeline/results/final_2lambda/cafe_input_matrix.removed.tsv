@@ -1,0 +1,10 @@
+Desc	ID	max_count	reason
+The Major Facilitator Superfamily (MFS)	2.A.1	248	max_count_ge_100
+The Proton-dependent Oligopeptide Transporter (POT/PTR) Family	2.A.17	137	max_count_ge_100
+The Amino Acid/Auxin Permease (AAAP) Family	2.A.18	136	max_count_ge_100
+The Mitochondrial Carrier (MC) Family	2.A.29	142	max_count_ge_100
+The Multidrug/Oligosaccharidyl-lipid/Polysaccharide (MOP) Flippase Superfamily	2.A.66	126	max_count_ge_100
+The Drug/Metabolite Transporter (DMT) Superfamily	2.A.7	283	max_count_ge_100
+The ATP-binding Cassette (ABC) Superfamily	3.A.1	262	max_count_ge_100
+The P-type ATPase (P-ATPase) Superfamily	3.A.3	117	max_count_ge_100
+The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family	3.D.1	109	max_count_ge_100

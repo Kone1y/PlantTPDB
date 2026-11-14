@@ -1,0 +1,30 @@
+# LLM API configuration example
+# Copy this file to pipeline.env (or export the variables) and fill in your values.
+
+# Common
+USE_LLM_API=true
+
+# DeepSeek (default provider used in production)
+# LLM_API_URL=https://api.deepseek.com
+# LLM_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# LLM_MODEL=deepseek-chat
+
+# OpenAI
+# LLM_API_URL=https://api.openai.com/v1/chat/completions
+# LLM_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# LLM_MODEL=gpt-4o-mini
+
+# Zhipu AI (GLM)
+# LLM_API_URL=https://open.bigmodel.cn/api/paas/v4/chat/completions
+# LLM_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# LLM_MODEL=glm-4-flash
+
+# Local Ollama
+# LLM_API_URL=http://localhost:11434/api/chat
+# LLM_API_KEY=ollama
+# LLM_MODEL=llama3.1:8b
+
+# Custom OpenAI-compatible endpoint
+# LLM_API_URL=https://your-api-endpoint.com/v1/chat/completions
+# LLM_API_KEY=your-custom-api-key
+# LLM_MODEL=your-custom-model-name

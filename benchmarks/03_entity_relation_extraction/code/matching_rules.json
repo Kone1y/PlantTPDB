@@ -1,0 +1,922 @@
+{
+  "$schema_note": "Typed canonical entity aliases, DOI-scoped evidenced protein name mappings, and DOI-scoped composite exclusions used by the one-to-one bipartite matcher. Aliases are scoped to a single entity type; no cross-type matching is performed.",
+  "version": "2.0",
+  "type_aliases": {
+    "gene": "transport_protein",
+    "transport_protein": "transport_protein",
+    "substrate": "substrate",
+    "membrane": "membrane",
+    "paper": "paper"
+  },
+  "entity_aliases": [
+    {
+      "type": "substrate",
+      "id": "K_mono",
+      "names": [
+        "K+",
+        "potassium",
+        "potassium ion",
+        "K",
+        "potassium ions"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "Na_mono",
+      "names": [
+        "Na+",
+        "sodium",
+        "sodium ion",
+        "Na",
+        "sodium (Na+)"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "Ca_2",
+      "names": [
+        "Ca2+",
+        "calcium",
+        "calcium ion",
+        "Ca"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "Mg_2",
+      "names": [
+        "Mg2+",
+        "magnesium",
+        "magnesium ion",
+        "Mg"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "Fe_unspecified",
+      "names": [
+        "Fe",
+        "iron"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "Fe_2",
+      "names": [
+        "Fe2+",
+        "ferrous",
+        "ferrous iron",
+        "iron(ii)"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "Fe_3",
+      "names": [
+        "Fe3+",
+        "ferric",
+        "ferric iron",
+        "iron(iii)"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "Zn_2",
+      "names": [
+        "Zn",
+        "Zn2+",
+        "zinc",
+        "zinc ion"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "Mn_2",
+      "names": [
+        "Mn",
+        "Mn2+",
+        "manganese",
+        "manganese ion"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "Cu_unspecified",
+      "names": [
+        "Cu",
+        "copper"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "Cu_1",
+      "names": [
+        "Cu+",
+        "copper(i)",
+        "cuprous"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "Cu_2",
+      "names": [
+        "Cu2+",
+        "copper(ii)",
+        "cupric"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "Cd_2",
+      "names": [
+        "Cd",
+        "Cd2+",
+        "cadmium",
+        "cadmium ion"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "Ni_2",
+      "names": [
+        "Ni",
+        "Ni2+",
+        "nickel"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "Co_2",
+      "names": [
+        "Co",
+        "Co2+",
+        "cobalt"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "B_unspecified",
+      "names": [
+        "B",
+        "boron"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "borate",
+      "names": [
+        "borate",
+        "borate ion"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "boric_acid",
+      "names": [
+        "boric acid"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "Mo_unspecified",
+      "names": [
+        "Mo",
+        "molybdenum"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "molybdate",
+      "names": [
+        "molybdate",
+        "MoO4 2-"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "arsenite",
+      "names": [
+        "arsenite",
+        "As(III)"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "arsenate",
+      "names": [
+        "arsenate",
+        "As(V)"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "arsenic",
+      "names": [
+        "arsenic",
+        "As"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "selenite",
+      "names": [
+        "selenite"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "selenate",
+      "names": [
+        "selenate"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "selenium",
+      "names": [
+        "selenium",
+        "Se"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "nitrate",
+      "names": [
+        "NO3-",
+        "NO3",
+        "nitrate"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "ammonium",
+      "names": [
+        "NH4+",
+        "NH4",
+        "ammonium"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "phosphate",
+      "names": [
+        "Pi",
+        "phosphate",
+        "phosphate (Pi)",
+        "inorganic phosphate",
+        "PO4",
+        "PO4 3-"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "phosphorus",
+      "names": [
+        "P",
+        "phosphorus"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "sulfate",
+      "names": [
+        "SO4",
+        "SO4 2-",
+        "sulfate",
+        "sulphate",
+        "SO4^2-"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "chloride",
+      "names": [
+        "Cl-",
+        "chloride",
+        "Cl"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "proton",
+      "names": [
+        "H+",
+        "proton",
+        "protons",
+        "hydrogen ion"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "bicarbonate",
+      "names": [
+        "HCO3-",
+        "bicarbonate"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "IAA",
+      "names": [
+        "IAA",
+        "indole-3-acetic acid",
+        "indole acetic acid",
+        "indoleacetic acid"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "auxin_broad",
+      "names": [
+        "auxin",
+        "auxins"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "ABA",
+      "names": [
+        "ABA",
+        "abscisic acid"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "gibberellic_acid",
+      "names": [
+        "GA",
+        "gibberellic acid"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "jasmonate",
+      "names": [
+        "JA",
+        "jasmonic acid",
+        "jasmonate"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "salicylic_acid",
+      "names": [
+        "SA",
+        "salicylic acid",
+        "salicylate"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "sucrose",
+      "names": [
+        "sucrose",
+        "Suc"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "glucose",
+      "names": [
+        "glucose",
+        "Glc"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "fructose",
+      "names": [
+        "fructose",
+        "Fru"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "ATP",
+      "names": [
+        "ATP",
+        "adenosine triphosphate"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "ADP",
+      "names": [
+        "ADP",
+        "adenosine diphosphate"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "glutamate",
+      "names": [
+        "Glu",
+        "glutamate",
+        "glutamic acid"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "glutamine",
+      "names": [
+        "Gln",
+        "glutamine"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "proline",
+      "names": [
+        "Pro",
+        "proline"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "GABA",
+      "names": [
+        "GABA",
+        "gamma-aminobutyric acid",
+        "γ-aminobutyric acid"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "amino_acids",
+      "names": [
+        "amino acids",
+        "amino acid",
+        "AAs"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "neutral_amino_acids",
+      "names": [
+        "neutral AAs",
+        "neutral amino acids",
+        "neutral amino acid"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "acidic_amino_acids",
+      "names": [
+        "acidic AAs",
+        "acidic amino acids",
+        "acidic amino acid"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "basic_amino_acids",
+      "names": [
+        "basic AAs",
+        "basic amino acids",
+        "basic amino acid"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "aromatic_amino_acids",
+      "names": [
+        "aromatic AAs",
+        "aromatic amino acids",
+        "aromatic amino acid"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "malate",
+      "names": [
+        "malate",
+        "malic acid"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "citrate",
+      "names": [
+        "citrate",
+        "citric acid"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "fumarate",
+      "names": [
+        "fumarate",
+        "fumaric acid"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "succinate",
+      "names": [
+        "succinate",
+        "succinic acid"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "oxalate",
+      "names": [
+        "oxalate",
+        "oxalic acid"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "myo_inositol",
+      "names": [
+        "myo-inositol",
+        "myoinositol"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "inositol_generic",
+      "names": [
+        "inositol"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "sterol_generic",
+      "names": [
+        "sterol",
+        "sterols"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "stigmasterol",
+      "names": [
+        "stigmasterol"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "cholesterol",
+      "names": [
+        "cholesterol"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "D_alanine",
+      "names": [
+        "D-Ala",
+        "D-alanine"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "L_alanine",
+      "names": [
+        "L-Ala",
+        "L-alanine"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "alanine_unspecified",
+      "names": [
+        "Ala",
+        "alanine"
+      ]
+    },
+    {
+      "type": "membrane",
+      "id": "plasma_membrane",
+      "names": [
+        "plasma membrane",
+        "PM",
+        "cell membrane"
+      ]
+    },
+    {
+      "type": "membrane",
+      "id": "tonoplast",
+      "names": [
+        "tonoplast",
+        "vacuolar membrane",
+        "vacuole membrane",
+        "vacuolar"
+      ]
+    },
+    {
+      "type": "membrane",
+      "id": "ER",
+      "names": [
+        "ER",
+        "endoplasmic reticulum"
+      ]
+    },
+    {
+      "type": "membrane",
+      "id": "golgi",
+      "names": [
+        "Golgi",
+        "Golgi apparatus"
+      ]
+    },
+    {
+      "type": "membrane",
+      "id": "golgi_lumen",
+      "names": [
+        "Golgi lumen"
+      ]
+    },
+    {
+      "type": "membrane",
+      "id": "golgi_membrane",
+      "names": [
+        "Golgi membrane"
+      ]
+    },
+    {
+      "type": "membrane",
+      "id": "trans_golgi",
+      "names": [
+        "trans-Golgi compartment",
+        "trans-Golgi network"
+      ]
+    },
+    {
+      "type": "membrane",
+      "id": "chloroplast_membrane_generic",
+      "names": [
+        "chloroplast envelope",
+        "chloroplast membrane",
+        "chloroplast membranes"
+      ]
+    },
+    {
+      "type": "membrane",
+      "id": "chloroplast_inner_membrane",
+      "names": [
+        "chloroplast inner envelope",
+        "chloroplast inner envelope membrane",
+        "inner envelope membrane of the chloroplast"
+      ]
+    },
+    {
+      "type": "membrane",
+      "id": "thylakoid_membrane",
+      "names": [
+        "thylakoid membrane",
+        "thylakoid membrane network"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "sugar_generic",
+      "names": [
+        "sugar",
+        "sugars"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "photoassimilate_generic",
+      "names": [
+        "photo-assimilates",
+        "photoassimilates",
+        "photo assimilates"
+      ]
+    },
+    {
+      "type": "substrate",
+      "id": "arsenite_gsh_complex",
+      "names": [
+        "As(III)-glutathione",
+        "As(III)-glutathione complex",
+        "As(III)-glutathione complexes"
+      ]
+    },
+    {
+      "type": "membrane",
+      "id": "mitochondrial_compartment",
+      "names": [
+        "mitochondria",
+        "mitochondrial",
+        "mitochondrion"
+      ]
+    },
+    {
+      "type": "membrane",
+      "id": "peroxisome_compartment",
+      "names": [
+        "peroxisome",
+        "peroxisomes",
+        "peroxisomal"
+      ]
+    },
+    {
+      "type": "membrane",
+      "id": "plastid_compartment",
+      "names": [
+        "plastid",
+        "plastids"
+      ]
+    }
+  ],
+  "protein_name_mappings": [
+    {
+      "doi": "10.1111/tpj.13054",
+      "names": [
+        "MGT5",
+        "MGT 5"
+      ],
+      "canonical": "MGT5",
+      "evidence": "Magnesium Transporter 5 ( MGT 5 )"
+    },
+    {
+      "doi": "10.1111/tpj.13310",
+      "names": [
+        "PUT3",
+        "PUT 3"
+      ],
+      "canonical": "PUT3",
+      "evidence": "LHR 1 gene encodes the polyamine transporter PUT 3"
+    },
+    {
+      "doi": "10.1101/2023.08.01.551495",
+      "names": [
+        "CrMATE1/SLTr",
+        "CrMATE1"
+      ],
+      "canonical": "CrMATE1",
+      "evidence": "named CrMATE1/SLTr"
+    },
+    {
+      "doi": "10.1111/j.1365-313x.2010.04412.x",
+      "names": [
+        "ABCG26",
+        "ABCG26/WBC27"
+      ],
+      "canonical": "ABCG26",
+      "evidence": "Arabidopsis ABC transporter ABCG26/WBC27"
+    },
+    {
+      "doi": "10.1111/j.1365-3040.2007.01637.x",
+      "names": [
+        "HKT1;1",
+        "AtHKT1;1"
+      ],
+      "canonical": "AtHKT1;1",
+      "evidence": "In Arabidopsis HKT1;1"
+    },
+    {
+      "doi": "10.1128/EC.00139-13",
+      "names": [
+        "AMT1",
+        "GpAMT1"
+      ],
+      "canonical": "GpAMT1",
+      "evidence": "AMT1 of G. pyriformis (GpAMT1)"
+    },
+    {
+      "doi": "10.1071/FP22117",
+      "names": [
+        "TPKs",
+        "TPK"
+      ],
+      "canonical": "TPK family",
+      "evidence": "Two Pore Potassium Channels (TPKs)"
+    },
+    {
+      "doi": "10.1186/gb-2009-10-12-249",
+      "names": [
+        "PIN",
+        "PIN proteins"
+      ],
+      "canonical": "PIN family",
+      "evidence": "The PIN-FORMED (PIN) proteins"
+    },
+    {
+      "doi": "10.3390/biom10091226",
+      "names": [
+        "MCF",
+        "MCF proteins"
+      ],
+      "canonical": "MCF family",
+      "evidence": "mitochondrial carrier family (MCF) proteins"
+    },
+    {
+      "doi": "10.1080/15592324.2018.1554468",
+      "names": [
+        "KUP",
+        "KUP/HAK/KT"
+      ],
+      "canonical": "KUP/HAK/KT family",
+      "evidence": "other members of KUP/HAK/KT gene family"
+    },
+    {
+      "doi": "10.3389/fpls.2016.00127",
+      "names": [
+        "KUP/HAK/KT",
+        "HAK/KUP/KT K+ transporters"
+      ],
+      "canonical": "HAK/KUP/KT family",
+      "evidence": "HAK/KUP/KT K+ transporters"
+    },
+    {
+      "doi": "10.3389/fpls.2020.00528",
+      "names": [
+        "HAK family of transporters",
+        "HAK family"
+      ],
+      "canonical": "HAK family",
+      "evidence": "high affinity potassium (HAK) family of transporters"
+    },
+    {
+      "doi": "10.3389/fpls.2020.00528",
+      "names": [
+        "HAK transporter OsHAK1",
+        "OsHAK1"
+      ],
+      "canonical": "OsHAK1",
+      "evidence": "the HAK transporter OsHAK1"
+    },
+    {
+      "doi": "10.3389/fpls.2020.00662",
+      "names": [
+        "ZIP",
+        "ZIP family",
+        "ZIP family transporters"
+      ],
+      "canonical": "ZIP family",
+      "evidence": "ZIP family and iron-regulated transporters (IRTs)"
+    },
+    {
+      "doi": "10.2174/0929866527666200625202028",
+      "names": [
+        "OPT3s",
+        "OPT3"
+      ],
+      "canonical": "OPT3 proteins",
+      "evidence": "OPT3 proteins of several plant species"
+    },
+    {
+      "doi": "10.3389/fpls.2020.616077",
+      "names": [
+        "TPC1/SV",
+        "TPC1/SV channel"
+      ],
+      "canonical": "TPC1/SV",
+      "evidence": "the vacuolar TPC1/SV channel"
+    },
+    {
+      "doi": "10.1093/pcp/pcab050",
+      "names": [
+        "OsMOT1;2-GFP",
+        "OsMOT1;2"
+      ],
+      "canonical": "OsMOT1;2",
+      "evidence": "The OsMOT1;2-GFP protein was localized to the vacuolar membrane"
+    },
+    {
+      "doi": "10.1094/mpmi.2004.17.7.789",
+      "names": [
+        "GFP-LjKUP",
+        "LjKUP"
+      ],
+      "canonical": "LjKUP",
+      "evidence": "a GFP-LjKUP fusion protein"
+    },
+    {
+      "doi": "10.1111/j.1365-313x.2012.05106.x",
+      "names": [
+        "PHT4;6–GFP",
+        "PHT4;6"
+      ],
+      "canonical": "PHT4;6",
+      "evidence": "PHT4;6–GFP is targeted to the trans ‐Golgi compartment"
+    },
+    {
+      "doi": "10.1111/tpj.13054",
+      "names": [
+        "MGT5",
+        "MGT 5‐His"
+      ],
+      "canonical": "MGT5",
+      "evidence": "MGT 5‐His is localized to the plasma membrane"
+    }
+  ],
+  "unmatched_protein_composites": [
+    {
+      "doi": "10.1038/s41467-024-53325-y",
+      "names": [
+        "GmNRAMP2a&2b"
+      ]
+    },
+    {
+      "doi": "10.1074/jbc.M112.438986",
+      "names": [
+        "TGD1/TGD2/TGD3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+#!/usr/bin/env python3
+"""
+Extract rooting information from a TimeTree-downloaded tree and write a config
+file that the main pipeline can `source` (OUTGROUP_TAXA array).
+
+Usage:
+    python3 02_auto_extract_outgroup.py <timetree.nwk> <output_conf.sh> [busco_species_list.txt]
+
+Arguments:
+    timetree.nwk            tree downloaded from TimeTree (internal labels may remain)
+    output_conf.sh           output config file path; content looks like:
+                                  OUTGROUP_TAXA=("SpeciesA" "SpeciesB")
+    busco_species_list.txt  optional: species names actually used in your BUSCO
+                             supermatrix / IQ-TREE tree (one name per line). When
+                             given, naming consistency is verified up front and any
+"""
+import sys
+
+
+def parse_newick(s):
+    s = s.strip()
+    if s.endswith(';'):
+        s = s[:-1]
+    pos = [0]
+
+    def parse_clade():
+        node = {'children': [], 'name': None, 'length': None}
+        if s[pos[0]] == '(':
+            pos[0] += 1
+            while True:
+                node['children'].append(parse_clade())
+                if s[pos[0]] == ',':
+                    pos[0] += 1
+                    continue
+                elif s[pos[0]] == ')':
+                    pos[0] += 1
+                    break
+            node['name'], node['length'] = read_label()
+        else:
+            node['name'], node['length'] = read_label()
+        return node
+
+    def read_label():
+        start = pos[0]
+        while pos[0] < len(s) and s[pos[0]] not in ',()':
+            pos[0] += 1
+        token = s[start:pos[0]]
+        if token.startswith("'"):
+            end_q = token.find("'", 1)
+            name = token[:end_q + 1]
+            rest = token[end_q + 1:]
+            length = float(rest[1:]) if rest.startswith(':') else None
+            return name, length
+        if ':' in token:
+            parts = token.rsplit(':', 1)
+            name = parts[0] if parts[0] else None
+            length = float(parts[1]) if parts[1] else None
+            return name, length
+        return (token if token else None), None
+
+    return parse_clade()
+
+
+def leaf_names(node, acc=None):
+    if acc is None:
+        acc = []
+    if not node['children']:
+        acc.append(node['name'])
+    else:
+        for c in node['children']:
+            leaf_names(c, acc)
+    return acc
+
+
+def all_leaf_names(node, acc=None):
+    return leaf_names(node, acc)
+
+
+def main():
+    if len(sys.argv) < 3:
+        print("Usage: python3 02_auto_extract_outgroup.py <timetree.nwk> <output_conf.sh> [busco_species_list.txt]")
+        sys.exit(2)
+
+    timetree_path = sys.argv[1]
+    output_conf = sys.argv[2]
+    busco_list_path = sys.argv[3] if len(sys.argv) > 3 else None
+
+    with open(timetree_path) as f:
+        root = parse_newick(f.read())
+
+    n_children = len(root['children'])
+    if n_children != 2:
+        print(f"[ERROR] root is not strictly bifurcating ({n_children} immediate "
+              f"children); the outgroup cannot be determined automatically.")
+        for i, child in enumerate(root['children']):
+            print(f"  branch {i+1}: {len(leaf_names(child))} species")
+        sys.exit(1)
+
+    side_a = leaf_names(root['children'][0])
+    side_b = leaf_names(root['children'][1])
+    outgroup, ingroup = (side_a, side_b) if len(side_a) <= len(side_b) else (side_b, side_a)
+
+    print(f"[INFO] root bifurcation OK.")
+    print(f"[INFO] outgroup candidates ({len(outgroup)} species): {', '.join(outgroup)}")
+    print(f"[INFO] ingroup ({len(ingroup)} species)")
+
+    # name cross-check
+    if busco_list_path:
+        with open(busco_list_path) as f:
+            busco_species = set(line.strip() for line in f if line.strip())
+        all_tt_species = set(all_leaf_names(root))
+        missing_in_busco = all_tt_species - busco_species
+        missing_in_tt = busco_species - all_tt_species
+        if missing_in_busco or missing_in_tt:
+            print("\n[ERROR] species naming mismatch; the fixed -te topology cannot be guaranteed to match!")
+            if missing_in_busco:
+                print(f"  present in the TimeTree but missing from the BUSCO list ({len(missing_in_busco)}):")
+                for n in sorted(missing_in_busco):
+                    print(f"    {n}")
+            if missing_in_tt:
+                print(f"  present in the BUSCO list but missing from the TimeTree ({len(missing_in_tt)}):")
+                for n in sorted(missing_in_tt):
+                    print(f"    {n}")
+            print("\n  unify species naming on both sides first (usually a subspecies-suffix mismatch), then rerun.")
+            sys.exit(1)
+        else:
+            print("[PASS] species names match the BUSCO list exactly; safe for the fixed -te topology.")
+
+    # write the config file for the main pipeline to source
+    quoted = " ".join(f'"{n}"' for n in outgroup)
+    with open(output_conf, 'w') as f:
+        f.write(f'# Auto-generated by 02_auto_extract_outgroup.py from {timetree_path}\n')
+        f.write(f'OUTGROUP_TAXA=({quoted})\n')
+
+    print(f"\n[DONE] config written: {output_conf}")
+    print(f"       in the main pipeline: source \"{output_conf}\"")
+
+
+if __name__ == "__main__":
+    main()

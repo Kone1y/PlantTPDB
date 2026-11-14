@@ -1,0 +1,157 @@
+FamilyID	Desc	n_species_present	max_count	in_final_model	removed_at	reason	in_156_list
+1.A.1	The Voltage-gated Ion Channel (VIC) Superfamily	26	76	y	kept		y
+1.A.10	The Glutamate-gated Ion Channel (GIC) Family of Neurotransmitter Receptors	26	54	y	kept		y
+1.A.11	The Ammonium Transporter Channel (Amt) Family	26	21	y	kept		y
+1.A.112	The Cyclin M Mg2+ Exporter (CNNM) Family	26	24	y	kept		y
+1.A.119	The Stress-inducible Transmembrane Protein (TMPIT) Family	26	4	y	kept		y
+1.A.12	The Intracellular Chloride Channel (CLIC) Family	26	5	y	kept		y
+1.A.130	The Mildew-resistance Locus O (MLO) Family	26	40	y	kept		y
+1.A.14	The Calcium Transporter A (CaTA) Family (formerly the Testis-Enhanced Gene Transfer (TEGT) Family)	26	12	y	kept		y
+1.A.15	The Non-selective Cation Channel-2 (NSCC2) Family	23	4	y	kept		y
+1.A.17	The Calcium-dependent Chloride Channel (Ca-ClC) Family	26	30	y	kept		y
+1.A.23	The Small Conductance Mechanosensitive Ion Channel (MscS) Family	26	19	y	kept		y
+1.A.31	The Annexin (Annexin) Family	21	36	y	kept		y
+1.A.33	The Cation Channel-forming Heat Shock Protein-70 (Hsp70) Family	26	92	y	kept		y
+1.A.35	The CorA Metal Ion Transporter (MIT) Family	26	23	y	kept		y
+1.A.38	The Golgi pH Regulator (GPHR) Family	24	3	y	kept		y
+1.A.43	The Camphor Resistance or Fluoride Exporter (Fluc) Family	24	4	y	kept		y
+1.A.46	The Anion Channel-forming Bestrophin (Bestrophin) Family	26	11	y	kept		y
+1.A.47	The Nucleotide-sensitive Anion-selective Channel, ICln (ICln) Family	25	5	y	kept		y
+1.A.51	The Voltage-gated Proton Channel (VPC) Family	5	1	y	kept		y
+1.A.54	The Presenilin ER Ca2+ Leak Channel (Presenilin) Family	26	20	y	kept		y
+1.A.56	The Copper Transporter (Ctr) Family	26	13	y	kept		y
+1.A.67	The Membrane Mg2+ Transporter (MMgT) Family	8	4	y	kept		y
+1.A.69	The Heteromeric Odorant Receptor Channel (HORC) Family	24	9	y	kept		y
+1.A.75	The Mechanical Nociceptor, Piezo (Piezo) Family	26	4	y	kept		y
+1.A.76	The Magnesium Transporter1 (MagT1) Family	24	2	y	kept		y
+1.A.77	The Mg2+/Ca2+ Uniporter (MCU) Family	24	12	y	kept		y
+1.A.8	The Major Intrinsic Protein (MIP) Family	26	84	y	kept		y
+1.A.87	The Mechanosensitive Calcium Channel (MCA) Family	23	7	y	kept		y
+1.B.28	The Plastid Outer Envelope Porin of 24 kDa (OEP24) Family	23	5	y	kept		y
+1.B.29	The Plastid Outer Envelope Porin of 21 kDa (OEP21) Family	24	3	y	kept		y
+1.B.30	The Plastid Outer Envelope Porin of 16 kDa (OEP16) Family	24	11	y	kept		y
+1.B.33	The Outer Membrane Protein Insertion Porin (Bam Complex) (OmpIP) Family	26	10	y	kept		y
+1.B.47	The Plastid Outer Envelope Porin of 37 kDa (OEP37) Family	24	3	y	kept		y
+1.B.77	The Chloroplast Outer Membrane Porin (Oep23) Family	16	3	y	kept		y
+1.B.8	The Mitochondrial and Plastid Porin (MPP) Family	26	18	y	kept		y
+1.B.96	The Chloroplast Outer Envelope Porin 40 (OEP40) Family	18	3	y	kept		y
+1.C.113	The Hemolysin III (Hly III) Family	26	9	y	kept		y
+1.C.39	The Membrane Attack Complex/Perforin (MACPF) Family	21	8	y	kept		y
+1.C.45	The Plant Defensin (Plant Defensin) Family	15	9	y	kept		y
+1.F.1	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family	26	17	y	kept		y
+1.I.2	The Plant Plasmodesmata (PPD) Family	21	45	y	kept		y
+1.R.1	The Membrane Contact Site (MCS) Family	8	2	y	kept		y
+2.A.1	The Major Facilitator Superfamily (MFS)	NA	248	n	s07_max_count	max_count_ge_100	y
+2.A.100	The Ferroportin (Fpn) Family	26	6	y	kept		y
+2.A.102	The 4-Toluene Sulfonate Uptake Permease (TSUP) Family	26	22	y	kept		y
+2.A.105	The Mitochondrial Pyruvate Carrier (MPC) Family	24	10	y	kept		y
+2.A.106	The Ca2+:H+ Antiporter-2 (CaCA2) Family	26	8	y	kept		y
+2.A.109	The Tellurium Ion Resistance (TerC) Family	26	5	y	kept		y
+2.A.12	The ATP:ADP Antiporter (AAA) Family	26	8	y	kept		y
+2.A.121	The Sulfate Transporter (CysZ) Family	26	2	y	kept		y
+2.A.122	The LrgB/CidB Holin-like Glycolate/Glycerate Transporter (LrgB/CidB/GGT) Family	26	4	y	kept		y
+2.A.123	The Sweet; PQ-loop; Saliva; MtN3 (Sweet) Family	26	48	y	kept		y
+2.A.126	The Fatty Acid Exporter (FAX) Family	26	14	y	kept		y
+2.A.16	The Telurite-resistance/Dicarboxylate Transporter (TDT) Family	23	15	y	kept		y
+2.A.17	The Proton-dependent Oligopeptide Transporter (POT/PTR) Family	NA	137	n	s07_max_count	max_count_ge_100	y
+2.A.18	The Amino Acid/Auxin Permease (AAAP) Family	NA	136	n	s07_max_count	max_count_ge_100	y
+2.A.19	The Ca2+:Cation Antiporter (CaCA) Family	26	33	y	kept		y
+2.A.2	The Glycoside-Pentoside-Hexuronide (GPH):Cation Symporter Family	24	18	y	kept		y
+2.A.20	The Inorganic Phosphate Transporter (PiT) Family	26	22	y	kept		y
+2.A.21	The Solute:Sodium Symporter (SSS) Family	26	8	y	kept		y
+2.A.28	The Bile Acid:Na+ Symporter (BASS) Family	26	15	y	kept		y
+2.A.29	The Mitochondrial Carrier (MC) Family	NA	142	n	s07_max_count	max_count_ge_100	y
+2.A.3	The Amino Acid-Polyamine-Organocation (APC) Family	26	36	y	kept		y
+2.A.30	The Cation-Chloride Cotransporter (CCC) Family	24	8	y	kept		y
+2.A.31	The Anion Exchanger (AE) Family	25	16	y	kept		y
+2.A.36	The Monovalent Cation:Proton Antiporter-1 (CPA1) Family	26	16	y	kept		y
+2.A.37	The Monovalent Cation:Proton Antiporter-2 (CPA2) Family	26	63	y	kept		y
+2.A.38	The K+ Transporter (Trk) Family	21	9	y	kept		y
+2.A.39	The Nucleobase:Cation Symporter-1 (NCS1) Family	25	4	y	kept		y
+2.A.4	The Cation Diffusion Facilitator (CDF) Family	26	27	y	kept		y
+2.A.40	The Nucleobase/Ascorbate Transporter (NAT) or Nucleobase:Cation Symporter-2 (NCS2) Family	26	41	y	kept		y
+2.A.42	The Hydroxy/Aromatic Amino Acid Permease (HAAAP) Family	26	4	y	kept		y
+2.A.43	The Lysosomal Cystine Transporter (LCT) Family	25	15	y	kept		y
+2.A.45	The Arsenite-Antimonite (ArsB) Efflux Family	23	7	y	kept		y
+2.A.47	The Divalent Anion:Na+ Symporter (DASS) Family	26	9	y	kept		y
+2.A.49	The Chloride Carrier/Channel (ClC) Family	26	14	y	kept		y
+2.A.5	The Zinc (Zn2+)-Iron (Fe2+) Permease (ZIP) Family	26	39	y	kept		y
+2.A.50	The Glycerol Uptake (GUP) or Membrane-bound Acyl Transferase (MBOAT) Family	26	7	y	kept		y
+2.A.52	The Ni2+-Co2+ Transporter (NiCoT) Family	23	4	y	kept		y
+2.A.53	The Sulfate Permease (SulP) Family	26	46	y	kept		y
+2.A.55	The Metal Ion (Mn2+-iron) Transporter (Nramp) Family	26	17	y	kept		y
+2.A.57	The Equilibrative Nucleoside Transporter (ENT) Family	26	14	y	kept		y
+2.A.6	The Resistance-Nodulation-Cell Division (RND) Superfamily	26	12	y	kept		y
+2.A.62	The NhaD Na+:H+ Antiporter (NhaD) Family	26	4	y	kept		y
+2.A.64	The Twin Arginine Targeting (Tat) Family	26	8	y	kept		y
+2.A.66	The Multidrug/Oligosaccharidyl-lipid/Polysaccharide (MOP) Flippase Superfamily	NA	126	n	s07_max_count	max_count_ge_100	y
+2.A.67	The Oligopeptide Transporter (OPT) Family	24	38	y	kept		y
+2.A.69	The Auxin Efflux Carrier (AEC) Family	26	44	y	kept		y
+2.A.7	The Drug/Metabolite Transporter (DMT) Superfamily	NA	283	n	s07_max_count	max_count_ge_100	y
+2.A.71	The Folate-Biopterin Transporter (FBT) Family	26	13	y	kept		y
+2.A.72	The K+ Uptake Permease (KUP) Family	26	36	y	kept		y
+2.A.82	The Organic Solute Transporter (OST) Family	26	16	y	kept		y
+2.A.84	The Chloroplast Maltose Exporter (MEX) Family	25	4	y	kept		y
+2.A.85	The Aromatic Acid Exporter (ArAE) Family	24	33	y	kept		y
+2.A.89	The Vacuolar Iron Transporter (VIT) Family	26	22	y	kept		y
+2.A.9	The Membrane Protein Insertase (YidC/Alb3/Oxa1) Family	26	8	y	kept		y
+2.A.92	The Choline Transporter-like (CTL) Family	26	7	y	kept		y
+2.A.94	The Phosphate Permease (Pho1) Family	26	27	y	kept		y
+2.A.97	The Mitochondrial Inner Membrane K+/H+ and Ca2+/H+ Exchanger (LetM1) Family	26	4	y	kept		y
+2.A.98	The Putative Sulfate Exporter (PSE) Family	25	3	y	kept		y
+3.A.1	The ATP-binding Cassette (ABC) Superfamily	NA	262	n	s07_max_count	max_count_ge_100	y
+3.A.10	The H+, Na+-translocating Pyrophosphatase (M+-PPase) Family	26	23	y	kept		y
+3.A.16	The Endoplasmic Reticular Retrotranslocon (ER-RT) Family	26	41	y	kept		y
+3.A.19	The Guided Entry of Tail Anchored Protein (GET) Family	26	7	y	kept		y
+3.A.2	The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily	26	74	y	kept		y
+3.A.20	The Peroxisomal Protein Importer (PPI) Family	26	21	y	kept		y
+3.A.23	The Type VI Symbiosis/Virulence Secretory System (T6SS) Family	1	1	y	kept		y
+3.A.28	The AAA-ATPase, Bcs1 (Bcs1) Family	18	26	y	kept		y
+3.A.3	The P-type ATPase (P-ATPase) Superfamily	NA	117	n	s07_max_count	max_count_ge_100	y
+3.A.5	The General Secretory Pathway (Sec) Family	26	49	y	kept		y
+3.A.8	The Mitochondrial Protein Translocase (MPT) Family	26	19	y	kept		y
+3.A.9	The Chloroplast Envelope Protein Translocase (CEPT or Tic-Toc) Family	26	32	y	kept		y
+3.D.1	The H+ or Na+-translocating NADH Dehydrogenase (NDH) Family	NA	109	n	s07_max_count	max_count_ge_100	y
+3.D.3	The Proton-translocating Quinol:Cytochrome c Reductase (QCR) Superfamily	26	25	y	kept		y
+3.D.4	The Proton-translocating Cytochrome Oxidase (COX) Superfamily	26	10	y	kept		y
+3.E.2	The Photosynthetic Reaction Center (PRC) Family	26	81	y	kept		y
+4.C.1	The Fatty Acid Group Translocation (FAT) Family	23	13	y	kept		y
+4.D.2	The Glycosyl Transferase 2 (GT2) Family	5	1	y	kept		y
+5.A.1	The Disulfide Bond Oxidoreductase D (DsbD) Family	26	2	y	kept		y
+5.B.1	The Phagocyte (gp91phox) NADPH Oxidase Family	26	26	y	kept		y
+5.B.2	The Eukaryotic Cytochrome b561 (Cytb561) Family	26	30	y	kept		y
+5.B.4	The Plant Photosystem I Supercomplex (PSI) Family	26	48	y	kept		y
+8.A.104	The 5'-AMP-activated protein kinase (AMPK) Family	26	6	y	kept		y
+8.A.11	The Immunophilin-like Prolyl:peptidyl Isomerase Regulator (I-PPI) Family	25	3	y	kept		y
+8.A.114	The Huntington-interacting Protein 14 (HIP14) Family	26	32	y	kept		y
+8.A.120	The Mitochondrial StAR-related Lipid Transfer Protein (StAR) Family	17	4	y	kept		y
+8.A.21	The Stomatin/Podocin/Band 7/Nephrosis.2/SPFH (Stomatin) Family	26	16	y	kept		y
+8.A.27	The CDC50 P-type ATPase Lipid Flippase Subunit (CDC50) Family	26	10	y	kept		y
+8.A.28	The Ankyrin (Ankyrin) Family	9	5	y	kept		y
+8.A.32	The β-Amyloid Cleaving Enzyme (BACE1) Family	26	6	y	kept		y
+8.A.40	The Tetraspanin (Tetraspanin) Family	24	30	y	kept		y
+8.A.68	The Endomembrane protein-70 (EMP70) Family	26	32	y	kept		y
+8.A.82	The Calmodulin Calcium Binding Protein (Calmodulin) Family	26	37	y	kept		y
+8.A.91	The Syntaxin (Syntaxin) Family	26	27	y	kept		y
+9.A.14	The G-protein-coupled receptor (GPCR) Family	26	16	y	kept		y
+9.A.15	The Autophagy-related Phagophore-formation Transporter (APT) Family	26	14	y	kept		y
+9.A.17	The Integral Membrane Peroxisomal Protein Importer-2 (PPI2) Family	24	7	y	kept		y
+9.A.19	The Lipid Intermediate Transporter (Arv1) Family	24	2	y	kept		y
+9.A.24	The Mitochondrial Cholesterol/Porphyrin/5-aminolevulinic acid Uptake Translocator Protein (TSPO) Family	15	2	y	kept		y
+9.A.4	The YggT or Fanciful K+ Uptake-B (FkuB; YggT) Family	26	8	y	kept		y
+9.A.54	The Lysosomal Cobalamin (B12) Transporter (L-B12T) Family	26	5	y	kept		y
+9.B.104	The Rhomboid Protease (Rhomboid) Family	26	17	y	kept		y
+9.B.105	The Lead Resistance Fusion Protein (PbrBC) Family	25	9	y	kept		y
+9.B.119	The Glycan Synthase, Fks1 (Fks1) Family	26	27	y	kept		y
+9.B.12	The Sensitivity to Sodium or Salt Stress-induced Hydrophobic Peptide (Sna) Family	22	12	y	kept		y
+9.B.121	The AsmA (AsmA) Family	25	4	y	kept		y
+9.B.14	The Putative Heme Handling Protein (HHP) Family	18	9	y	kept		y
+9.B.142	The Integral membrane Glycosyltransferase family 39 (GT39) Family	26	8	y	kept		y
+9.B.17	The VAMP-associated protein (VAP) Family	26	24	y	kept		y
+9.B.2	The Integral Membrane CAAX Protease-2 (CAAX Protease2) Family	26	7	y	kept		y
+9.B.231	The Die2/ALG10 Glycosyl Transferase (Die2/ALG10) Family	26	2	y	kept		y
+9.B.27	The Death Effector Domain A (DedA) Family	26	15	y	kept		y
+9.B.29	The 4-5 TMS Putative Chaperone (4-5PC) Family	25	2	y	kept		y
+9.B.35	The Putative Thyronine-Transporting Transthyretin (Transthyretin) Family	25	3	y	kept		y
+9.B.73	The Chloroplast Envelope/Cyanobacterial Membrane Protein (CemA) Family	26	7	y	kept		y
+9.B.82	The Endoplasmic Reticulum Retrieval Protein1 (Putative Heavy Metal Transporter) (Rer1) Family	26	8	y	kept		y

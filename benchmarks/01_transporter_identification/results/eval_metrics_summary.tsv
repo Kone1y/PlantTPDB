@@ -1,0 +1,4 @@
+Strategy	TP	FP	TN	FN	Sensitivity	Specificity	Precision	F1	Accuracy
+k=1	493	134	366	7	0.986	0.732	0.7863	0.8749	0.859
+k=2	489	7	493	11	0.978	0.986	0.9859	0.9819	0.982
+k=3	473	2	498	27	0.946	0.996	0.9958	0.9703	0.971

@@ -1,0 +1,58 @@
+# ==============================================================================
+# run_pipeline.sh (BUSCO + IQ-TREE + MCMCtree + CAFE5)
+# Relative paths are resolved against the directory containing the pipeline
+# scripts (i.e. this directory), independent of the current cwd.
+# Every value here can also be overridden by an environment variable of the
+# same name (e.g. THREADS=8); env vars take precedence over this file.
+# Software entries default to commands found in PATH — only fill them in if
+# your tools are installed elsewhere.
+# ==============================================================================
+
+database:
+  # 26-species full TC-family count matrix (CAFE5 format, gene-deduplicated;
+  # the per-species count >= family_count_max filter is applied by step 04).
+  tc_matrix: data/cafe_input_matrix_26species.full.tsv
+  tc_description: data/tc_family_descriptions.tsv
+  taxid_mapping: data/species_taxid_map.tsv
+
+software:
+  python: python3
+  mafft: mafft
+  cafe5: cafe5
+  cafeplotter: cafeplotter
+
+analysis:
+  # BUSCO results (lineage viridiplantae_odb10, layout busco_<lowercase_species>/)
+  busco_root: data/busco_odb10
+  busco_lineage: viridiplantae_odb10
+  mcmctree_bin: mcmctree
+  # empty -> auto-detect iqtree3 / iqtree2 / iqtree in PATH
+  iqtree_bin: ""
+  trimal_bin: trimal
+  amas_bin: AMAS.py
+  nw_reroot_bin: nw_reroot
+
+parameters:
+  matrix_type: tc
+  # Species-tree construction mode: ml (default, as described in the
+  # manuscript) = IQ-TREE ModelFinder (-m MFP+MERGE) + ML topology search.
+  # The TimeTree tree is used for outgroup determination and MCMCtree
+  # calibration, not as a topology constraint.
+  tree_mode: ml
+  cafe_threads: 20
+  # parallel jobs for the CAFE5 robust-restart lanes (each job ~1 core)
+  cafe2_jobs: 8
+  family_count_max: 100
+  cafeplotter_format: svg
+  # Pre-downloaded TimeTree topology for the 26-species set. The online API
+  # currently returns subspecies-level tips for several of these species; the
+  # bundled topology guarantees the exact tree used in the manuscript.
+  # (Pairwise divergence times for MCMCtree calibration are still fetched
+  # online and cached in <outdir>/.timetree_pairwise_cache.json.)
+  timetree_nwk: data/timetree_26_species.nwk
+  # lambda-2 group (deep lineages with a separate birth-death rate); all other
+  # species are lambda-1
+  deep_lambda_taxa: Klebsormidium_nitens,Edaphochlamys_debaryana,Volvox_carteri_nagariensis
+  # run the single-lambda robust-restart lane (run_1lambda) in addition to the
+  # two-pass base model and the 2-lambda model; set false to skip it
+  lambda1_restarts: true

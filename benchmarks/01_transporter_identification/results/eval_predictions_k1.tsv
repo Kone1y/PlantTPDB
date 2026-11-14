@@ -1,0 +1,1001 @@
+protein_id	label	pred	strategy	evidence_code	confidence	TC_hit	Pfam_hit	Seed_hit	tc_subject	tc_evalue	tc_pident	tc_family	pfam_domains	seed_subject	seed_evalue	seed_pident
+sp|Q941R4|GONS1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q941R4|2.A.7.13.3	7.13e-231	100.0	2.A.7	PF03151	AT2G13650.2	2.52e-196	100.0
+sp|Q9FVQ6|PILR1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9LMU1|EGY3_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|O58089|9.B.149.1.9	8.23e-17	26.4	9.B.149				
+sp|Q9SZC9|HMA6_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SZC9|3.A.3.5.11	0.0	100.0	3.A.3	PF00122,PF00403,PF00702	AT5G21930.1	1.83e-196	43.8
+sp|Q8L7Z9|DIT2_SPIOL	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q41364|2.A.47.3.1	5.23e-162	51.7	2.A.47	PF00939,PF03600	AT5G64280.1	3.03e-244	70.3
+sp|P0DKC5|HSD1A_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|RZD32576|1.A.115.1.2	3e-15	32.6	1.A.115				
+Os10t0444600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q01MW8|2.A.1.9.4	4.42e-291	75.6	2.A.1	PF00083,PF07690	AT5G43360.1	1.37e-278	73.6
+sp|P80065|INVB_DAUCA	neg	not_tp	1	---	None	False	False	False								
+sp|Q9T0F7|GXM2_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P15737|E13B_HORVU	neg	not_tp	1	---	None	False	False	False								
+sp|O48916|FAH1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|XP_007198334|1.A.105.1.2	1.69e-48	39.5	1.A.105				
+Os01t0557500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q769E5|2.A.19.2.10	1.33e-311	100.0	2.A.19	PF01699	AT3G51860.1	3.62e-177	67.4
+sp|Q84JN2|TIN1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q941C5|CLE44_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|O81346|C79B2_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q93ZF5|PHO11_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8S403|2.A.94.1.1	2.92e-234	47.2	2.A.94	PF03105,PF03124	AT1G69480.1	8.73e-135	33.5
+sp|Q9MA87|OFT23_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os10t0513200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SV84|1.A.8.12.3	4.87e-133	71.5	1.A.8	PF00230	AT4G10380.1	9.44e-133	71.5
+sp|Q058N4|MRS2B_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q058N4|1.A.35.5.3	3.22e-293	100.0	1.A.35	PF01544	AT5G09690.12	1.17e-22	26.9
+sp|Q39232|SUC1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q39232|2.A.2.4.1	0.0	100.0	2.A.2	PF07690	AT5G43610.1	1.22e-275	77.8
+Os06t0625900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q19A13|2.A.72.3.11	0.0	68.6	2.A.72	PF02705	AT5G14880.1	0.0	66.3
+sp|Q9ZSJ2|RGXT1_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os06t0676000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SAH8|2.A.55.2.4	7.17e-269	71.6	2.A.55	PF01566	AT1G15960.1	1.27e-265	73.9
+sp|P56348|PSBK_CHLVU	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|Q79AV1|3.E.2.2.1	2.46e-17	82.9	3.E.2				
+sp|Q9CAL3|CRK2_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q8L710|1.A.87.2.20	1.45e-85	46.4	1.A.87				
+sp|O22261|NDT1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O22261|2.A.29.10.11	1.43e-224	100.0	2.A.29	PF00153	AT5G66380.1	1.98e-53	38.0
+Os10t0206800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|D2CYA4|2.A.66.1.43	3.03e-272	83.2	2.A.66	PF01554	AT1G51340.2	6.18e-192	62.2
+sp|Q762B4|BP103_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+Os01t0567600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P23586|2.A.1.1.60	1.46e-227	66.1	2.A.1	PF00083,PF07690	AT1G11260.1	2.83e-227	66.1
+Os01t0133400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q56ZZ7|2.A.1.1.102	4.16e-269	77.3	2.A.1	PF00083,PF06609,PF07690	AT5G16150.1	8.06e-269	77.3
+sp|Q9LMM0|GPAT4_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os01t0856500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q96247|2.A.18.1.1	3.51e-310	83.5	2.A.18	PF01490	AT5G01240.1	4.01e-305	84.6
+Os01t0307500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q0JNB6|2.A.38.3.10	0.0	100.0	2.A.38	PF02386	Bradi1g45940.1	5.02e-237	66.8
+sp|Q8GYH5|BAD1_ARATH	neg	pred_tp	1	--S	Low	False	False	True						AT5G54610.1	3.99e-240	100.0
+Os02t0573500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P23586|2.A.1.1.60	1.09e-158	48.2	2.A.1	PF00083,PF06609,PF07690	AT1G34580.1	3.07e-172	50.1
+Os10t0447900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|XP_015614851.1|2.A.45.2.7	0.0	100.0	2.A.45	PF03600	AT1G02260.1	9.11e-216	60.8
+sp|Q9LK62|AB7C_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8VZZ4|3.A.1.208.52	0.0	80.8	3.A.1	PF00005,PF00664	AT3G13100.2	0.0	100.0
+Os03t0656500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LJI2|2.A.19.4.7	1.75e-116	40.7	2.A.19	PF01699	AT5G17860.1	4.7e-135	44.4
+sp|Q8VYR7|BOR1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8VYR7|2.A.31.3.1	0.0	100.0	2.A.31	PF00955	AT3G62270.1	0.0	90.2
+Os01t0872500-03	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P46032|2.A.17.3.2	1.22e-122	38.6	2.A.17	PF00854	AT1G22540.1	1.96e-201	56.4
+sp|Q9C9G4|ENDO2_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os12t0581600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A6YPU3|2.A.55.2.14	1.16e-248	72.0	2.A.55	PF01566	AT1G47240.1	1.54e-255	74.3
+sp|O80803|XTH17_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|C0LGL9|FEI2_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q42371|1.A.87.2.11	3.25e-73	37.7	1.A.87				
+Os03t0138700-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|R7W971|2.A.17.3.22	7.46e-243	61.0	2.A.17	PF00854	AT5G46050.1	4.89e-239	58.9
+Os01t0837800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A4ZUV2|2.A.4.5.1	9.18e-222	81.6	2.A.4	PF01545	AT2G39450.1	2.29e-217	81.1
+Os07t0623200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SZC9|3.A.3.5.11	4.37e-21	56.0	3.A.3	PF00403	AT4G33520.4	6.38e-22	56.0
+sp|O23507|1MMP_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P50281|8.B.14.2.3	9.91e-33	34.3	8.B.14				
+sp|O81108|ACA2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O81108|3.A.3.2.12	0.0	100.0	3.A.3	PF00122,PF00689,PF00690,PF00702	AT2G22950.1	0.0	92.9
+sp|Q9ZWT3|PHT16_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q43650|2.A.1.9.3	2.71e-259	68.8	2.A.1	PF00083,PF07690	AT3G54700.1	2.52e-258	68.5
+sp|Q9FV99|LEC2_CROVR	neg	not_tp	1	---	None	False	False	False								
+sp|P93834|HXK2_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|A0A9E7S4M3|RHS_ALSSC	neg	not_tp	1	---	None	False	False	False								
+sp|Q8GWT1|GAUTE_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9SJG4|AHL16_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os02t0160400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P23586|2.A.1.1.60	6.21e-197	54.3	2.A.1	PF00083,PF07690	AT1G11260.1	1.2e-196	54.3
+sp|A7PZL3|PGLR_VITVI	neg	not_tp	1	---	None	False	False	False								
+sp|P12163|PSBK_SPIOL	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P56782|3.E.2.2.3	5.11e-26	78.7	3.E.2				
+sp|O64740|SC13B_ARATH	pos	pred_tp	1	TP-	Medium	True	True	False	gnl|TC-DB|P55735|1.I.1.1.3	3.7e-58	54.4	1.I.1	PF00400			
+sp|Q8RY65|CIK6_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9ZVR7|1.A.87.2.9	4.48e-61	36.5	1.A.87				
+sp|Q7X7E6|AI171_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+sp|Q9SV07|ASAT1_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OEU23205.1|2.A.50.4.9	7.05e-12	34.1	2.A.50				
+sp|P19173|COX5C_IPOBA	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FX01|HSDD1_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|P27830|9.B.18.2.4	1.15e-11	23.7	9.B.18				
+sp|Q96514|C71B7_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	7.41e-11	25.0	2.A.57				
+Os05t0468700-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M6N7|1.A.11.2.2	2.99e-249	71.5	1.A.11	PF00909	AT2G38290.1	5.79e-249	71.5
+Os03t0684400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q058N4|1.A.35.5.3	6.52e-184	78.8	1.A.35	PF01544	Bradi1g12300.1	1.01e-231	86.6
+sp|Q942A7|GL14_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+sp|Q9M1L7|PRK3_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|OAP18771.1|1.A.87.2.12	2.96e-55	38.2	1.A.87				
+sp|Q9LU08|SOP10_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FX85|PER10_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|M4E3U6|9.A.61.3.1	2.08e-60	39.0	9.A.61				
+sp|Q9LXX4|BZP49_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os02t0666200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P61837|1.A.8.11.3	1.36e-185	85.8	1.A.8	PF00230	AT4G23400.1	2.11e-189	87.2
+Os04t0233400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9ZVX8|1.A.8.11.6	9.48e-164	83.3	1.A.8	PF00230	AT2G16850.1	1.84e-163	83.3
+sp|Q058G9|PCEP5_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P01089|2SS_RICCO	neg	not_tp	1	---	None	False	False	False								
+Os08t0564000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8H6H0|2.A.1.9.5	0.0	100.0	2.A.1	PF00083,PF07690	AT3G54700.1	2.46e-296	78.0
+sp|O64884|OFT20_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q93ZA0|NYC1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q8H0X6|CYT6_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P15457|2SS1_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os07t0582500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q1XF07|2.A.1.1.79	1.55e-216	65.6	2.A.1	PF00083,PF07690	AT3G18830.1	2.04e-209	64.3
+sp|P86472|CYT1_ACTCC	neg	not_tp	1	---	None	False	False	False								
+Os08t0482600-01	pos	not_tp	1	---	None	False	False	False								
+sp|Q6Z7I3|XAX1_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FK16|AGP22_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os09t0297400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P93642|2.A.7.9.3	1.1e-217	82.7	2.A.7	PF00892,PF03151	AT5G33320.1	3.22e-164	76.9
+sp|Q5USN8|CYO13_VIOOD	neg	pred_tp	1	TP-	Medium	True	True	False	gnl|TC-DB|P58440|1.A.118.1.2	3.84e-37	57.6	1.A.118	PF03784			
+sp|P59763|PSBI_CHLRE	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|P62100|3.E.2.2.3	4.61e-15	85.3	3.E.2				
+Os06t0178900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O80384|3.A.10.1.16	0.0	87.6	3.A.10	PF03030	AT1G15690.1	0.0	85.2
+sp|P22666|PSBH_CHLRE	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|P56780|3.E.2.2.3	7.9e-19	66.7	3.E.2				
+sp|P80022|RNLE_SOLLC	neg	not_tp	1	---	None	False	False	False								
+sp|Q944P0|ENT7_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q944P0|2.A.57.1.10	4.89e-301	100.0	2.A.57	PF01733	AT4G05140.1	7.51e-175	60.4
+sp|Q9SIH4|CASP1_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|Q9SQU2|9.B.56.1.5	6.61e-13	30.8	9.B.56				
+Os01t0369300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M7K3|2.A.72.3.4	0.0	62.7	2.A.72	PF02705	AT5G14880.1	1.15e-281	54.3
+sp|B9DG24|TAF7_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P62103|PSBI_SPIOL	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|P62100|3.E.2.2.3	3.31e-19	100.0	3.E.2				
+Os01t0882800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q38967|2.A.18.2.7	6.92e-253	74.1	2.A.18	PF01490	AT5G09220.1	1.34e-252	74.1
+Os12t0180100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8GX78|2.A.1.14.45	2.67e-92	37.0	2.A.1	PF07690	AT5G44370.1	2.19e-214	66.4
+Os02t0274900-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FYG3|2.A.1.1.158	2.62e-227	67.5	2.A.1	PF00083,PF07690	AT1G67300.1	5.07e-227	67.5
+sp|Q1EBV7|BASS2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q1EBV7|2.A.28.2.3	1.36e-287	100.0	2.A.28	PF01758,PF13593	AT1G78560.1	3.94e-87	45.1
+sp|Q40987|LECR_PEA	neg	not_tp	1	---	None	False	False	False								
+sp|Q9M9S6|UTR3_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O64503|2.A.7.11.4	1.78e-221	87.2	2.A.7	PF08449	AT3G46180.1	1.37e-30	30.7
+sp|Q9ZUX4|UMP2_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9SZZ8|BCH1_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os01t0829900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q941V3|2.A.67.2.5	0.0	100.0	2.A.67	PF03169	AT1G48370.1	3.88e-213	46.1
+Os11t0594000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|KAF6995428.1|2.A.1.1.145	1.95e-178	52.3	2.A.1	PF00083,PF07690	AT5G61520.1	9.9e-164	50.5
+sp|Q93XX5|Y5713_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q94AS5|ICME_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P50163|TRN2_DATST	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|WP_062382148.1|1.A.115.1.5	3.58e-24	30.8	1.A.115				
+sp|Q9XHE8|C71DI_MENSP	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	4.93e-20	33.5	2.A.57				
+sp|P00784|PAPA1_CARPA	neg	pred_tp	1	TP-	Medium	True	True	False	gnl|TC-DB|Q01E11|2.A.28.3.6	2.28e-30	36.4	2.A.28	PF00112			
+sp|Q9SMM5|SWT11_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SMM5|2.A.123.1.13	7.51e-204	100.0	2.A.123	PF03083	AT4G25010.1	1.84e-99	61.2
+Os03t0644400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P92961|2.A.18.3.1	2e-219	68.8	2.A.18	PF01490	AT3G55740.1	1.26e-214	68.2
+sp|M1KXD0|F6H_OCIBA	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	1.13e-14	26.8	2.A.57				
+sp|C0LGK9|Y2242_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O22476|1.A.87.2.6	5.49e-73	38.5	1.A.87				
+sp|Q9FGY1|BXL1_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os08t0564300-04	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9ZR72|3.A.1.201.5	0.0	75.7	3.A.1	PF00005,PF00664	AT2G36910.1	0.0	75.7
+sp|A8MQY1|NAC68_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FUJ2|CKX4_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|C0LGF5|RGI5_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q42371|1.A.87.2.11	3e-54	35.1	1.A.87				
+sp|Q9SX31|PERK9_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9ZVR7|1.A.87.2.9	3.89e-77	48.3	1.A.87				
+Os06t0706400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P46032|2.A.17.3.2	3.73e-132	46.7	2.A.17	PF00854	AT1G62200.1	5.26e-133	47.4
+Os02t0314300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q93Z81|2.A.19.2.5	6.11e-143	60.6	2.A.19	PF01699	AT3G51860.1	1.18e-142	60.6
+sp|Q41260|MPAP1_PHAAQ	neg	not_tp	1	---	None	False	False	False								
+sp|P0DXJ2|SBE2_RAUSE	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	1.24e-18	26.5	2.A.57				
+sp|Q9FRV0|CHIC_SECCE	neg	not_tp	1	---	None	False	False	False								
+sp|Q38846|ERS1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|WP_018128393.1|9.B.238.3.1	5.07e-37	35.2	9.B.238				
+sp|Q8L4S2|MRS2F_ORYSJ	pos	pred_tp	1	T-S	Medium	True	False	True	gnl|TC-DB|Q9SAH0|1.A.35.5.2	4.23e-89	46.4	1.A.35		AT3G19640.1	3.8e-124	53.2
+sp|O49815|BCH1_CAPAN	neg	not_tp	1	---	None	False	False	False								
+sp|C0LGE4|Y1124_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9LY03|1.A.87.2.19	8.23e-79	45.7	1.A.87				
+sp|Q43135|C79A1_SORBI	neg	not_tp	1	---	None	False	False	False								
+sp|Q9LX93|ATL55_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|Q7X843|8.A.112.1.6	2.58e-18	50.0	8.A.112				
+Os07t0232800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A3BI11|2.A.5.1.5	8.38e-236	100.0	2.A.5	PF02535	AT3G12750.1	7.03e-100	48.3
+sp|Q9LJX0|AB19B_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LJX0|3.A.1.201.6	0.0	100.0	3.A.1	PF00005,PF00664	AT2G36910.1	0.0	53.5
+Os05t0176800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|M0ULF4|2.A.31.3.5	0.0	73.3	2.A.31	PF00955	AT1G74810.1	1.1e-309	65.2
+sp|B9NAE4|NRP31_POPTR	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A6YPU3|2.A.55.2.14	1.07e-266	74.7	2.A.55	PF01566	AT2G23150.1	2.16e-272	77.1
+Os06t0264500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SX20|2.A.17.3.6	6.66e-252	62.3	2.A.17	PF00854	AT1G68570.1	1.29e-251	62.3
+sp|Q8GT41|PLA1_PLAAC	neg	not_tp	1	---	None	False	False	False								
+sp|Q8RXN0|AB11G_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8RXN0|3.A.1.204.8	0.0	100.0	3.A.1	PF00005,PF01061	AT3G21090.1	1.71e-248	56.2
+Os06t0228200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q67WJ8|1.A.8.12.5	1.94e-213	100.0	1.A.8	PF00230	AT5G37810.1	2.73e-65	50.2
+sp|K7NBR2|C87DR_SIRGR	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FN92|Y5597_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9SCZ4|1.A.130.1.1	2.04e-205	41.9	1.A.130				
+Os01t0704100-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|KMZ59016.1|2.A.1.8.18	3.12e-236	68.0	2.A.1	PF07690	AT1G12940.1	2.09e-230	65.0
+sp|P24101|PER33_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|M4E3U6|9.A.61.3.1	2.63e-66	43.8	9.A.61				
+Os02t0673100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A1XGH3|2.A.85.2.4	1.36e-111	48.6	2.A.85	PF11744	AT4G00910.1	9.14e-151	49.5
+sp|Q9C8G9|AB1C_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9C8G9|3.A.1.208.20	0.0	100.0	3.A.1	PF00005,PF00664	AT2G34660.3	0.0	88.3
+sp|C0LGU5|CIK4_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O49839|1.A.87.2.18	5.16e-68	42.3	1.A.87				
+Os11t0195600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q39134|2.A.18.2.3	4.63e-239	71.0	2.A.18	PF01490	AT1G77380.1	8.98e-239	71.0
+sp|Q9LZR8|Y5370_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|P0DH86|1.A.87.2.16	5.04e-14	21.5	1.A.87				
+sp|A6YCJ2|MOT1_CHLRE	pos	pred_tp	1	T-S	Medium	True	False	True	gnl|TC-DB|A6YCJ2|2.A.53.5.2	0.0	100.0	2.A.53		AT1G80310.1	1.65e-72	37.4
+Os03t0363600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O04036|2.A.1.1.97	1.07e-132	46.0	2.A.1	PF00083,PF07690	AT5G18840.1	1.34e-189	61.0
+Os07t0582400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q1XF07|2.A.1.1.79	1.73e-227	68.7	2.A.1	PF00083,PF07690	AT3G18830.1	3.77e-219	66.6
+sp|P50370|PSB30_CHLRE	neg	not_tp	1	---	None	False	False	False								
+sp|A0A517FNC6|C9B51_TRIFG	neg	not_tp	1	---	None	False	False	False								
+sp|Q10R54|SUT1_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SXM0|2.A.2.4.2	0.0	85.5	2.A.2	PF07690	AT2G02860.2	8.73e-151	50.0
+sp|Q9C512|MNS1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9SXC9|3.A.16.1.5	3.87e-57	31.1	3.A.16				
+Os02t0832100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8LPQ8|2.A.1.1.84	2.63e-226	53.5	2.A.1	PF00083,PF07690	AT4G35300.1	1.82e-231	53.3
+Os04t0607600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|ATZ78068.1|2.A.38.3.6	1.54e-140	48.3	2.A.38	PF02386	Bradi5g21030.1	1.14e-217	68.9
+sp|Q9M1B4|SSL13_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q6Z232|AGP1_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+Os11t0485200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P20649|3.A.3.3.7	1.85e-111	34.3	3.A.3	PF00122,PF00690	AT5G57350.1	1.72e-116	35.8
+sp|Q2UVJ5|CCC1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O22526|2.A.30.1.20	0.0	80.8	2.A.30	PF00324,PF03522	AT1G30450.4	0.0	100.0
+Os05t0316100-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A8J232|2.A.5.5.7	2.57e-66	40.9	2.A.5	PF02535	AT3G08650.1	1.96e-262	67.3
+sp|Q8L9J7|SWET1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8L9J7|2.A.123.1.9	7.64e-167	100.0	2.A.123	PF03083	AT1G21460.2	9.43e-132	97.9
+sp|Q93VK8|GLV1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9SUV1|BRT1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SUV1|2.A.29.11.4	2.35e-268	100.0	2.A.29	PF00153	AT3G20240.1	4.35e-70	39.3
+Os01t0276200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SX55|1.B.8.2.3	2.56e-125	61.1	1.B.8	PF01459	AT3G20000.1	4.18e-138	66.2
+Os05t0156900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|UGK58164.1|3.A.10.1.21	0.0	75.6	3.A.10	PF03030	AT1G15690.1	0.0	73.8
+sp|Q8S403|PHO1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8S403|2.A.94.1.1	0.0	100.0	2.A.94	PF03105,PF03124	AT1G26730.1	3.79e-147	35.1
+sp|Q9LE59|GAUT1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P25403|AMP1_MIRJA	neg	not_tp	1	---	None	False	False	False								
+Os02t0196600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9S7J8|3.A.3.5.32	3e-294	49.3	3.A.3	PF00122,PF00403,PF00702	AT5G44790.1	5.82e-294	49.3
+sp|Q9SXL4|AHK1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9C5U0|9.B.238.3.7	1.01e-45	25.2	9.B.238				
+sp|Q9C660|PEK10_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9ZVR7|1.A.87.2.9	8.67e-77	45.3	1.A.87				
+sp|B4FHU1|ZCIS_MAIZE	neg	not_tp	1	---	None	False	False	False								
+Os04t0511400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9C757|2.A.1.1.63	6.1e-259	64.7	2.A.1	PF00083,PF07690	AT2G35740.1	1.05e-237	61.3
+sp|Q9C9Y8|Y3868_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|OAP18771.1|1.A.87.2.12	3.27e-115	43.3	1.A.87				
+sp|Q9SGY1|AB10B_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|AIX02990|3.A.1.201.35	0.0	73.2	3.A.1	PF00005,PF00664	AT4G25960.1	0.0	82.1
+sp|C0LGD6|Y1570_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9FZB9|1.A.87.2.5	1.31e-104	39.5	1.A.87				
+Os02t0822100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|XP_015614851.1|2.A.45.2.7	9.53e-220	60.7	2.A.45	PF03600	AT1G02260.1	1.54e-214	62.0
+Os11t0637400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8VZ80|2.A.1.1.34	3.77e-147	51.1	2.A.1	PF00083,PF07690	AT3G18830.1	7.32e-147	51.1
+sp|Q9FI10|CSPLW_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|Q9SQU2|9.B.56.1.5	3.98e-15	33.3	9.B.56				
+sp|Q9SHJ5|GPAT1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P43213|MPAP1_PHLPR	neg	not_tp	1	---	None	False	False	False								
+sp|P69669|PSBT_HORVU	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|P61839|3.E.2.2.3	3.13e-13	96.6	3.E.2				
+sp|Q9C5M0|DTC_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9C5M0|2.A.29.2.16	1.49e-219	100.0	2.A.29	PF00153	AT2G22500.1	1e-60	37.3
+sp|Q84WI4|SC23G_ARATH	pos	not_tp	1	---	None	False	False	False								
+sp|Q8L586|Y4958_ARATH	neg	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q5BJD5|9.B.27.1.8	3.88e-48	35.6	9.B.27	PF09335	AT4G09580.1	5.11e-203	100.0
+sp|O04940|CDS1_SOLTU	neg	not_tp	1	---	None	False	False	False								
+sp|Q93VM8|COPT5_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q93VM8|1.A.56.1.11	8.57e-94	100.0	1.A.56	PF04145	Potri.006G140700.6.v4.1	1.2e-52	60.3
+Os03t0667500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q84XA2|2.A.5.1.12	4.51e-120	59.1	2.A.5	PF02535	AT2G04032.1	4.09e-113	56.6
+Os04t0201500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P47082|2.A.18.5.2	2.15e-36	27.4	2.A.18	PF01490	AT2G39130.3	7.65e-170	56.5
+sp|Q96303|PHT14_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q43650|2.A.1.9.3	0.0	84.6	2.A.1	PF00083,PF07690	AT3G54700.1	0.0	89.8
+sp|P42813|RNS1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q8W405|PGT1_LITER	neg	not_tp	1	---	None	False	False	False								
+sp|Q8GZ52|AB30G_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8GZ52|3.A.1.205.28	0.0	100.0	3.A.1	PF00005,PF01061,PF08370	AT4G15215.11	0.0	88.1
+sp|Q8LFN2|Y3037_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9SCZ4|1.A.130.1.1	6.99e-40	33.3	1.A.130				
+sp|Q8H6H0|PHT16_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8H6H0|2.A.1.9.5	0.0	100.0	2.A.1	PF00083,PF07690	AT3G54700.1	2.36e-296	78.0
+Os10t0418100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LY77|3.A.3.2.42	0.0	57.6	3.A.3	PF00122,PF00689,PF00690,PF00702	AT3G22910.1	0.0	58.1
+Os04t0692000-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q7Z769|2.A.7.9.15	7.58e-35	29.2	2.A.7	PF00892,PF03151,PF08449	AT1G77610.1	1.04e-196	82.1
+Os04t0620000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|QVT92270.1|3.A.1.208.53	0.0	74.4	3.A.1	PF00005,PF00664	AT1G30410.2	0.0	69.4
+sp|C0HL83|AMPD2_STEME	neg	pred_tp	1	--S	Low	False	False	True	gnl|TC-DB|P69241|1.C.45.1.1	1.09e-20	45.3	1.C.45		AT1G75830.1	2.57e-21	46.7
+sp|Q9LDF2|LOH1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|XP_013382240.1|9.B.311.1.19	2.78e-37	37.0	9.B.311				
+sp|Q9FY46|SUT41_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FY46|2.A.53.1.14	0.0	100.0	2.A.53	PF00916,PF01740	AT3G12520.1	0.0	79.6
+sp|Q8LBF7|SWET7_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8LBF7|2.A.123.1.30	2.49e-182	100.0	2.A.123	PF03083	AT5G62850.1	5.89e-78	55.0
+sp|P92946|SUT22_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P53393|2.A.53.1.4	6.05e-268	62.4	2.A.53	PF00916,PF01740	AT5G10180.1	1.4e-274	64.7
+sp|Q9ZNQ8|PERK4_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O49839|1.A.87.2.18	1.78e-71	43.2	1.A.87				
+sp|Q9M995|GUN5_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9M0S4|AGP10_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q5NTA4|CHI4_CRYJA	neg	not_tp	1	---	None	False	False	False								
+Os06t0158900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6J0P5|3.A.1.208.14	0.0	79.5	3.A.1	PF00005,PF00664	AT3G59140.1	0.0	63.1
+sp|Q9M0G9|AB24B_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LVM1|3.A.1.210.8	0.0	71.0	3.A.1	PF00005,PF00664	AT4G28630.1	0.0	81.0
+sp|Q647G3|OLE15_ARAHY	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FII5|TDR_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O22476|1.A.87.2.6	1.2e-59	33.8	1.A.87				
+sp|Q40240|MPA5A_LOLPR	neg	not_tp	1	---	None	False	False	False								
+sp|Q41258|AMP1_ALLCE	neg	not_tp	1	---	None	False	False	False								
+sp|Q9SL48|SLY1_ARATH	pos	not_tp	1	---	None	False	False	False	gnl|TC-DB|P61764|1.F.1.1.3	2.98e-18	20.5	1.F.1				
+sp|Q9SYM0|VTE6_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os04t0186400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q01MW8|2.A.1.9.4	0.0	99.4	2.A.1	PF00083,PF07690	AT2G32830.1	1.84e-289	76.7
+sp|Q8VZ56|AMY1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9M7B8|C79D1_MANES	neg	not_tp	1	---	None	False	False	False								
+sp|Q7XV05|SERK2_ORYSJ	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9ZVR7|1.A.87.2.9	8.51e-67	42.8	1.A.87				
+sp|P18263|PSBK_CHLRE	neg	not_tp	1	---	None	False	False	False								
+sp|A0A0F7G352|VANSY_VANPL	neg	pred_tp	1	TP-	Medium	True	True	False	gnl|TC-DB|Q01E11|2.A.28.3.6	7.9e-29	35.0	2.A.28	PF00112			
+sp|O24006|AMP_IMPBA	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FGL5|CEPR1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q42371|1.A.87.2.11	6.47e-58	43.4	1.A.87				
+sp|Q9FXF2|RKF1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P0DH86|1.A.87.2.16	1.56e-70	44.4	1.A.87				
+sp|F4IUW3|AVT1C_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P47082|2.A.18.5.2	9.35e-42	30.3	2.A.18	PF01490	AT2G39130.3	0.0	100.0
+Os02t0745100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6Z2T3|1.A.8.12.2	1.31e-211	100.0	1.A.8	PF00230	AT5G37810.1	1.38e-62	48.4
+sp|C0LGW2|PAM74_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9FZB9|1.A.87.2.5	3.06e-163	50.4	1.A.87				
+sp|Q9FLW0|Y5241_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9SCZ4|1.A.130.1.1	1.24e-186	41.1	1.A.130				
+Os03t0594400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P23586|2.A.1.1.60	1.87e-206	59.6	2.A.1	PF00083,PF07690	AT1G11260.1	3.63e-206	59.6
+sp|Q84WV9|QPCT_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P34951|IAAC_HORVU	neg	not_tp	1	---	None	False	False	False								
+sp|Q2TPW5|JUGR4_JUGRE	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P04347|1.C.121.1.2	4.44e-120	44.0	1.C.121				
+sp|Q8RVL1|DEK1_MAIZE	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P07384|8.A.82.1.12	2.11e-56	30.7	8.A.82				
+sp|Q8VYP0|SCO11_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P59777|PSAJ_CHLRE	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|P56769|5.B.4.1.1	1.29e-14	65.9	5.B.4				
+Os06t0579200-01	pos	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O22454|9.A.20.1.1	2.41e-41	31.7	9.A.20				
+sp|Q9M9E0|LRKS1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9LSR8|1.A.87.2.3	1.55e-128	39.6	1.A.87				
+sp|A3BF39|HMA2_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|E7EC32|3.A.3.6.19	0.0	99.9	3.A.3	PF00122,PF00702	AT4G30110.1	1.05e-296	62.9
+sp|P16313|VTH1A_SOYBN	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SRD3|2.A.89.3.4	9.18e-64	62.0	2.A.89	PF01988	AT1G76800.1	1.78e-63	62.0
+sp|Q9CA93|BAC2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9CA93|2.A.29.8.13	7.06e-217	100.0	2.A.29	PF00153	AT5G46800.1	5.66e-41	33.6
+sp|Q9M8Y5|LTL1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P54144|AMT11_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P54144|1.A.11.2.1	0.0	100.0	1.A.11	PF00909	AT3G24300.1	3.48e-292	82.8
+Os03t0146100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P25818|1.A.8.10.3	5.82e-141	79.7	1.A.8	PF00230	AT2G36830.1	1.13e-140	79.7
+sp|Q8VZG8|MIK2_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O22476|1.A.87.2.6	2.98e-48	32.3	1.A.87				
+sp|Q9SUQ8|DIR6_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|O04619|ADNT1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O04619|2.A.29.23.4	1.05e-253	100.0	2.A.29	PF00153	AT4G01100.3	1.02e-218	99.7
+Os04t0597600-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P46032|2.A.17.3.2	1.46e-163	47.0	2.A.17	PF00854	AT2G02040.1	2.82e-163	47.0
+sp|Q9FME8|OPT4_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O23482|2.A.67.1.7	2.86e-310	55.8	2.A.67	PF03169	AT1G09930.1	0.0	71.2
+sp|Q9FZ33|AXR4_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os03t0751100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O23482|2.A.67.1.7	0.0	82.5	2.A.67	PF03169	AT4G16370.1	0.0	82.4
+sp|Q94KE0|ESL1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O04036|2.A.1.1.97	5.96e-219	64.5	2.A.1	PF00083,PF07690	AT5G27360.1	1.44e-183	54.4
+sp|O48682|FH4_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os05t0451100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O82390|2.A.1.14.22	1.8e-104	41.8	2.A.1	PF00083,PF07690	AT2G38060.1	7.27e-202	69.1
+Os11t0135000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q94BZ1|2.A.1.2.111	1.53e-188	57.0	2.A.1	PF00083,PF07690	AT5G13750.1	2.96e-188	57.0
+sp|Q9SVC4|OEP7_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os01t0955700-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q058P6|2.A.7.20.4	3.71e-146	66.5	2.A.7	PF08627	AT5G19380.1	7.18e-146	66.5
+sp|I1L153|AAH2_SOYBN	neg	not_tp	1	---	None	False	False	False								
+Os09t0508250-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6YZF3|2.A.123.1.6	4.07e-96	62.2	2.A.123	PF03083	AT4G25010.1	2.46e-64	53.6
+sp|Q9CAC4|MYOB2_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os01t0719300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q0P7I2|2.A.53.1.12	7.31e-242	56.2	2.A.53	PF00916,PF01740	AT5G19600.1	4.11e-258	58.7
+sp|Q75J39|CKI4_ORYSJ	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9SCZ4|1.A.130.1.1	1.8e-64	44.3	1.A.130				
+sp|B3EWH5|CYCA_PETHY	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|P58440|1.A.118.1.2	9.59e-13	65.5	1.A.118				
+sp|Q9SZU1|C81F4_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	1.04e-11	28.9	2.A.57				
+sp|Q9M1J1|FIS1A_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9SEL6|VTI11_ARATH	pos	not_tp	1	---	None	False	False	False	gnl|TC-DB|Q9UEU0|1.F.1.1.5	2.23e-16	29.5	1.F.1				
+sp|P23525|IN37_SPIOL	neg	not_tp	1	---	None	False	False	False								
+Os02t0202400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6E5A5|2.A.29.11.3	3.92e-205	76.4	2.A.29	PF00153	AT3G20240.1	7.19e-60	38.4
+sp|Q9LFH0|AB37G_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LFH0|3.A.1.205.29	0.0	100.0	3.A.1	PF00005,PF01061,PF08370	AT2G37280.1	0.0	79.7
+sp|Q9LUN2|YSL5_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SHY2|2.A.67.2.9	0.0	71.3	2.A.67	PF03169	AT1G48370.1	0.0	84.7
+sp|Q9STQ3|AGP13_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|O04529|2MMP_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|D0EM77|8.B.14.2.4	2.79e-30	37.3	8.B.14				
+sp|F4I2N7|RLK7_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q42371|1.A.87.2.11	7.29e-57	38.6	1.A.87				
+sp|Q9ZVA7|SHOU4_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P17514|CHIQ_TOBAC	neg	not_tp	1	---	None	False	False	False								
+sp|P60496|BABL_LILLO	neg	not_tp	1	---	None	False	False	False								
+Os03t0687000-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LV10|2.A.17.3.20	2.11e-213	52.4	2.A.17	PF00854	AT5G62680.1	4.09e-213	52.4
+sp|A0A5B8NBK9|C1CD2_MELAZ	neg	not_tp	1	---	None	False	False	False								
+sp|O65677|KCS17_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os05t0128400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9ZT63|2.A.4.3.4	4.01e-158	72.7	2.A.4	PF01545	AT2G46800.1	7.77e-158	72.7
+sp|A2XVG1|PXG_ORYSI	neg	not_tp	1	---	None	False	False	False								
+Os04t0556000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9S7J8|3.A.3.5.32	4.83e-294	49.0	3.A.3	PF00122,PF00403,PF00702	AT5G44790.1	9.37e-294	49.0
+Os05t0567800-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|XP_044377469.1|2.A.1.1.155	2.6e-287	83.5	2.A.1	PF00083,PF07690	AT1G19450.1	4.26e-244	71.2
+sp|F4JS25|SRFR1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9C7S0|BZP60_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os03t0101300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|KAF6995428.1|2.A.1.1.145	3.09e-271	73.8	2.A.1	PF00083,PF07690	AT1G11260.1	8.8e-194	54.7
+sp|Q6Z401|MST6_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P23586|2.A.1.1.60	3.3e-245	68.5	2.A.1	PF00083,PF07690	AT1G11260.1	6.39e-245	68.5
+sp|Q9LT02|PDR2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LT02|3.A.3.10.22	0.0	100.0	3.A.3	PF00122	MELO3C004336.2.1	0.0	78.6
+sp|Q9LPZ9|SD113_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9ZT07|1.A.87.2.18	1.75e-202	40.8	1.A.87				
+sp|O04925|OLEH2_SESIN	neg	not_tp	1	---	None	False	False	False								
+sp|Q9SKZ5|FBT1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SKZ5|2.A.71.2.2	0.0	100.0	2.A.71	PF03092	AT2G32040.2	1.1e-300	100.0
+Os06t0701600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q41515|2.A.38.3.1	3.18e-161	51.6	2.A.38	PF02386	LOC_Os01g34850.1	0.0	92.9
+Os09t0541000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9ZVX8|1.A.8.11.6	4.85e-138	73.0	1.A.8	PF00230	AT2G16850.1	9.4e-138	73.0
+sp|Q6QNI4|C71AJ_AMMMJ	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	7.39e-16	23.9	2.A.57				
+Os03t0823100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q0WWW9|2.A.1.1.103	5.27e-245	73.1	2.A.1	PF00083,PF07690	AT5G59250.1	1.02e-244	73.1
+Os01t0911300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9TZD9|3.A.1.209.3	2.8e-113	40.1	3.A.1	PF00005,PF00664	AT1G70610.2	9.42e-263	70.4
+Os07t0603800-03	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P46032|2.A.17.3.2	9.93e-164	43.8	2.A.17	PF00854	AT2G02040.1	1.92e-163	43.8
+sp|Q9SZR9|AB9G_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9C6W5|3.A.1.204.29	7.87e-222	54.7	3.A.1	PF00005,PF01061	AT3G25620.2	1.18e-239	56.3
+sp|O04567|Y1719_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O22476|1.A.87.2.6	1.19e-70	36.4	1.A.87				
+sp|A8B479|PXG_LILLO	neg	not_tp	1	---	None	False	False	False								
+sp|A0A068Q609|C7124_PRUMU	neg	not_tp	1	---	None	False	False	False								
+Os11t0235200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q56XQ6|2.A.17.3.24	6.84e-263	65.5	2.A.17	PF00854	AT1G33440.1	1.33e-262	65.5
+sp|Q9XIE6|ALA3_ARATH	pos	pred_tp	1	T-S	Medium	True	False	True	gnl|TC-DB|Q9XIE6|3.A.3.8.6	0.0	100.0	3.A.3		AT1G17500.1	0.0	45.8
+sp|Q9FE38|POT3_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FE38|2.A.72.3.10	0.0	100.0	2.A.72	PF02705	AT1G70300.1	3.9e-253	48.8
+sp|Q9ZUA5|VIT1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9ZUA5|2.A.89.1.2	8.6e-170	100.0	2.A.89	PF01988	Potri.010G104200.1.v4.1	1.42e-132	81.6
+Os05t0402800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|B9RHM6|3.A.3.10.1	0.0	71.5	3.A.3	PF00122	AT1G10130.1	9.48e-22	23.9
+Os04t0390500-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6R3K8|2.A.67.2.12	0.0	73.5	2.A.67	PF03169	AT3G27020.1	0.0	76.7
+Os02t0699000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P46032|2.A.17.3.2	6.77e-167	48.9	2.A.17	PF00854	AT2G02040.1	1.31e-166	48.9
+sp|Q9M373|AGP20_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P56780|PSBH_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P56780|3.E.2.2.3	1.29e-45	100.0	3.E.2				
+sp|Q8HS25|PSBT_PEA	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|P61839|3.E.2.2.3	4.02e-15	90.9	3.E.2				
+Os07t0134000-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P92934|2.A.18.2.4	1.32e-235	69.7	2.A.18	PF01490	AT5G49630.1	2.56e-235	69.7
+sp|Q6JTJ0|T7BH_TAXCU	neg	not_tp	1	---	None	False	False	False								
+sp|F4JBX1|RGF10_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os02t0112600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O82811|2.A.1.8.12	1.01e-282	71.6	2.A.1	PF07690	AT1G08090.1	1.95e-282	71.6
+sp|Q949X0|ADS3_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os01t0664100-01	pos	pred_tp	1	--S	Low	False	False	True						AT1G29820.1	1.05e-226	61.7
+Os01t0177900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O81016|3.A.1.205.16	0.0	69.8	3.A.1	PF00005,PF01061,PF08370	AT1G66950.1	0.0	57.0
+sp|Q9SPI9|PSBW_CHLRE	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|Q39194|3.E.2.2.3	2.98e-16	50.0	3.E.2				
+Os02t0593500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q38954|2.A.20.2.4	1.54e-251	78.7	2.A.20	PF01384	Bradi3g47550.1	0.0	89.2
+sp|K4CEE8|C7A46_SOLLC	neg	not_tp	1	---	None	False	False	False								
+sp|F4I8I0|SUN4_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9SRE4|URGT1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SRE4|2.A.7.9.12	1.04e-246	100.0	2.A.7	PF03151	AT5G42420.2	2.45e-139	64.5
+Os09t0448200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A5PH39|2.A.72.3.5	1.23e-173	40.1	2.A.72	PF02705	AT1G70300.1	1.38e-164	37.9
+sp|Q9SKE0|SDH8_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os01t0878700-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q39134|2.A.18.2.3	4.75e-166	52.4	2.A.18	PF01490	AT1G44100.1	1.85e-166	54.0
+Os12t0195100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q39134|2.A.18.2.3	5.95e-197	57.1	2.A.18	PF01490	AT1G77380.1	1.15e-196	57.1
+Os04t0679050-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|I1M280|2.A.1.1.132	9.31e-201	60.4	2.A.1	PF00083,PF07690	AT2G20780.1	2.56e-198	60.6
+sp|C0LGP9|IMK3_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|OAP18771.1|1.A.87.2.12	1.4e-65	42.7	1.A.87				
+sp|P62112|PSBM_SPIOL	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|P62109|3.E.2.2.3	9.56e-16	100.0	3.E.2				
+sp|P48418|C75A1_PETHY	neg	not_tp	1	---	None	False	False	False								
+sp|A0AAW1NEA3|C7168_SAPOF	neg	not_tp	1	---	None	False	False	False								
+Os07t0131600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|KAF6995428.1|2.A.1.1.145	1.06e-193	56.0	2.A.1	PF00083,PF07690	AT5G61520.1	1.71e-180	56.7
+sp|Q03773|E13A_SOYBN	neg	not_tp	1	---	None	False	False	False								
+sp|Q9LSF8|C82G1_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	5.86e-11	29.8	2.A.57				
+Os02t0576600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q69JW3|2.A.2.4.11	0.0	100.0	2.A.2	PF07690	AT2G02860.2	7.39e-130	46.7
+Os01t0503400-04	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8H4H5|2.A.55.2.19	3.86e-65	69.0	2.A.55	PF01566	AT1G15960.1	8.58e-47	52.2
+sp|P33183|NIGB_SAMNI	neg	not_tp	1	---	None	False	False	False								
+sp|Q949Q1|GAUTB_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|G5DBJ0|CPP1_NICBE	neg	not_tp	1	---	None	False	False	False								
+sp|Q8LFH5|SWET8_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8LFH5|2.A.123.1.5	1.75e-168	100.0	2.A.123	PF03083	AT5G40260.2	7.09e-138	97.1
+sp|Q84T91|OLE13_CORAV	neg	not_tp	1	---	None	False	False	False								
+sp|F4JWM0|DSC2_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q7XPF8|HKT11_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q7XPF8|2.A.38.3.5	0.0	100.0	2.A.38	PF02386	LOC_Os04g51820.1	0.0	100.0
+sp|A0A3Q7HS74|C71E6_SOLLC	neg	not_tp	1	---	None	False	False	False								
+Os06t0593100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|B8B472|2.A.7.11.8	1.59e-265	100.0	2.A.7	PF08449	AT3G46180.1	3.49e-33	30.7
+sp|Q8H384|HMA3_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8H384|3.A.3.6.17	0.0	100.0	3.A.3	PF00122,PF00403,PF00702	AT4G30110.1	1.17e-250	55.4
+sp|Q9SH30|HMA5_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9S7J8|3.A.3.5.32	6.48e-295	48.9	3.A.3	PF00122,PF00403,PF00702	AT5G44790.1	1.26e-294	48.9
+Os02t0232900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8LFP7|1.A.8.12.7	1.62e-124	69.4	1.A.8	PF00230	AT4G18910.1	3.13e-124	69.4
+sp|Q9XIN7|NAC40_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q05539|CHIA_SOLLC	neg	not_tp	1	---	None	False	False	False								
+sp|P47195|C80A1_BERST	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	5.09e-15	22.6	2.A.57				
+sp|Q8GSG4|PHT14_MEDTR	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q01MW8|2.A.1.9.4	7.27e-231	61.1	2.A.1	PF00083,PF07690	AT5G43370.1	1.17e-223	62.2
+sp|Q9SX48|STP9_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LT15|2.A.1.1.124	0.0	85.2	2.A.1	PF00083,PF07690	AT1G50310.2	3.69e-265	100.0
+Os04t0453200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LT15|2.A.1.1.124	6.36e-161	50.1	2.A.1	PF00083,PF07690	AT1G34580.1	3.25e-174	52.9
+sp|Q9FGQ2|SWT13_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FGQ2|2.A.123.1.26	3.7e-202	100.0	2.A.123	PF03083	AT4G25010.1	6.13e-140	84.0
+sp|Q6NLA5|LPPG_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os12t0194900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P92934|2.A.18.2.4	6.08e-171	53.4	2.A.18	PF01490	AT5G49630.1	1.18e-170	53.4
+Os04t0613000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A3BI11|2.A.5.1.5	2.28e-108	52.8	2.A.5	PF02535	AT3G12750.1	3.44e-104	52.2
+Os07t0231400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q495N2|2.A.18.8.4	4.92e-40	29.6	2.A.18	PF01490	AT3G11900.1	7.67e-143	54.1
+sp|Q4V398|RRT1_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os04t0460300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P47082|2.A.18.5.2	6.12e-34	30.3	2.A.18	PF01490	AT3G28960.1	2.81e-139	53.9
+sp|O80605|SUC3_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O80605|2.A.2.4.3	0.0	100.0	2.A.2	PF07690	AT2G02860.2	0.0	98.7
+sp|Q8L7W5|SMO11_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q8VZU3|SCP19_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q93ZH0|LYM1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q41342|ETR1_SOLLC	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|WP_018128393.1|9.B.238.3.1	3.82e-58	34.9	9.B.238				
+sp|Q5MFV8|PME5_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q5NAT0|GUN2_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+Os03t0107300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q10SY9|2.A.45.2.4	0.0	100.0	2.A.45	PF03600	AT1G02260.1	1.3e-178	57.3
+sp|P17513|CHIP_TOBAC	neg	not_tp	1	---	None	False	False	False								
+sp|P83947|PME1_FICPW	neg	not_tp	1	---	None	False	False	False								
+sp|O80322|RNS1_PYRPY	neg	not_tp	1	---	None	False	False	False								
+Os03t0157400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A9SCA8|3.A.1.204.11	1.2e-218	56.1	3.A.1	PF00005,PF01061	AT3G52310.1	3.12e-312	67.7
+sp|O22397|POT1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O22397|2.A.72.3.1	0.0	100.0	2.A.72	PF02705	AT2G30070.2	0.0	100.0
+sp|Q84KI1|T14H_TAXCU	neg	not_tp	1	---	None	False	False	False								
+sp|P00693|AMY1_HORVU	neg	not_tp	1	---	None	False	False	False								
+sp|Q9ZVI7|GAUT7_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FMV3|Y5349_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os09t0396900-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9ZUA5|2.A.89.1.2	1.33e-117	73.3	2.A.89	PF01988	Bradi4g29720.1	5.02e-148	91.1
+sp|L7T720|C719A_PODPE	neg	not_tp	1	---	None	False	False	False								
+sp|A0A067DE75|C6AD2_CITSI	neg	not_tp	1	---	None	False	False	False								
+sp|Q944N8|ENT6_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M0Y3|2.A.57.1.7	3.42e-281	91.1	2.A.57	PF01733	AT4G05140.1	4.12e-236	75.9
+Os08t0152000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SAI4|1.A.8.12.9	2.35e-71	52.9	1.A.8	PF00230	AT1G80760.1	4.55e-71	52.9
+sp|Q9SI62|PPRD2_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|O81850|IRT2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O81850|2.A.5.1.4	8.63e-252	100.0	2.A.5	PF02535	AT4G19680.1	2.09e-179	100.0
+sp|Q9FFK8|NFXL2_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os01t0935500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M7K3|2.A.72.3.4	0.0	70.5	2.A.72	PF02705	AT1G70300.1	1.61e-295	53.1
+Os11t0475600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8LPQ8|2.A.1.1.84	3.06e-288	59.8	2.A.1	PF00083,PF07690	AT4G35300.1	1.8e-294	60.4
+sp|P30233|2SS2_CAPMA	neg	not_tp	1	---	None	False	False	False								
+sp|Q76LB1|ALMT1_WHEAT	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q76LB2|2.A.85.2.5	0.0	99.6	2.A.85	PF11744	AT3G11680.1	6.82e-104	44.9
+Os01t0279700-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O82390|2.A.1.14.22	1.78e-268	85.8	2.A.1	PF07690	AT2G29650.1	3.46e-268	85.8
+Os06t0700700-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|E7EC32|3.A.3.6.19	0.0	99.9	3.A.3	PF00122,PF00702	AT4G30110.1	1.08e-296	62.9
+Os05t0424000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q39134|2.A.18.2.3	9.67e-251	70.4	2.A.18	PF01490	AT1G77380.1	1.87e-250	70.4
+sp|Q9XIE2|AB36G_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9XIE2|3.A.1.205.9	0.0	100.0	3.A.1	PF00005,PF01061,PF08370	AT1G15210.1	0.0	83.7
+Os04t0597600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P46032|2.A.17.3.2	8.66e-164	47.0	2.A.17	PF00854	AT2G02040.1	1.68e-163	47.0
+Os04t0653200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q39254|2.A.19.2.4	1.17e-196	74.7	2.A.19	PF01699	AT3G13320.1	2.27e-196	74.7
+sp|Q60EN8|COPT2_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q5ZD08|1.A.56.1.13	5.6e-48	66.9	1.A.56	PF04145	AT5G59030.1	9.36e-33	58.1
+sp|O65684|CIF2_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q6AWW5|Y5262_ARATH	neg	pred_tp	1	--S	Low	False	False	True	gnl|TC-DB|F4I4B0|9.A.43.1.12	2.96e-11	30.3	9.A.43		AT5G02620.1	1.57e-232	100.0
+Os01t0142800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M390|2.A.17.3.7	9.71e-277	67.8	2.A.17	PF00854	AT3G54140.1	1.88e-276	67.8
+Os08t0206400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O49423|2.A.72.3.12	6.47e-273	66.2	2.A.72	PF02705	AT2G35060.1	5.6e-280	68.9
+Os02t0574000-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P23586|2.A.1.1.60	8.48e-147	45.8	2.A.1	PF00083,PF07690	AT1G34580.1	1.5e-156	50.1
+sp|Q9SL95|MOT1_ARATH	pos	pred_tp	1	T-S	Medium	True	False	True	gnl|TC-DB|Q9SL95|2.A.53.5.1	2.25e-303	100.0	2.A.53		AT1G80310.1	6.36e-145	54.8
+sp|P49333|ETR1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|WP_018128393.1|9.B.238.3.1	1.39e-52	32.5	9.B.238				
+sp|Q9AYP9|LECC_PHYAM	neg	not_tp	1	---	None	False	False	False								
+sp|Q9ZUU9|AB3G_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9ZUU9|3.A.1.204.19	0.0	100.0	3.A.1	PF00005,PF01061	AT3G21090.1	3.27e-116	36.8
+sp|O64483|SIRK_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9FZB9|1.A.87.2.5	5.33e-107	40.4	1.A.87				
+sp|G7LCV1|KI106_MEDTR	neg	not_tp	1	---	None	False	False	False								
+sp|O24567|ESR3_MAIZE	neg	not_tp	1	---	None	False	False	False								
+sp|Q8LBA0|NIPL2_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|Q7X843|8.A.112.1.6	9.45e-11	32.5	8.A.112				
+Os04t0559700-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P61837|1.A.8.11.3	3.22e-186	87.5	1.A.8	PF00230	AT4G23400.1	3.5e-190	88.9
+Os05t0472700-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A3BI11|2.A.5.1.5	5.44e-127	57.8	2.A.5	PF02535	AT3G12750.1	2.57e-98	50.1
+sp|Q9LHP4|RGI1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O22476|1.A.87.2.6	1.32e-55	40.2	1.A.87				
+sp|P27275|AMP_AMACA	neg	not_tp	1	---	None	False	False	False								
+sp|P29518|BT1_MAIZE	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P29518|2.A.29.11.1	1.16e-288	100.0	2.A.29	PF00153	AT3G20240.1	3.72e-63	40.3
+Os03t0197200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q1XF07|2.A.1.1.79	6.23e-221	65.8	2.A.1	PF00083,PF07690	AT3G18830.1	3.48e-220	65.6
+Os06t0644200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O80384|3.A.10.1.16	0.0	99.9	3.A.10	PF03030	AT1G15690.1	0.0	86.9
+sp|Q8RY46|AB26B_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9NP78|3.A.1.209.2	9.45e-117	39.3	3.A.1	PF00005,PF00664	AT1G70610.2	0.0	100.0
+sp|Q8LPT1|AB6B_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|PTQ44224|3.A.1.201.43	0.0	58.5	3.A.1	PF00005,PF00664	AT3G55320.1	0.0	90.4
+sp|A8JFU2|CFA65_CHLRE	neg	not_tp	1	---	None	False	False	False								
+sp|G7JIK2|SUNN_MEDTR	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O22476|1.A.87.2.6	1.26e-58	35.6	1.A.87				
+sp|P0DO22|V19H_CATRO	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	3.58e-17	28.2	2.A.57				
+sp|Q94F09|PDI52_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P30101|8.A.88.2.7	1.73e-22	24.0	8.A.88				
+sp|Q1EC69|SMO12_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q43257|C71C4_MAIZE	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	3.04e-16	27.9	2.A.57				
+Os12t0638700-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P19456|3.A.3.3.9	0.0	81.8	3.A.3	PF00122,PF00690,PF00702	AT5G62670.1	0.0	89.6
+sp|P60147|PSBL_PEA	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P60129|3.E.2.2.3	1.92e-21	97.4	3.E.2				
+sp|Q9SU35|ERLL1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|O49668|PAM68_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FFW5|PERK8_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O49839|1.A.87.2.18	1.92e-77	45.4	1.A.87				
+sp|O81016|AB32G_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O81016|3.A.1.205.16	0.0	100.0	3.A.1	PF00005,PF01061,PF08370	AT1G66950.1	0.0	56.0
+Os08t0455900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6Z0Q9|1.A.56.1.12	3.38e-108	100.0	1.A.56	PF04145	Bradi4g31330.1	3.6e-45	56.7
+Os04t0401700-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6VVA6|2.A.72.3.7	0.0	98.9	2.A.72	PF02705	AT1G60160.1	5.51e-218	42.5
+sp|Q9LVM0|Y5830_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|OAP18771.1|1.A.87.2.12	9.29e-107	42.1	1.A.87				
+sp|E5KCJ8|Y3IP1_TOBAC	neg	not_tp	1	---	None	False	False	False								
+sp|Q9CA61|C98A8_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9LF79|ACA8_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LF79|3.A.3.2.10	0.0	100.0	3.A.3	PF00122,PF00689,PF00690,PF00702	AT3G21180.1	0.0	70.2
+sp|Q1G3V9|EPFL8_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q84TW8|XOATA_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+Os03t0226400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|I7FXJ5|2.A.4.5.3	3.7e-264	93.0	2.A.4	PF01545	AT3G58060.1	1.44e-189	71.6
+Os08t0101500-01	pos	pred_tp	1	T-S	Medium	True	False	True	gnl|TC-DB|Q9SL95|2.A.53.5.1	8e-167	65.4	2.A.53		AT1G80310.1	2.39e-134	53.7
+sp|A0A1I9R3Y5|PXG_PINEL	neg	not_tp	1	---	None	False	False	False								
+sp|Q37145|ACA1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q37145|3.A.3.2.11	0.0	100.0	3.A.3	PF00122,PF00689,PF00690,PF00702	AT1G27770.2	0.0	92.7
+Os02t0700500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6Z8D0|2.A.3.12.5	0.0	100.0	2.A.3	PF00324	AT1G31830.2	3.9e-243	72.5
+sp|B9DGY1|AB1K7_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os02t0191300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9H2H9|2.A.18.6.14	3.04e-34	29.2	2.A.18	PF01490	AT3G30390.1	8.52e-188	62.4
+sp|Q9XGY6|WAXS1_SIMCH	neg	not_tp	1	---	None	False	False	False								
+sp|F4HXL0|PLIP2_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|D3GE74|STR1_MEDTR	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|D3GE74|3.A.1.204.22	0.0	100.0	3.A.1	PF00005,PF01061	AT2G37360.1	4.77e-138	36.3
+sp|Q84L08|GFT1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9S845|2.A.7.13.5	1.2e-94	49.1	2.A.7	PF03151	AT1G76340.1	2.33e-94	49.1
+Os08t0127100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FKS8|2.A.18.2.2	3.19e-257	79.6	2.A.18	PF01490	AT1G67640.1	6.3e-251	77.6
+Os02t0644200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M2C3|2.A.89.3.6	7.22e-61	60.2	2.A.89	PF01988	AT3G43630.1	1.4e-60	60.2
+Os04t0597800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P46032|2.A.17.3.2	1.77e-169	47.5	2.A.17	PF00854	AT2G02040.1	3.44e-169	47.5
+Os03t0859500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9ZUU9|3.A.1.204.19	1.07e-303	63.1	3.A.1	PF00005,PF01061	AT3G21090.1	2.38e-112	35.7
+sp|Q8RWW7|URGT4_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LPU2|2.A.7.9.13	6.4e-93	50.2	2.A.7	PF03151	AT4G09810.1	1.37e-181	78.1
+Os12t0552600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SZE2|2.A.66.1.59	3.6e-101	43.2	2.A.66	PF01554	AT5G49130.1	1.74e-134	51.5
+Os02t0802500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O80384|3.A.10.1.16	0.0	86.3	3.A.10	PF03030	AT1G15690.1	0.0	85.6
+Os03t0187800-01	pos	pred_tp	1	T-S	Medium	True	False	True	gnl|TC-DB|G8A929|2.A.7.14.6	4.03e-84	45.2	2.A.7		AT1G28220.1	2.88e-77	44.2
+Os06t0726600-03	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q3UFJ6|2.A.82.1.10	3.11e-38	32.5	2.A.82	PF03619	AT4G38360.2	9.44e-244	68.6
+sp|Q0JA29|FLS2_ORYSJ	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P43298|1.A.87.2.13	1.51e-35	33.9	1.A.87				
+Os08t0562800-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|F4JTB2|2.A.66.1.50	5.35e-188	58.1	2.A.66	PF01554	AT4G00350.1	4.41e-191	59.5
+sp|P92916|GFT_ALLCE	neg	not_tp	1	---	None	False	False	False								
+sp|A0A2K1ZPK4|NRP32_POPTR	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A6YPU3|2.A.55.2.14	1.18e-276	78.6	2.A.55	PF01566	AT2G23150.1	8.32e-283	80.9
+sp|Q9LRB5|LHT2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LRB5|2.A.18.2.9	0.0	100.0	2.A.18	PF01490	AT1G67640.1	6.41e-286	85.5
+sp|Q9M0Y3|ENT3_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M0Y3|2.A.57.1.7	4.6e-311	100.0	2.A.57	PF01733	AT4G05140.1	6.32e-254	80.2
+Os06t0660200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LU77|2.A.69.1.2	9.62e-256	63.1	2.A.69	PF03547	AT5G57090.1	1.87e-255	63.1
+sp|Q84ZX5|ALL1_ARTVU	neg	not_tp	1	---	None	False	False	False								
+Os08t0100200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P0A8H3|2.A.5.5.1	3.46e-25	28.4	2.A.5	PF02535	AT3G20870.1	7.35e-111	60.7
+Os09t0332700-03	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O24367|3.A.1.205.20	0.0	65.9	3.A.1	PF00005,PF01061,PF08370	AT1G15520.2	0.0	64.1
+sp|Q94F27|B3GTB_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q8GUM4|Y3739_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FJB4|GPC1_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os11t0134900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8RWN2|2.A.1.2.58	2.81e-184	54.7	2.A.1	PF00083,PF07690	AT5G13740.1	5.44e-184	54.7
+Os02t0823100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P61837|1.A.8.11.3	1.49e-175	83.0	1.A.8	PF00230	AT4G23400.1	2.57e-176	84.0
+Os10t0360100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8VZ80|2.A.1.1.34	3.1e-185	57.4	2.A.1	PF00083,PF07690	AT4G36670.1	3.48e-195	59.4
+sp|Q6I681|ACET1_MAIZE	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6I681|5.B.2.1.6	6.62e-167	100.0	5.B.2	PF03188	AT4G25570.1	2.49e-100	68.2
+sp|A0A2Z5D852|C71Z6_PASSA	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	1.6e-18	27.3	2.A.57				
+Os02t0513100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|ANC68268.1|2.A.123.1.27	1.07e-89	63.3	2.A.123	PF03083	AT4G25010.1	1.09e-72	57.5
+sp|Q9AXH9|KAO1_HORVU	neg	not_tp	1	---	None	False	False	False								
+sp|Q9SAH8|NRAM1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SAH8|2.A.55.2.4	0.0	100.0	2.A.55	PF01566	AT1G15960.1	0.0	88.7
+sp|Q9C8X2|SUC5_ARATH	pos	pred_tp	1	T-S	Medium	True	False	True	gnl|TC-DB|Q9C8X2|2.A.2.4.12	0.0	100.0	2.A.2		AT2G14670.1	6.42e-266	73.9
+sp|Q9FIH5|URGT3_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LPU2|2.A.7.9.13	1.88e-188	79.3	2.A.7	PF03151	AT5G42420.2	8.05e-181	80.9
+sp|Q29PV4|IDL1_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os01t0786800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q5ZAL4|2.A.102.5.1	6.5e-153	59.1	2.A.102	PF01925	AT4G21250.1	3.6e-126	46.3
+Os02t0131800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6ZG85|2.A.55.2.5	0.0	100.0	2.A.55	PF01566	AT1G15960.1	4.74e-171	54.3
+sp|Q9FRK5|Y1514_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os07t0106200-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P23586|2.A.1.1.60	1.2e-249	70.5	2.A.1	PF00083,PF07690	AT1G11260.1	2.33e-249	70.5
+sp|Q8W4T9|T13H_TAXCU	neg	not_tp	1	---	None	False	False	False								
+sp|P93472|DIM_PEA	neg	not_tp	1	---	None	False	False	False								
+sp|Q9M2W3|PGPS2_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|K0WKG7|4.F.1.1.8	5.66e-49	51.1	4.F.1				
+Os01t0645200-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q1EBV7|2.A.28.2.3	6.79e-210	85.0	2.A.28	PF01758,PF13593	AT1G78560.1	1.98e-87	46.4
+Os03t0188100-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|F4JTB2|2.A.66.1.50	1.58e-132	46.8	2.A.66	PF01554	AT5G65380.1	1.05e-219	65.5
+sp|A0A1D6F9Y9|C92C6_MAIZE	neg	not_tp	1	---	None	False	False	False								
+sp|Q9M2V7|AB16G_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M2V7|3.A.1.204.30	0.0	100.0	3.A.1	PF00005,PF01061	AT2G39350.1	0.0	82.3
+sp|Q9LPU2|URGT2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LPU2|2.A.7.9.13	2.17e-244	100.0	2.A.7	PF00892,PF03151	AT5G42420.2	8.89e-140	63.7
+sp|Q8VZR6|INT1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8VZR6|2.A.1.1.66	0.0	100.0	2.A.1	PF00083,PF07690	AT2G35740.1	3.97e-149	46.1
+sp|O22842|CHI61_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|O80325|RNS7_PYRPY	neg	not_tp	1	---	None	False	False	False								
+Os08t0178200-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P23586|2.A.1.1.60	9.2e-233	67.3	2.A.1	PF00083,PF07690	AT1G11260.1	1.78e-232	67.3
+Os01t0930400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O48941|2.A.72.3.3	1.29e-307	55.3	2.A.72	PF02705	AT1G60160.1	3e-231	45.4
+sp|Q8W4K3|CAAT4_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8W4K3|2.A.3.3.14	0.0	100.0	2.A.3	PF00324	AT5G36940.1	7.75e-252	61.9
+sp|Q9C6W5|AB14G_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9C6W5|3.A.1.204.29	0.0	100.0	3.A.1	PF00005,PF01061	AT3G25620.2	8.41e-255	60.5
+sp|Q0WLC7|Y5053_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q0JNB6|HKT15_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q0JNB6|2.A.38.3.10	0.0	100.0	2.A.38	PF02386	Bradi1g45940.1	6.86e-237	66.9
+sp|Q6J541|C79D3_LOTJA	neg	not_tp	1	---	None	False	False	False								
+Os05t0214300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q5NAZ9|2.A.123.1.29	1.46e-93	59.1	2.A.123	PF03083	AT1G21460.2	1.1e-38	39.2
+sp|Q06BH3|SRF1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O49839|1.A.87.2.18	2.56e-51	37.5	1.A.87				
+Os09t0554300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|V4S612|2.A.69.2.7	6.59e-48	26.2	2.A.69	PF03547	AT5G65980.1	5.72e-162	54.7
+Os01t0175600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|M0ULF4|2.A.31.3.5	0.0	83.7	2.A.31	PF00955	AT1G15460.1	1.14e-317	66.5
+sp|Q93YW7|CRLS1_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|K0WKG7|4.F.1.1.8	6.99e-12	29.3	4.F.1				
+sp|P50162|TRN1_DATST	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|WP_062382148.1|1.A.115.1.5	7.16e-31	33.3	1.A.115				
+sp|E3W9M3|AA7GT_DELGR	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9UEF7|8.A.49.1.1	8.46e-77	32.4	8.A.49				
+sp|Q39227|SMT2_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|KAG6474414.1|1.A.130.1.3	1.67e-43	64.2	1.A.130				
+Os12t0204100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SAI4|1.A.8.12.9	4.08e-61	50.9	1.A.8	PF00230	AT1G80760.1	7.9e-61	50.9
+Os10t0547500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q10SY9|2.A.45.2.4	6.36e-271	80.9	2.A.45	PF03600	AT1G02260.1	1.28e-179	55.6
+sp|Q0JFI2|C93G1_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+sp|Q9XF43|KCS6_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|O64503|UTR1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O64503|2.A.7.11.4	2.37e-249	100.0	2.A.7	PF08449	AT5G59740.1	4.87e-34	31.9
+Os05t0588500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|XP_020105579|2.A.123.1.21	4.41e-99	63.4	2.A.123	PF03083	AT5G62850.1	1.14e-82	53.8
+Os01t0547600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|KMZ59016.1|2.A.1.8.18	4.53e-123	46.0	2.A.1	PF07690	AT5G14570.1	5e-130	48.0
+Os06t0125500-03	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FJD2|2.A.67.1.6	0.0	63.3	2.A.67	PF03169	AT4G10770.1	0.0	73.4
+sp|Q9SHJ6|PMD2_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|O22208|BZP17_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9LVP0|Y5639_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O22476|1.A.87.2.6	2.58e-65	36.7	1.A.87				
+sp|Q1PE40|PIP1_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os05t0424700-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q5ZD08|1.A.56.1.13	4.1e-48	61.3	1.A.56	PF04145	AT5G59030.1	6.85e-33	52.0
+sp|Q9XHC6|C93E1_SOYBN	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	1.02e-14	26.7	2.A.57				
+sp|Q6ASY2|NLTL1_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+Os10t0444700-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q01MW8|2.A.1.9.4	5.31e-310	81.6	2.A.1	PF00083,PF07690	AT3G54700.1	2.5e-286	76.7
+Os04t0573000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q2V4F9|2.A.1.2.61	0.0	69.7	2.A.1	PF03105,PF07690	AT4G22990.2	0.0	69.9
+sp|P80463|PHS1_PHALU	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P11827|1.C.121.1.1	6.74e-105	46.1	1.C.121				
+sp|Q6DSU1|GLV5_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9SHI2|Y1723_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9ZVR7|1.A.87.2.9	5.69e-67	39.0	1.A.87				
+sp|Q9MAX3|SUT12_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9MAX3|2.A.53.1.6	0.0	100.0	2.A.53	PF00916,PF01740	AT1G78000.4	0.0	100.0
+Os03t0281900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FNB5|3.A.1.204.31	1.61e-317	67.1	3.A.1	PF00005,PF01061	AT5G13580.1	3.12e-317	67.1
+sp|P37116|NCPR_VIGRR	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P29475|8.A.24.2.4	7.17e-71	30.0	8.A.24				
+sp|Q6H7D2|SIT1_ORYSJ	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9LSR8|1.A.87.2.3	3.33e-179	47.2	1.A.87				
+Os04t0542800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|G3XDL3|2.A.67.2.8	0.0	86.8	2.A.67	PF03169	AT5G24380.1	0.0	68.1
+sp|Q9SAA9|CP511_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os07t0258400-03	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8H4H5|2.A.55.2.19	5.78e-266	75.0	2.A.55	PF01566	AT1G15960.1	1.89e-196	61.0
+sp|P92939|ECA1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P92939|3.A.3.2.13	0.0	100.0	3.A.3	PF00122,PF00689,PF00690,PF00702	AT1G10130.1	3.07e-276	47.4
+Os01t0645900-01	pos	pred_tp	1	T-S	Medium	True	False	True	gnl|TC-DB|Q0WP36|2.A.53.5.3	2.38e-187	65.2	2.A.53		AT1G80310.1	4.6e-187	65.2
+sp|O64763|ATL9_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|Q7X843|8.A.112.1.6	1.71e-17	38.9	8.A.112				
+sp|O82244|ALG3_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9LSG3|GAUT8_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9LX66|HERK_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9SCZ4|1.A.130.1.1	3e-211	43.8	1.A.130				
+sp|Q9FKF4|ORANG_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q8VYT3|CIK3_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O49839|1.A.87.2.18	4.46e-60	41.5	1.A.87				
+Os09t0109800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A5PGV3|2.A.62.1.3	6.78e-246	71.6	2.A.62	PF03600	AT3G19490.1	3.06e-295	79.9
+Os05t0400600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q944H2|3.A.1.26.12	7.64e-139	64.2	3.A.1	PF02361	AT3G21580.1	1.48e-138	64.2
+sp|Q8LGR0|CHE1_CHEAL	neg	not_tp	1	---	None	False	False	False								
+sp|P46014|P2C70_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|KAH8782593.1|8.A.211.1.2	4.4e-11	29.8	8.A.211				
+Os04t0656100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|NP_001392441.1|3.A.3.3.13	0.0	92.6	3.A.3	PF00122,PF00690,PF00702	AT4G30190.1	0.0	85.8
+sp|Q6H7M3|HMA4_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9S7J8|3.A.3.5.32	2.9e-294	49.3	3.A.3	PF00122,PF00403,PF00702	AT5G44790.1	5.63e-294	49.3
+sp|Q9SMP2|S61G3_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P60059|3.A.5.9.1	1.95e-27	63.2	3.A.5	PF00584	GRMZM2G089491_P01	1.25e-38	87.0
+sp|C4B8E3|VIT1_TULGE	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9ZUA5|2.A.89.1.2	1.98e-119	72.3	2.A.89	PF01988	GSMUA_Achr7P12420_001	2.54e-129	78.3
+sp|Q94IA6|C90D1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|O49394|C82C2_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	6.05e-11	25.3	2.A.57				
+sp|A0A2I4E5L6|VCL6_JUGRE	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P11827|1.C.121.1.1	1.28e-61	31.3	1.C.121				
+sp|P28041|IAAA_HORVU	neg	not_tp	1	---	None	False	False	False								
+sp|C0LGD8|Y1755_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9FZB9|1.A.87.2.5	1.18e-160	48.6	1.A.87				
+Os12t0181600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q39134|2.A.18.2.3	6.59e-234	68.9	2.A.18	PF01490	AT1G77380.1	1.28e-233	68.9
+sp|Q9AR88|PSK4_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+sp|Q6ID76|GLV7_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|O22775|XXT2_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9LH79|SWET2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q5JJY5|2.A.123.1.28	1.2e-87	59.8	2.A.123	PF03083	AT1G21460.2	6.92e-49	43.1
+sp|O65688|FDFT2_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os01t0908600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P92961|2.A.18.3.1	2.95e-114	42.7	2.A.18	PF01490	AT3G55740.1	7.53e-111	42.2
+Os01t0202800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8LFP7|1.A.8.12.7	4.25e-102	63.9	1.A.8	PF00230	AT4G18910.1	8.24e-102	63.9
+Os08t0155400-03	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q05085|2.A.17.3.1	3.86e-251	62.0	2.A.17	PF00854	AT1G12110.1	7.48e-251	62.0
+Os05t0276100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SUQ7|2.A.37.4.2	3.29e-304	60.3	2.A.37	PF00999	AT3G17630.1	0.0	65.8
+Os04t0509600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P54144|1.A.11.2.1	2.04e-254	73.6	1.A.11	PF00909	AT3G24300.1	2.34e-245	74.3
+Os04t0462400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FKS8|2.A.18.2.2	2.61e-177	57.9	2.A.18	PF01490	AT1G25530.1	6.68e-193	60.0
+sp|Q8GSJ6|LQY1_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os07t0525100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O24091|2.A.7.4.1	2.07e-52	31.7	2.A.7	PF00892	AT5G64700.1	4.67e-89	44.5
+sp|O04928|CDS1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|F4K956|A70_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FG00|SUC9_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q39232|2.A.2.4.1	3.86e-260	74.3	2.A.2	PF07690	AT2G14670.1	7.46e-306	86.4
+sp|Q9FIU5|CRLK1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q70KR8|1.A.87.2.14	2.65e-62	36.4	1.A.87				
+sp|A0AA51VJB7|C7694_LOPWI	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	1.2e-18	25.8	2.A.57				
+sp|Q93ZS4|CIK1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9ZVR7|1.A.87.2.9	8.24e-66	41.0	1.A.87				
+sp|Q9ASU8|NDL2_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os01t0221600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LS46|2.A.85.2.7	3.98e-103	39.3	2.A.85	PF04632,PF11744	AT3G18440.1	7.72e-103	39.3
+Os01t0609300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|BAR94041|3.A.1.205.25	0.0	71.0	3.A.1	PF00005,PF01061,PF08370	AT1G15520.2	0.0	68.7
+Os12t0638200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LV10|2.A.17.3.20	3.48e-173	47.8	2.A.17	PF00854	AT5G62680.1	6.74e-173	47.8
+sp|Q0DS59|C14B2_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+sp|Q6DBG8|ARAD1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|B0F9L7|GOGC2_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os12t0514000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8VZ80|2.A.1.1.34	1.06e-157	52.9	2.A.1	PF00083,PF07690	AT3G18830.1	2.06e-157	52.9
+sp|Q3E991|PRK6_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|OAP18771.1|1.A.87.2.12	2.23e-54	37.5	1.A.87				
+sp|Q9SJE9|ALMT1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q15EV0|2.A.85.2.3	0.0	99.6	2.A.85	PF04632,PF11744	AT1G08440.1	2.11e-259	80.0
+sp|P93789|SGT1_SOLTU	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FGP9|RER1_ARATH	neg	pred_tp	1	--S	Low	False	False	True						AT5G22790.1	2.83e-285	100.0
+sp|Q8L9T8|AGP41_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os01t0852200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8GX78|2.A.1.14.45	2.56e-81	38.6	2.A.1	PF07690	AT3G46980.2	3.41e-179	67.6
+sp|Q9FXT4|AGAL_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+sp|P19667|CURC1_MOLLA	neg	not_tp	1	---	None	False	False	False								
+sp|C0LGJ1|Y1743_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O22476|1.A.87.2.6	3.49e-63	36.7	1.A.87				
+sp|Q9SJP9|PROT3_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P92961|2.A.18.3.1	1.27e-282	90.4	2.A.18	PF01490	AT3G55740.1	3.27e-261	85.6
+sp|A0A517FNC5|C90G4_PARPY	neg	not_tp	1	---	None	False	False	False								
+Os04t0521100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9XF58|1.A.8.11.7	1.37e-185	92.0	1.A.8	PF00230	AT2G37170.1	2.18e-161	81.3
+sp|Q6ZFH6|RCN11_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+sp|Q9LNJ4|C70A2_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q40235|CF9_SOLPI	neg	not_tp	1	---	None	False	False	False								
+sp|Q3ECJ5|CLE14_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P0DXJ6|C7631_LOPWI	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	1.79e-15	26.4	2.A.57				
+sp|Q2MJ20|C7A12_MEDTR	neg	not_tp	1	---	None	False	False	False								
+Os03t0128932-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8LPQ8|2.A.1.1.84	2.14e-217	50.5	2.A.1	PF00083,PF07690	AT4G35300.1	1.79e-218	49.9
+sp|Q6Z8D0|PUT1_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6Z8D0|2.A.3.12.5	0.0	100.0	2.A.3	PF00324	AT1G31830.2	3.76e-243	72.5
+Os10t0579200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8L6Z8|2.A.1.1.45	6.99e-221	68.2	2.A.1	PF00083,PF07690	AT5G17010.1	1.1e-231	71.8
+sp|Q9FZ49|ALG9_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|A0A077K9K6|CGT1B_CITLI	neg	not_tp	1	---	None	False	False	False								
+sp|P01086|IAAE_HORVU	neg	not_tp	1	---	None	False	False	False								
+Os07t0557200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|BAG95361.1|2.A.57.1.17	6.75e-219	72.8	2.A.57	PF01733	AT4G05140.1	3.39e-181	62.4
+sp|Q494Q2|HPAT2_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os02t0670000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q3UFJ6|2.A.82.1.10	1.26e-42	33.8	2.A.82	PF03619	AT4G38360.2	5.08e-197	59.2
+sp|Q9M815|PCR8_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9M9A5|1.A.87.3.5	1.65e-33	42.3	1.A.87				
+sp|Q9FG14|MYOB7_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os06t0270200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q19A13|2.A.72.3.11	0.0	66.5	2.A.72	PF02705	AT1G70300.1	0.0	66.8
+sp|Q9SNA3|Y3463_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9FZB9|1.A.87.2.5	1.32e-145	46.9	1.A.87				
+sp|Q38954|PHT21_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q38954|2.A.20.2.4	0.0	100.0	2.A.20	PF01384	Potri.010G046300.1.v4.1	3.5e-280	72.9
+Os09t0452300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q56ZZ7|2.A.1.1.102	1.41e-41	46.9	2.A.1	PF00083,PF07690	AT1G05030.2	1.86e-69	73.9
+Os04t0686800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LPU9|2.A.89.3.3	2.17e-66	61.8	2.A.89	PF01988	AT1G21140.1	4.21e-66	61.8
+Os05t0119000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q5W7C1|3.A.1.139.1	3.65e-191	100.0	3.A.1	PF03649	AT2G37330.1	1.3e-130	75.0
+sp|Q8L5C6|XIP1_WHEAT	neg	not_tp	1	---	None	False	False	False								
+sp|Q8VYY5|NCRK_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O49839|1.A.87.2.18	9.7e-58	39.5	1.A.87				
+sp|A0A1D6HSP4|C92C5_MAIZE	neg	not_tp	1	---	None	False	False	False								
+Os07t0522500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q7PC87|3.A.1.205.23	0.0	60.6	3.A.1	PF00005,PF01061,PF08370	AT2G36380.1	0.0	60.6
+sp|Q9LUG9|MD33A_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9ZPJ8|AMT12_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P54144|1.A.11.2.1	6.58e-250	73.3	1.A.11	PF00909	AT3G24300.1	8.84e-247	71.8
+sp|Q0P3J4|PSAJ_OSTTA	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|P56769|5.B.4.1.1	1.11e-13	62.5	5.B.4				
+Os02t0229400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8LPQ8|2.A.1.1.84	0.0	71.6	2.A.1	PF00083,PF07690	AT4G35300.1	0.0	72.8
+sp|F4K6B8|RGI4_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O22476|1.A.87.2.6	1.55e-52	37.1	1.A.87				
+Os04t0453400-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P23586|2.A.1.1.60	3.48e-161	46.6	2.A.1	PF00083,PF07690	AT1G34580.1	2.95e-176	53.1
+sp|Q9SB51|UBP16_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P32571|3.A.31.1.1	4.02e-21	25.3	3.A.31				
+sp|P92277|PSBM_CHLRE	neg	not_tp	1	---	None	False	False	False								
+sp|O23492|INT4_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O23492|2.A.1.1.62	0.0	100.0	2.A.1	PF00083,PF06609,PF07690	AT2G35740.1	0.0	80.5
+sp|Q9LFT5|EPFL1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|A0AAW1HA02|CSL1_SAPOF	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9SWW6|4.D.3.1.7	5.44e-114	30.0	4.D.3				
+sp|Q05047|SLS1_CATRO	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	2.5e-14	24.9	2.A.57				
+sp|Q9SBQ8|KGLT_PETHY	neg	not_tp	1	---	None	False	False	False								
+Os10t0539900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8LPQ8|2.A.1.1.84	0.0	70.4	2.A.1	PF00083,PF07690	AT4G35300.1	0.0	71.5
+sp|Q43402|OLNB6_BRANA	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FDZ5|URGT6_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LPU2|2.A.7.9.13	6.52e-95	51.6	2.A.7	PF03151	AT4G09810.1	1.36e-222	93.1
+sp|B4X640|VCL_PISVE	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P11827|1.C.121.1.1	3.96e-54	29.9	1.C.121				
+sp|Q8RXX9|ATL6_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|Q7X843|8.A.112.1.6	2.18e-19	48.7	8.A.112				
+sp|C0LGU0|PRK1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|OAP18771.1|1.A.87.2.12	4.61e-68	32.1	1.A.87				
+sp|Q8L9C4|KCR1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q8LPL8|POT13_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A5PH39|2.A.72.3.5	4.29e-216	45.3	2.A.72	PF02705	AT5G09400.1	0.0	73.8
+Os11t0637000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|AIU41385.1|2.A.1.1.123	3.64e-51	53.8	2.A.1	PF00083,PF07690	AT3G18830.1	6.35e-47	51.3
+Os11t0544500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9T0H9|2.A.106.1.7	1.16e-129	70.7	2.A.106	PF01169	AT4G13590.1	2.26e-129	70.7
+sp|Q949P1|ABAH1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q42580|PER21_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|M4E3U6|9.A.61.3.1	9.7e-54	36.9	9.A.61				
+sp|A0A0B4KZX8|C87D1_MAELA	neg	not_tp	1	---	None	False	False	False								
+Os01t0511600-03	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|B9EX61|2.A.122.2.2	0.0	100.0	2.A.122	PF04172	AT1G32080.1	6e-226	76.2
+Os12t0181500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q39134|2.A.18.2.3	3.27e-234	68.9	2.A.18	PF01490	AT1G77380.1	6.34e-234	68.9
+sp|P17654|AMY1_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+sp|Q42502|PT2K3_SOLTU	neg	not_tp	1	---	None	False	False	False								
+sp|A0A5B8ND22|CA108_MELAZ	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FPQ6|GP1_CHLRE	neg	not_tp	1	---	None	False	False	False								
+sp|A0A0N7F297|C82D6_SINHE	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	3.98e-13	28.8	2.A.57				
+sp|F4IUE7|COV1_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|Q72IY6|9.B.150.1.2	2.22e-18	29.5	9.B.150				
+sp|Q6NQN5|SWET3_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q5NAZ9|2.A.123.1.29	4.69e-84	59.5	2.A.123	PF03083	AT1G21460.2	2.06e-49	46.7
+sp|Q9SZ51|ENL15_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9C7F5|NTF2B_ARATH	pos	not_tp	1	---	None	False	False	False								
+Os08t0528500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9HC07|2.A.106.2.2	1.98e-52	41.8	2.A.106	PF01169	AT5G36290.1	3.63e-127	87.8
+Os04t0209200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|PKU85821.1|3.A.1.208.50	0.0	58.4	3.A.1	PF00005,PF00664	AT3G62700.1	0.0	52.7
+Os03t0341300-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q84WN3|2.A.123.1.31	2.55e-66	50.0	2.A.123	PF03083	AT4G25010.1	1.37e-47	40.1
+Os12t0512700-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LFH0|3.A.1.205.29	0.0	55.7	3.A.1	PF00005,PF01061,PF08370	AT2G37280.1	0.0	56.6
+sp|O81053|FUT2_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P62100|PSBI_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|P62100|3.E.2.2.3	3.31e-19	100.0	3.E.2				
+sp|O49639|CDS2_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FKS8|LHT1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FKS8|2.A.18.2.2	0.0	100.0	2.A.18	PF01490	AT5G40780.2	3.71e-294	100.0
+Os01t0876100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9XF71|2.A.49.3.2	4.39e-279	53.9	2.A.49	PF00654	AT5G49890.1	0.0	67.2
+sp|Q39231|SUC2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q39232|2.A.2.4.1	1.69e-285	76.7	2.A.2	PF07690	AT2G14670.1	1.06e-264	73.6
+Os06t0493600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8S403|2.A.94.1.1	3.15e-240	44.2	2.A.94	PF03105,PF03124	AT1G14040.1	1.38e-130	33.8
+Os04t0459000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LJX0|3.A.1.201.6	0.0	83.5	3.A.1	PF00005,PF00664	AT2G36910.1	0.0	53.2
+sp|A3BV82|MRS2G_ORYSJ	pos	pred_tp	1	T-S	Medium	True	False	True	gnl|TC-DB|Q93ZD7|1.A.35.5.4	1.12e-144	61.9	1.A.35		AT3G58970.1	2.18e-144	61.9
+Os12t0476200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|V4TK97|2.A.123.1.2	2.21e-88	60.2	2.A.123	PF03083	AT4G25010.1	6.29e-74	61.5
+sp|Q1H583|GDL18_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os11t0161900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SRD3|2.A.89.3.4	8.75e-32	46.6	2.A.89	PF01988	AT1G76800.1	1.7e-31	46.6
+sp|O22881|POT2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O22881|2.A.72.3.8	0.0	100.0	2.A.72	PF02705	AT5G14880.1	0.0	65.0
+Os10t0561300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|KAF6995428.1|2.A.1.1.145	1.08e-315	85.7	2.A.1	PF00083,PF07690	AT5G61520.1	2.11e-192	54.1
+sp|Q96247|AUX1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q96247|2.A.18.1.1	0.0	100.0	2.A.18	PF01490	AT2G38120.2	1.04e-306	100.0
+Os02t0138900-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q39254|2.A.19.2.4	4.64e-165	66.3	2.A.19	PF01699	AT1G55730.1	5.88e-168	67.4
+Os03t0296800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P23500|2.A.29.5.2	2.6e-58	41.3	2.A.29	PF00153	AT1G07030.1	7.72e-132	68.9
+Os10t0554200-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q43390|2.A.17.3.3	5.1e-247	60.7	2.A.17	PF00854	AT1G12110.1	9.62e-245	60.4
+Os09t0401100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|D3GE74|3.A.1.204.22	0.0	66.1	3.A.1	PF00005,PF01061	AT5G13580.1	6.44e-131	36.6
+sp|Q93ZH9|HHP1_ARATH	neg	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q96A54|1.C.113.1.9	1.36e-48	35.6	1.C.113	PF03006	AT5G20270.1	1.04e-245	100.0
+sp|Q7XLD4|ZIP3_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A3BI11|2.A.5.1.5	6.24e-108	52.8	2.A.5	PF02535	AT3G12750.1	9.43e-104	52.2
+sp|Q84TI7|HKT1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q84TI7|2.A.38.3.2	0.0	100.0	2.A.38	PF02386	Potri.018G132200.1.v4.1	1.37e-158	54.6
+sp|P85439|PER1_CATRO	neg	not_tp	1	---	None	False	False	False								
+sp|W8VRG3|VIT_CENCY	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9ZUA5|2.A.89.1.2	1.58e-120	79.7	2.A.89	PF01988	Potri.010G104200.1.v4.1	8.66e-128	84.6
+Os06t0726600-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q3UFJ6|2.A.82.1.10	3.11e-38	32.5	2.A.82	PF03619	AT4G38360.2	9.44e-244	68.6
+Os05t0447200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q96247|2.A.18.1.1	1.52e-293	81.4	2.A.18	PF01490	AT5G01240.1	4.93e-288	79.2
+sp|Q9FE59|SUC4_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FE59|2.A.2.4.6	0.0	100.0	2.A.2	PF07690	AT2G14670.1	8e-167	53.5
+sp|Q8RWW0|ALE2_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O49839|1.A.87.2.18	7.64e-73	44.3	1.A.87				
+sp|Q9MAP7|SBT35_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|A8MRC6|LUR15_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os04t0682800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O65272|2.A.37.1.7	0.0	68.1	2.A.37	PF00999,PF02254	AT4G00630.1	0.0	68.1
+sp|Q6DBH0|APD2_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os03t0100800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LY32|3.A.3.3.12	0.0	75.8	3.A.3	PF00122,PF00690,PF00702	AT5G62670.1	0.0	77.7
+sp|P01070|ITRA_SOYBN	neg	not_tp	1	---	None	False	False	False								
+sp|Q9ZQB9|CSLCC_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|A8HWD0|4.D.3.1.10	2.56e-43	33.0	4.D.3				
+Os04t0555300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8TED4|2.A.1.4.8	2.51e-132	48.1	2.A.1	PF07690	AT3G47420.1	2.39e-234	69.5
+sp|A0A075F7E9|LERK1_ORYSI	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P0DH86|1.A.87.2.16	2.07e-59	26.2	1.A.87				
+sp|Q39034|PER59_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|M4E3U6|9.A.61.3.1	1.07e-70	45.0	9.A.61				
+sp|Q84WN3|SWT17_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q84WN3|2.A.123.1.31	6.37e-172	100.0	2.A.123	PF03083	AT3G16690.2	7.16e-72	71.7
+Os04t0452600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P23586|2.A.1.1.60	2.95e-157	48.4	2.A.1	PF00083,PF07690	AT1G34580.1	1.58e-178	52.9
+sp|A0A4D6Q414|CYP2_CROXC	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FMF7|DIT21_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q41364|2.A.47.3.1	2.38e-157	51.0	2.A.47	PF00939,PF03600	AT5G64280.1	3.01e-251	66.8
+sp|Q94AZ2|STP13_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q94AZ2|2.A.1.1.50	0.0	100.0	2.A.1	PF00083,PF07690	AT1G11260.1	1.07e-208	59.2
+Os02t0810300-01	pos	pred_tp	1	--S	Low	False	False	True	gnl|TC-DB|Q8R6Q4|3.A.1.141.2	1.59e-14	30.6	3.A.1		AT1G03905.1	2.84e-154	76.7
+sp|Q8L8Z1|CSPLO_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|Q9SQU2|9.B.56.1.5	9.16e-13	29.5	9.B.56				
+sp|B9DFK5|RETIC_ARATH	neg	pred_tp	1	--S	Low	False	False	True						AT2G37860.3	1.24e-299	100.0
+sp|Q9ZT50|RHA2A_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os10t0494300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8RXN0|3.A.1.204.8	0.0	79.5	3.A.1	PF00005,PF01061	AT3G21090.1	6.83e-251	58.1
+Os07t0206600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SFG0|2.A.1.1.56	1.95e-210	60.8	2.A.1	PF00083,PF07690	AT5G26250.1	4.27e-214	62.3
+sp|Q9LXF3|CASP5_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|Q9SQU2|9.B.56.1.5	2.71e-19	35.4	9.B.56				
+sp|E5RP65|PT1_HUMLU	neg	not_tp	1	---	None	False	False	False								
+sp|Q9LTS3|CKX3_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9LPT1|PRK5_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|OAP18771.1|1.A.87.2.12	1.31e-58	34.9	1.A.87				
+Os03t0674300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8RY60|1.A.112.1.9	6.7e-143	53.4	1.A.112	PF01595	AT2G14520.2	2.03e-213	74.7
+Os03t0406900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q3UFJ6|2.A.82.1.10	3.76e-43	33.8	2.A.82	PF03619	AT1G23070.1	6.04e-175	63.8
+sp|A0A5A4DV62|C9B27_PARPY	neg	not_tp	1	---	None	False	False	False								
+sp|Q9AXI1|OL141_ARAHY	neg	not_tp	1	---	None	False	False	False								
+sp|Q9SP62|FADX_IMPBA	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|RCK63797.1|9.A.76.1.2	3.09e-78	35.1	9.A.76				
+sp|Q9FFD5|RIC4_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9C757|INT2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9C757|2.A.1.1.63	0.0	100.0	2.A.1	PF00083,PF07690	AT2G35740.1	3.52e-228	59.2
+Os03t0156700-01	pos	pred_tp	1	--S	Low	False	False	True						AT2G16800.1	1.05e-120	65.6
+sp|Q9FFL1|RMV1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FFL1|2.A.3.12.3	0.0	100.0	2.A.3	PF00324	AT1G31830.1	1.74e-251	69.4
+sp|Q9LYU7|CRN_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|OAP18771.1|1.A.87.2.12	3.94e-41	32.8	1.A.87				
+sp|P29835|GL19_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+sp|Q6WKZ1|C71DI_MENGR	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	4.93e-20	33.5	2.A.57				
+sp|Q42093|AB2C_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q42093|3.A.1.208.5	0.0	100.0	3.A.1	PF00005,PF00664	AT2G34660.3	0.0	100.0
+sp|Q93YS4|AB22G_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A9SCA8|3.A.1.204.11	1.54e-216	55.4	3.A.1	PF00005,PF01061	AT3G52310.1	0.0	68.7
+sp|F4HXQ7|MYOB1_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os03t0337500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O22881|2.A.72.3.8	0.0	71.4	2.A.72	PF02705	AT5G14880.1	0.0	61.6
+sp|Q38890|GUN25_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|I1HTF7|DET2_BRADI	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|C4LVC4|2.A.90.3.4	1.69e-37	34.1	2.A.90				
+sp|M1KVN4|F6H_MENPI	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	1.55e-16	27.0	2.A.57				
+sp|O64883|BGL26_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9UEF7|8.A.49.1.1	2.08e-77	32.1	8.A.49				
+Os12t0485600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SX98|2.A.18.2.8	1.32e-285	72.8	2.A.18	PF01490	AT1G47670.1	2.57e-285	72.8
+sp|Q9LUR4|SWT16_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LUR4|2.A.123.1.23	1.34e-163	100.0	2.A.123	PF03083	AT3G16690.2	2.62e-100	98.0
+sp|Q8W245|ZIP10_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A3KC69|2.A.5.1.17	4.37e-157	67.0	2.A.5	PF02535	AT4G19690.2	3.33e-130	57.1
+sp|Q84MA5|CAAT1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q84MA5|2.A.3.3.3	0.0	100.0	2.A.3	PF00324	AT4G21120.2	6.91e-319	100.0
+sp|Q9M9C5|Y1680_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|OAP18771.1|1.A.87.2.12	4.83e-98	45.3	1.A.87				
+Os11t0508600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|ANC68268.1|2.A.123.1.27	2.65e-91	60.7	2.A.123	PF03083	AT4G25010.1	3.08e-76	53.7
+sp|Q1MX30|XA21_ORYSI	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9ZT07|1.A.87.2.18	1.15e-42	33.6	1.A.87				
+sp|Q9M0Y2|ENT4_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M0Y3|2.A.57.1.7	2.58e-253	82.5	2.A.57	PF01733	AT4G05140.1	4.12e-236	77.1
+Os07t0191200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|NP_001392441.1|3.A.3.3.13	0.0	80.5	3.A.3	PF00122,PF00690,PF00702	AT5G62670.1	0.0	87.5
+Os08t0510300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M7K4|2.A.72.3.9	1.18e-182	40.8	2.A.72	PF02705	AT1G60160.1	8.75e-162	38.2
+sp|Q9M9E1|AB40G_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M9E1|3.A.1.205.10	0.0	100.0	3.A.1	PF00005,PF01061,PF08370	AT1G15520.2	0.0	100.0
+sp|Q6NMN6|SPNS1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6NMN6|2.A.1.49.5	0.0	100.0	2.A.1	PF00083,PF06779,PF07690	AT2G22730.3	1.62e-216	64.1
+sp|Q43866|INV1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9SRI1|SC13A_ARATH	pos	pred_tp	1	TP-	Medium	True	True	False	gnl|TC-DB|G0SA60|1.I.1.1.2	1.02e-60	57.8	1.I.1	PF00400			
+sp|Q9SD85|F3PH_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	3.73e-17	25.5	2.A.57				
+sp|Q9M3B1|WSD6_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os02t0689200-01	pos	pred_tp	1	T-S	Medium	True	False	True	gnl|TC-DB|Q9LPF6|2.A.7.14.3	2.01e-144	62.0	2.A.7		AT1G44750.2	2.58e-144	62.0
+Os06t0556000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P92934|2.A.18.2.4	2.21e-210	63.0	2.A.18	PF01490	AT5G49630.1	4.29e-210	63.0
+sp|Q9FLT4|AB10A_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FLT8|3.A.1.211.12	0.0	76.8	3.A.1	PF00005	AT5G61740.3	0.0	100.0
+sp|C4B8C5|EPFL7_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os03t0576900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6Z8D0|2.A.3.12.5	9.23e-236	69.2	2.A.3	PF00324	AT1G31830.2	1.34e-248	70.4
+sp|Q3E7D0|NAT12_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q3E7D0|2.A.40.6.6	0.0	100.0	2.A.40	PF00860	AT2G27810.2	0.0	100.0
+Os12t0512100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8VZ80|2.A.1.1.34	4.37e-131	45.1	2.A.1	PF00083,PF07690	AT3G18830.1	8.47e-131	45.1
+sp|P56772|CLPP1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O97252|3.A.26.1.1	1.51e-31	34.3	3.A.26				
+sp|C0LGL4|Y2289_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9FZB9|1.A.87.2.5	8.58e-148	46.2	1.A.87				
+Os02t0301100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|XP_020105579|2.A.123.1.21	1.07e-85	55.4	2.A.123	PF03083	AT5G62850.1	1.8e-77	53.0
+sp|Q9LXV3|DIT1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q41364|2.A.47.3.1	1.43e-307	88.1	2.A.47	PF00939,PF03600	AT5G64280.1	2.45e-147	48.3
+sp|Q6WKY9|C7D95_MENGR	neg	not_tp	1	---	None	False	False	False								
+sp|Q9FMX3|STP11_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FMX3|2.A.1.1.61	0.0	100.0	2.A.1	PF00083,PF07690	AT1G11260.1	2.05e-215	60.8
+sp|P56165|MPA52_PHAAQ	neg	not_tp	1	---	None	False	False	False								
+sp|O04153|CALR3_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P27797|8.A.165.1.2	3.35e-78	49.7	8.A.165				
+sp|P14946|MPAL1_LOLPR	neg	not_tp	1	---	None	False	False	False								
+Os09t0322000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|OAY27969.1|2.A.1.1.135	2.75e-259	71.6	2.A.1	PF00083,PF07690	AT1G77210.1	3.15e-248	70.8
+sp|O64471|MTX_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|A0A517FND1|82J17_TRIFG	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	5.22e-17	25.7	2.A.57				
+sp|Q8L540|LTO1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|WP_017304407.1|9.B.265.1.6	2.72e-39	33.4	9.B.265				
+Os05t0426000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8L9J7|2.A.123.1.9	2.3e-95	68.2	2.A.123	PF03083	AT1G21460.2	9.62e-84	68.4
+sp|Q9FLT5|AB9A_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FLT5|3.A.1.211.20	0.0	100.0	3.A.1	PF00005	AT5G61690.2	0.0	83.8
+Os05t0198400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M7J1|2.A.5.1.6	5.23e-112	56.5	2.A.5	PF02535	AT1G10970.1	2.98e-115	59.1
+sp|Q39191|WAK1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P43298|1.A.87.2.13	1.64e-53	41.1	1.A.87				
+sp|P0DXH1|MOI2_MELAZ	neg	not_tp	1	---	None	False	False	False								
+sp|A0A077K8G3|CGT1A_CITLI	neg	not_tp	1	---	None	False	False	False								
+sp|Q9LT15|STP10_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LT15|2.A.1.1.124	0.0	100.0	2.A.1	PF00083,PF07690	AT1G50310.2	4.69e-230	85.8
+Os11t0490800-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9WY65|3.A.1.25.5	5.43e-32	35.0	3.A.1	PF00005	AT5G14100.1	2.92e-110	66.8
+Os03t0858800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SZE2|2.A.66.1.59	6.78e-85	36.7	2.A.66	PF01554	AT4G22790.1	1.38e-159	53.3
+sp|P83618|RN28_PANGI	neg	not_tp	1	---	None	False	False	False								
+sp|I1HL09|C90D2_BRADI	neg	not_tp	1	---	None	False	False	False								
+sp|P0DI75|S61G2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P60059|3.A.5.9.1	2.03e-29	73.1	3.A.5	PF00584	GRMZM2G089491_P01	3.73e-40	94.1
+sp|A0A3Q7HBJ5|C7A44_SOLLC	neg	not_tp	1	---	None	False	False	False								
+sp|Q94FB9|AB1D_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q94FB9|3.A.1.203.5	0.0	100.0	3.A.1	PF00005,PF06472	AT1G54350.1	3.51e-44	27.9
+sp|Q944M5|SWET4_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|XP_020105579|2.A.123.1.21	7.34e-76	55.7	2.A.123	PF03083	AT5G62850.1	3.39e-90	57.0
+Os01t0567500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P23586|2.A.1.1.60	1.8e-221	64.2	2.A.1	PF00083,PF07690	AT1G11260.1	3.49e-221	64.2
+sp|Q96326|CCME_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q6YDN9|XTH_BRAOB	neg	not_tp	1	---	None	False	False	False								
+Os12t0503000-01	pos	pred_tp	1	T-S	Medium	True	False	True	gnl|TC-DB|Q6S9Z3|2.A.7.19.1	8.06e-182	63.9	2.A.7		AT2G03530.1	1.35e-175	62.0
+sp|Q9C8M9|SRF6_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O49839|1.A.87.2.18	3.64e-58	40.0	1.A.87				
+sp|Q9T6H8|CCMF1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9LYY2|TI143_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|Q07914|3.A.8.1.1	2.05e-16	52.4	3.A.8				
+sp|Q8H8V7|AB5G_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FNB5|3.A.1.204.31	3.12e-317	67.1	3.A.1	PF00005,PF01061	AT5G13580.1	6.05e-317	67.1
+Os08t0155400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q43390|2.A.17.3.3	1.09e-183	60.6	2.A.17	PF00854	AT1G12110.1	7.16e-182	60.4
+Os11t0546000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P61221|3.A.1.31.4	0.0	75.5	3.A.1	PF00005	AT4G19210.1	0.0	91.1
+sp|Q9C9M9|SWET6_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8LBF7|2.A.123.1.30	1.5e-131	73.6	2.A.123	PF03083	AT5G62850.1	1.79e-67	50.2
+sp|Q9FFZ7|CASP4_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q38944|DET2_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|C4LVC4|2.A.90.3.4	9.53e-45	36.9	2.A.90				
+sp|P19407|OEC6_SPIOL	neg	not_tp	1	---	None	False	False	False								
+sp|B6DZC8|1FEH3_WHEAT	neg	not_tp	1	---	None	False	False	False								
+sp|Q9LEM9|DES6_CERPU	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|RLT34927.1|9.A.76.1.12	1.27e-36	29.7	9.A.76				
+sp|Q93WG3|CJD1_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os07t0603800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P46032|2.A.17.3.2	3.42e-165	43.8	2.A.17	PF00854	AT2G02040.1	6.63e-165	43.8
+sp|Q5N8J1|SWT2B_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q5N8J1|2.A.123.1.18	6.37e-162	100.0	2.A.123	PF03083	AT1G21460.2	8.82e-51	48.1
+sp|Q8H0S3|SC23B_ARATH	pos	not_tp	1	---	None	False	False	False								
+sp|Q8LGB6|ZED1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9SVY5|1.A.87.2.17	1.33e-97	45.7	1.A.87				
+sp|W8JIS5|IO_CATRO	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	1.91e-22	25.0	2.A.57				
+sp|P86842|CYCB_CLITE	neg	not_tp	1	---	None	False	False	False								
+sp|Q38Q87|C82E4_TOBAC	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	2.1e-12	24.5	2.A.57				
+Os01t0695800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|XP_021313046.1|3.A.1.201.53	0.0	71.9	3.A.1	PF00005,PF00664	AT1G02520.1	0.0	60.2
+sp|O04036|ERD6_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O04036|2.A.1.1.97	0.0	100.0	2.A.1	PF00083,PF07690	AT3G05165.1	1.58e-174	52.1
+sp|Q9FRL3|ERDL6_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FRL3|2.A.1.1.98	0.0	100.0	2.A.1	PF00083,PF07690	AT1G19450.1	2.1e-319	91.6
+sp|Q9LD18|POT4_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M7K3|2.A.72.3.4	0.0	65.8	2.A.72	PF02705	AT1G70300.1	1.02e-282	53.5
+Os06t0560000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O80905|2.A.100.1.3	3.7e-164	55.2	2.A.100	PF06963	AT5G03570.1	4.53e-167	54.7
+sp|Q9LF97|Y3295_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q94K78|UCRY_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|O64759|CAAT5_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O64759|2.A.3.3.12	0.0	100.0	2.A.3	PF00324	AT1G17120.1	7.69e-249	61.5
+Os03t0323800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SX55|1.B.8.2.3	5.43e-138	61.8	1.B.8	PF01459	AT3G20000.1	4.11e-156	69.6
+sp|Q93XI5|HKT22_ORYSI	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A3FFK5|2.A.38.3.4	0.0	99.4	2.A.38	PF02386	Bradi1g34220.1	1.09e-240	67.2
+Os04t0652400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q5VQ79|2.A.53.1.16	1.53e-268	63.5	2.A.53	PF00916,PF01740	AT1G23090.1	2.14e-316	71.9
+Os03t0397400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q39254|2.A.19.2.4	2.17e-197	75.3	2.A.19	PF01699	AT1G55730.1	3.32e-201	71.5
+sp|Q9LJP4|CSLC4_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|A8HWD0|4.D.3.1.10	7.04e-43	37.1	4.D.3				
+sp|Q681K7|GEX1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q94DG6|ZIP1_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q94DG6|2.A.5.3.4	1.59e-216	100.0	2.A.5	PF02535	AT5G59520.1	3.02e-114	52.1
+Os12t0133100-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q94BZ1|2.A.1.2.111	6.87e-198	60.8	2.A.1	PF00083,PF07690	AT3G43790.1	1.15e-198	59.4
+sp|Q9SZR1|ACA10_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LF79|3.A.3.2.10	0.0	73.4	3.A.3	PF00122,PF00689,PF00690,PF00702	AT3G21180.1	0.0	69.8
+Os02t0775100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|I7FXJ5|2.A.4.5.3	1.96e-195	68.2	2.A.4	PF01545	AT3G58060.1	1.41e-171	66.5
+Os07t0669700-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M7K3|2.A.72.3.4	0.0	83.8	2.A.72	PF02705	AT1G70300.1	3e-295	55.1
+sp|Q33DY0|C81Q1_SESIN	neg	not_tp	1	---	None	False	False	False								
+sp|Q42372|LCB2_ROBPS	neg	not_tp	1	---	None	False	False	False								
+Os02t0175000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|ATZ78068.1|2.A.38.3.6	3.2e-159	48.1	2.A.38	PF02386	Bradi3g05570.1	2.72e-262	72.8
+sp|Q41162|LCS1_ROBPS	neg	not_tp	1	---	None	False	False	False								
+sp|Q7Y1Z1|CHI7_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+sp|Q9S7P5|SPL12_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os09t0394500-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q56ZZ7|2.A.1.1.102	1.04e-134	44.6	2.A.1	PF00083,PF07690	AT1G05030.1	4e-239	73.8
+sp|Q0D9S3|HKT21_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q0D9S3|2.A.38.3.3	0.0	100.0	2.A.38	PF02386	Bradi1g34220.1	6.8e-249	68.6
+sp|Q9SCV8|BGAL4_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P62109|PSBM_ARATH	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|P62109|3.E.2.2.3	9.56e-16	100.0	3.E.2				
+sp|Q4W1I9|PER2_ZINEL	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|M4E3U6|9.A.61.3.1	2.06e-65	40.6	9.A.61				
+sp|Q9XID3|Y1343_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P0DH86|1.A.87.2.16	4.65e-59	27.0	1.A.87				
+sp|C0LGS3|Y4372_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9ZU46|1.A.87.2.18	7.22e-92	43.1	1.A.87				
+Os04t0452700-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P23586|2.A.1.1.60	1.01e-169	50.0	2.A.1	PF00083,PF07690	AT1G34580.1	1.34e-188	53.3
+sp|Q9FH31|2SS5_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|C0LGD7|Y1684_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9SCZ4|1.A.130.1.1	3.33e-68	45.9	1.A.130				
+sp|Q39228|STP4_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q39228|2.A.1.1.49	0.0	100.0	2.A.1	PF00083,PF07690	AT1G11260.1	4.82e-226	62.4
+Os02t0676400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SLV0|2.A.66.1.51	5.53e-175	59.1	2.A.66	PF01554	AT4G23030.1	6.05e-187	62.9
+Os05t0237800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FKS8|2.A.18.2.2	1.56e-203	66.5	2.A.18	PF01490	AT1G48640.1	1.66e-192	64.4
+sp|Q9LZB8|AB29B_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O06967|3.A.1.117.3	3.41e-72	34.5	3.A.1	PF00005,PF00664	AT3G28345.1	3.19e-60	44.7
+Os02t0650300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9AY27|2.A.67.2.1	0.0	78.4	2.A.67	PF03169	AT5G53550.1	3.18e-308	63.0
+sp|P27582|FABG6_BRANA	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|WP_062382148.1|1.A.115.1.5	9.73e-11	27.5	1.A.115				
+sp|A0A517FND0|94D19_PARPY	neg	not_tp	1	---	None	False	False	False								
+sp|P23547|E13G_TOBAC	neg	not_tp	1	---	None	False	False	False								
+sp|Q6VVA6|HAK1_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6VVA6|2.A.72.3.7	0.0	100.0	2.A.72	PF02705	AT1G60160.1	4.15e-214	42.0
+sp|F4J220|LPPE1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q8VZC0|UXS1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P27830|9.B.18.2.4	1.59e-22	26.2	9.B.18				
+sp|Q0WSX8|TIK_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9M7K4|POT5_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M7K4|2.A.72.3.9	0.0	100.0	2.A.72	PF02705	AT1G60160.1	1.38e-227	45.3
+sp|O23087|ECA2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P92939|3.A.3.2.13	0.0	65.8	3.A.3	PF00122,PF00689,PF00690,PF00702	AT1G10130.1	4.46e-271	47.1
+sp|Q8VXX0|SC23F_ARATH	pos	not_tp	1	---	None	False	False	False								
+sp|P47735|RLK5_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O22476|1.A.87.2.6	1.17e-61	40.4	1.A.87				
+Os12t0511300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q058P6|2.A.7.20.4	3.38e-113	52.3	2.A.7	PF08627	AT4G24460.1	6.57e-140	63.7
+sp|F4IED2|NAC13_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9LRB7|EL5_ORYSJ	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|Q7X843|8.A.112.1.6	2.04e-13	41.8	8.A.112				
+sp|A0A2K3DMP5|PSBR_CHLRE	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P27202|3.E.2.2.3	1.66e-24	58.8	3.E.2				
+Os01t0103100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P46032|2.A.17.3.2	1.46e-134	42.4	2.A.17	PF00854	AT5G13400.1	1.19e-256	66.0
+Os02t0172600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9S7J8|3.A.3.5.32	0.0	68.1	3.A.3	PF00122,PF00403,PF00702	AT5G44790.1	0.0	68.1
+Os12t0518200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|OAP16824.1|2.A.7.4.4	8.5e-66	37.6	2.A.7	PF00892	AT5G64700.1	9.61e-94	44.4
+Os07t0448800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9XF58|1.A.8.11.7	6.32e-175	87.7	1.A.8	PF00230	AT2G37170.1	8.36e-166	82.9
+sp|D1MI46|C76BA_SWEMU	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	5.02e-14	23.0	2.A.57				
+sp|Q9SS43|MUC21_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9T0K5|LRX3_ARATH	neg	pred_tp	1	TP-	Medium	True	True	False	gnl|TC-DB|Q9XIL9|3.A.20.1.2	4.24e-42	58.5	3.A.20	PF08263			
+Os08t0153300-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LPU9|2.A.89.3.3	1e-54	55.3	2.A.89	PF01988	AT1G21140.1	1.94e-54	55.3
+sp|Q9ZV02|SWET9_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9ZV02|2.A.123.1.24	2.29e-178	100.0	2.A.123	PF03083	AT4G25010.1	1.61e-66	52.3
+Os01t0869200-01	pos	pred_tp	1	T-S	Medium	True	False	True	gnl|TC-DB|AED97921.1|1.A.35.5.11	7.64e-81	44.3	1.A.35		AT3G19640.1	3.63e-100	44.8
+sp|Q8L7S6|HEXO3_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|P18417|STSY_CATRO	neg	not_tp	1	---	None	False	False	False								
+sp|P16300|LEC_PHALU	neg	not_tp	1	---	None	False	False	False								
+Os02t0620600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P54144|1.A.11.2.1	4.61e-248	76.2	1.A.11	PF00909	AT4G28700.1	3.25e-239	73.8
+sp|P14280|PME1_SOLLC	neg	not_tp	1	---	None	False	False	False								
+sp|P56339|PSBL_CHLVU	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|P60129|3.E.2.2.3	3.63e-17	84.2	3.E.2				
+sp|Q6ZFZ4|DEK1_ORYSJ	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P07384|8.A.82.1.12	9.68e-55	31.5	8.A.82				
+Os08t0205200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q4W6L4|2.A.57.1.16	2.54e-304	100.0	2.A.57	PF01733	AT1G70330.1	3.92e-184	65.9
+Os10t0580400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q7XBS0|2.A.21.6.3	0.0	100.0	2.A.21	PF00474	AT5G45380.1	0.0	77.0
+sp|Q9M2L4|ACA11_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O81108|3.A.3.2.12	0.0	63.1	3.A.3	PF00122,PF00689,PF00690,PF00702	AT2G41560.1	0.0	87.4
+sp|Q8W4D4|BAGP1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|A1E9H9|PSBM_HORVU	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|P62109|3.E.2.2.3	3.22e-14	91.2	3.E.2				
+sp|Q93Z27|CML46_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q94AN2|CHER1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q94AN2|2.A.92.1.10	0.0	100.0	2.A.92	PF04515	Potri.011G121100.3.v4.1	0.0	80.3
+Os02t0689900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LQL2|2.A.17.3.19	9.87e-235	60.5	2.A.17	PF00854	AT1G32450.1	1.91e-234	60.5
+sp|Q9M9N9|AXY9_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|O65797|ADS1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9M1Q9|AB21B_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M1Q9|3.A.1.201.36	0.0	100.0	3.A.1	PF00005,PF00664	AT2G47000.1	0.0	83.3
+Os10t0579600-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P46032|2.A.17.3.2	1.17e-140	45.0	2.A.17	PF00854	AT2G02040.1	2.26e-140	45.0
+Os12t0580400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6Z8D0|2.A.3.12.5	1.29e-156	58.3	2.A.3	PF00324	AT3G19553.1	5.23e-191	65.4
+Os01t0597600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P47082|2.A.18.5.2	5.27e-29	24.5	2.A.18	PF01490	AT3G28960.1	5.27e-121	48.1
+sp|Q0WL80|UGGG_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|A9YWR6|STR2_MEDTR	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A9YWR6|3.A.1.204.22	0.0	100.0	3.A.1	PF00005,PF01061	AT5G13580.1	3.3e-135	38.3
+Os08t0323700-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O22526|2.A.30.1.20	0.0	77.6	2.A.30	PF00324,PF03522	AT1G30450.4	0.0	81.1
+sp|Q9FY94|SWT15_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FY94|2.A.123.1.3	7.46e-201	100.0	2.A.123	PF03083	AT4G25010.1	2.82e-68	51.1
+sp|Q39176|ERLI1_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os05t0382200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M353|2.A.37.4.8	7.14e-128	53.7	2.A.37	PF00999	AT3G53720.1	1.38e-127	53.7
+sp|Q8L4X4|GAT2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|F4HW02|2.A.18.2.13	1.03e-139	47.3	2.A.18	PF01490	AT1G08230.2	1.99e-139	47.3
+sp|P16850|IAAC1_WHEAT	neg	not_tp	1	---	None	False	False	False								
+Os06t0695800-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q5Z8H2|3.A.1.139.1	9.13e-204	100.0	3.A.1	PF00005	AT1G67940.1	3.08e-121	68.3
+sp|Q9LK64|AB3C_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LK64|3.A.1.208.17	0.0	100.0	3.A.1	PF00005,PF00664	AT3G13080.3	0.0	100.0
+sp|Q9LNV3|STP2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LNV3|2.A.1.1.48	0.0	100.0	2.A.1	PF00083,PF07690	AT3G05960.1	4.69e-194	57.1
+sp|Q7PC76|CSLA1_ORYSJ	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|A8HWD0|4.D.3.1.10	3.76e-46	36.5	4.D.3				
+Os01t0503400-03	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8H4H5|2.A.55.2.19	3.64e-185	57.7	2.A.55	PF01566	AT1G15960.1	1.7e-137	46.5
+sp|Q6R2J8|SRF8_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O49839|1.A.87.2.18	2.16e-65	42.4	1.A.87				
+Os01t0609900-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O24367|3.A.1.205.20	0.0	69.4	3.A.1	PF00005,PF01061,PF08370	AT1G15520.2	0.0	67.7
+Os06t0129400-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q2V4F9|2.A.1.2.61	0.0	70.7	2.A.1	PF00083,PF03105,PF07690	AT4G22990.1	0.0	71.8
+sp|Q8RWA5|NDT2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8RWA5|2.A.29.10.10	4.02e-243	100.0	2.A.29	PF00153	AT5G66380.1	4.72e-52	37.6
+sp|P84752|PERA_ALOVR	neg	not_tp	1	---	None	False	False	False								
+sp|O04532|FH8_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os01t0770700-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q5ZD08|1.A.56.1.13	2.08e-48	66.2	1.A.56	PF04145	AT5G59030.1	2.65e-35	60.4
+Os10t0404500-02	pos	pred_tp	1	T-S	Medium	True	False	True	gnl|TC-DB|Q9SXM0|2.A.2.4.2	9.48e-253	72.3	2.A.2		AT2G02860.2	8.22e-138	49.3
+Os02t0176700-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9LF79|3.A.3.2.10	0.0	69.2	3.A.3	PF00122,PF00689,PF00690,PF00702	AT3G21180.1	0.0	69.5
+Os09t0556400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O82390|2.A.1.14.22	3.07e-106	39.2	2.A.1	PF00083,PF07690	AT5G20380.1	4.26e-243	72.3
+sp|P83948|PME3_CITSI	neg	not_tp	1	---	None	False	False	False								
+sp|Q45W86|OL112_ARAHY	neg	not_tp	1	---	None	False	False	False								
+sp|F5B8W8|COND1_LUPAN	neg	not_tp	1	---	None	False	False	False								
+Os08t0466200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|O22397|2.A.72.3.1	1.58e-163	39.0	2.A.72	PF02705	AT1G70300.1	1.35e-158	40.7
+sp|Q9LRP3|Y3174_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9ZVR7|1.A.87.2.9	3.01e-68	42.0	1.A.87				
+sp|Q0WUC5|ALB33_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|A0A9E7LUJ4|AS_ALSSC	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	4.44e-15	27.2	2.A.57				
+sp|O20030|YCF4_CHLRE	neg	not_tp	1	---	None	False	False	False								
+sp|A2YGP9|HKT21_ORYSI	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q0D9S3|2.A.38.3.3	0.0	100.0	2.A.38	PF02386	Bradi1g34220.1	6.8e-249	68.6
+sp|Q9SRY3|RLF1_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os05t0567700-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|XP_044377469.1|2.A.1.1.155	7.73e-287	83.6	2.A.1	PF00083,PF07690	AT1G19450.1	3.9e-233	69.1
+Os08t0544400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q7PC84|3.A.1.205.22	0.0	53.0	3.A.1	PF00005,PF01061,PF08370	AT1G66950.1	0.0	53.0
+Os02t0809800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8S403|2.A.94.1.1	1.24e-257	50.8	2.A.94	PF03105,PF03124	AT1G35350.2	7.85e-115	39.6
+Os01t0935500-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M7K3|2.A.72.3.4	0.0	70.2	2.A.72	PF02705	AT1G70300.1	3.19e-242	52.6
+Os03t0281600-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P92939|3.A.3.2.13	0.0	78.5	3.A.3	PF00122,PF00689,PF00690,PF00702	AT1G10130.1	1.31e-275	47.0
+sp|Q7X8H9|AI172_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+sp|P92961|PROT1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P92961|2.A.18.3.1	8.36e-319	100.0	2.A.18	PF01490	AT2G39890.3	2.33e-274	100.0
+sp|Q7PC88|AB31G_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9XIE2|3.A.1.205.9	0.0	55.1	3.A.1	PF00005,PF01061,PF08370	AT1G15210.1	0.0	55.6
+Os04t0659800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9FF99|2.A.18.2.10	8.92e-180	54.3	2.A.18	PF01490	AT5G23810.1	1.73e-179	54.3
+sp|Q60EC2|SWT1B_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8L9J7|2.A.123.1.9	2.21e-95	68.2	2.A.123	PF03083	AT1G21460.2	9.27e-84	68.4
+sp|Q96520|PER12_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|M4E3U6|9.A.61.3.1	1.5e-66	42.9	9.A.61				
+sp|A0A067E3D8|MOI2_CITSI	neg	not_tp	1	---	None	False	False	False								
+sp|Q6R2K3|SRF3_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O49839|1.A.87.2.18	1.39e-56	37.5	1.A.87				
+Os03t0142800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q10RX7|3.A.1.208.34	0.0	100.0	3.A.1	PF00005,PF00664	AT1G04120.1	0.0	69.5
+sp|Q9ZW22|SMO21_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|A0A0C5Q4Y6|C76H2_ROSOF	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	1.22e-14	30.9	2.A.57				
+sp|Q10PW9|MST4_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q94AZ2|2.A.1.1.50	4.54e-308	83.2	2.A.1	PF00083,PF07690	AT3G05960.1	6.2e-216	61.5
+sp|Q93Z29|ALMT5_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SX23|2.A.85.2.2	0.0	100.0	2.A.85	PF04632,PF11744	AT1G25480.1	1.36e-292	78.4
+sp|Q9FVZ7|MSBP1_ORYSJ	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O00264|9.B.433.1.5	9.19e-22	43.2	9.B.433				
+sp|O82587|SWT12_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9SMM5|2.A.123.1.13	1.53e-163	86.6	2.A.123	PF03083	AT4G25010.1	1.81e-103	66.1
+sp|Q9XQR3|PSBH_PEA	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|P56780|3.E.2.2.3	6.95e-41	89.0	3.E.2				
+Os05t0556800-01	pos	pred_tp	1	T-S	Medium	True	False	True	gnl|TC-DB|Q9FZ96|2.A.7.14.1	4.6e-49	35.4	2.A.7		AT1G30840.1	6.61e-73	47.6
+sp|Q9SG79|SUN2_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9UH99|1.I.1.1.3	6e-21	37.2	1.I.1				
+Os07t0669700-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M7K3|2.A.72.3.4	0.0	83.5	2.A.72	PF02705	AT1G70300.1	3.59e-294	55.4
+Os07t0448100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8GRT8|1.A.8.11.11	3.9e-207	100.0	1.A.8	PF00230	AT2G37170.1	1.86e-161	80.5
+sp|Q6H501|HKT13_ORYSJ	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|ATZ78068.1|2.A.38.3.6	6.19e-159	48.1	2.A.38	PF02386	Bradi3g05570.1	7.49e-262	72.7
+sp|Q9LUE3|SWT10_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|P93332|2.A.123.1.1	1.2e-79	56.1	2.A.123	PF03083	AT4G25010.1	1.54e-72	48.3
+sp|O04249|STP7_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|OAY27969.1|2.A.1.1.135	7.76e-221	59.7	2.A.1	PF00083,PF07690	AT1G77210.1	7.97e-213	59.9
+sp|Q945T0|RALF_TOBAC	neg	not_tp	1	---	None	False	False	False								
+sp|C0LGT5|Y5169_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q9FZB9|1.A.87.2.5	4.37e-151	47.4	1.A.87				
+sp|Q0WUG6|SBT61_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|D9SZH8|2.A.7.3.49	6.38e-21	30.2	2.A.7				
+sp|Q6EI12|PSY2_MAIZE	neg	not_tp	1	---	None	False	False	False								
+sp|Q4VP10|LUR13_ARATH	neg	not_tp	1	---	None	False	False	False								
+Os08t0187800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q94B38|2.A.7.9.6	7.43e-196	89.3	2.A.7	PF00892,PF03151	AT1G61800.1	1.44e-195	89.3
+sp|C0LGQ5|GSO1_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|Q42371|1.A.87.2.11	7.06e-67	39.6	1.A.87				
+Os05t0516900-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q6ZMB5|2.A.82.1.9	1.11e-38	33.9	2.A.82	PF03619	AT1G77220.1	2.61e-212	64.0
+Os07t0191600-04	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|A9YWR6|3.A.1.204.22	9.82e-290	62.9	3.A.1	PF00005,PF01061	AT5G13580.1	2.68e-138	40.3
+Os03t0755100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q0WML0|3.A.1.201.8	0.0	76.6	3.A.1	PF00005,PF00664	AT5G39040.1	0.0	76.6
+Os09t0440700-02	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|D7TCD9|1.A.56.1.17	1.36e-45	55.0	1.A.56	PF04145	Bradi4g31330.1	7.1e-83	82.2
+Os03t0147400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|XP_015614851.1|2.A.45.2.7	2.78e-314	82.0	2.A.45	PF03600	AT1G02260.1	1.53e-221	62.9
+sp|Q8LQ68|HXK6_ORYSJ	neg	not_tp	1	---	None	False	False	False								
+sp|Q02126|E13C_HORVU	neg	not_tp	1	---	None	False	False	False								
+sp|Q9M670|RTM2_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|Q9ASS7|CAAT2_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9ASS7|2.A.3.3.13	0.0	100.0	2.A.3	PF00324	AT5G36940.1	0.0	76.0
+Os06t0325200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q8VYM2|2.A.1.9.9	8.23e-176	51.8	2.A.1	PF00083,PF07690	AT1G20860.1	1.17e-190	57.7
+Os06t0141100-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|KAF6995428.1|2.A.1.1.145	3.21e-194	55.3	2.A.1	PF00083,PF07690	AT5G61520.1	3.17e-202	60.8
+sp|Q9C7T7|CEPR2_ARATH	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O22476|1.A.87.2.6	4.72e-47	41.9	1.A.87				
+Os01t0770800-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q5ZD08|1.A.56.1.13	4.7e-91	100.0	1.A.56	PF04145	AT5G59030.1	5.3e-32	58.1
+Os03t0218400-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q94AZ2|2.A.1.1.50	2.34e-308	83.2	2.A.1	PF00083,PF07690	AT3G05960.1	4.54e-216	61.5
+sp|A5HII1|ACTN_ACTDE	neg	pred_tp	1	TP-	Medium	True	True	False	gnl|TC-DB|Q01E11|2.A.28.3.6	6.05e-39	31.9	2.A.28	PF00112			
+sp|Q6R567|RMA1_CAPAN	neg	pred_tp	1	T--	Low	True	False	False	gnl|TC-DB|O64425|3.A.16.1.5	1.65e-48	43.0	3.A.16				
+Os02t0678200-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q2V4F9|2.A.1.2.61	0.0	67.6	2.A.1	PF03105,PF07690	AT1G63010.2	0.0	67.6
+sp|Q0JF01|C99A3_ORYSJ	neg	not_tp	1	---	None	False	False	False	gnl|TC-DB|OXN28687|2.A.57.3.3	2.25e-14	28.3	2.A.57				
+sp|Q39208|SC5D1_ARATH	neg	not_tp	1	---	None	False	False	False								
+sp|A0A161GJD5|C7A27_EUPLT	neg	not_tp	1	---	None	False	False	False								
+Os08t0167000-01	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9C6W5|3.A.1.204.29	3.27e-262	59.1	3.A.1	PF00005,PF01061	AT3G25620.2	2.41e-216	51.8
+sp|Q84UC7|BAC1_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q84UC7|2.A.29.8.6	3.17e-232	100.0	2.A.29	PF00153	AT2G33820.4	1.27e-171	100.0
+sp|O64390|HXK1_SOLTU	neg	not_tp	1	---	None	False	False	False								
+sp|Q9M3D6|AB19G_ARATH	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q9M3D6|3.A.1.204.27	0.0	100.0	3.A.1	PF00005,PF01061	AT3G55110.1	0.0	78.5
+sp|B5RHV8|PHT14_LOTJA	pos	pred_tp	1	TPS	High	True	True	True	gnl|TC-DB|Q01MW8|2.A.1.9.4	1.84e-226	60.8	2.A.1	PF00083,PF07690	AT5G43370.1	4.46e-221	61.6

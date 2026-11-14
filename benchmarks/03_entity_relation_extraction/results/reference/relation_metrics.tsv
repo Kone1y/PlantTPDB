@@ -1,0 +1,5 @@
+Supplementary Table 25. Relation-extraction performance by relation type.
+Relation type	Annotated instances	Predicted instances	TP	FP	FN	Precision(%)	Recall(%)	F1
+Transports (transport protein → substrate)	452	472	379	93	73	80.30	83.85	0.82035
+Location (transport protein → membrane)	177	177	150	27	27	84.75	84.75	0.84746
+Overall (micro-average)	629	649	529	120	100	81.51	84.10	0.82786

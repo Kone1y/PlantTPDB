@@ -1,0 +1,8 @@
+# Optional species-name aliases for the TimeTree API.
+# Format: <name_in_species.list>\t<TimeTree-recognised name>  (one pair per line)
+# Lines starting with '#' are ignored; leave empty (or all comments) if the
+# species names in species.list are already recognised by TimeTree — which is
+# the case for all 26 species in the bundled species list.
+#
+# Example (only applies if the left-hand name appears in species.list):
+# Klebsormidium_nitens	Klebsormidium nitens

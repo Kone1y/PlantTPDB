@@ -1,0 +1,5 @@
+# Large data files not part of the Git repository (see README.md,
+# "Data and Code Availability"); included in the full release archive;
+# SHA-256 recorded in MANIFEST.json
+benchmarks/01_transporter_identification/data/reference_db/9_all_spe_add_16osa_v1_dedup.fa
+benchmarks/04_agent_qa/data/claims/ragas_eval_input_3534.jsonl.gz

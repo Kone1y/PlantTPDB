@@ -1,0 +1,6 @@
+Supplementary Table 23. Named-entity recognition performance by entity type.
+Entity type	Annotated instances	Predicted instances	TP	FP	FN	Precision(%)	Recall(%)	F1
+Transport protein	345	365	300	65	45	82.19	86.96	0.84507
+Substrate	313	340	303	37	10	89.12	96.81	0.92802
+Membrane	140	149	133	16	7	89.26	95.00	0.92042
+Overall (micro-average)	798	854	736	118	62	86.18	92.23	0.89104

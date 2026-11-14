@@ -1,0 +1,5888 @@
+[
+  {
+    "head": "OsMOT1;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "molybdate ions",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcab050",
+    "label": "MOT"
+  },
+  {
+    "head": "OsMOT1;2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "molybdate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcab050",
+    "label": "MOT"
+  },
+  {
+    "head": "OsMOT1;2-GFP",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuolar membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/pcp/pcab050",
+    "label": "MOT"
+  },
+  {
+    "head": "MOT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "molybdate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/272112",
+    "label": "MOT"
+  },
+  {
+    "head": "MtMOT1.2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1101/272112",
+    "label": "MOT"
+  },
+  {
+    "head": "MtMOT1.2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "cytosol",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1101/272112",
+    "label": "MOT"
+  },
+  {
+    "head": "MOT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "molybdate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/molecules29010040",
+    "label": "MOT"
+  },
+  {
+    "head": "MOT1.1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "molybdate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/molecules29010040",
+    "label": "MOT"
+  },
+  {
+    "head": "MOT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "molybdate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/molecules29010040",
+    "label": "MOT"
+  },
+  {
+    "head": "MOT1.2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "molybdate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/molecules29010040",
+    "label": "MOT"
+  },
+  {
+    "head": "LAT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "paraquat",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/agriculture15121288",
+    "label": "LAT"
+  },
+  {
+    "head": "LAT3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "paraquat",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/agriculture15121288",
+    "label": "LAT"
+  },
+  {
+    "head": "LAT4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "paraquat",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/agriculture15121288",
+    "label": "LAT"
+  },
+  {
+    "head": "PDR11",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "paraquat",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/agriculture15121288",
+    "label": "PDR"
+  },
+  {
+    "head": "DTX6",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "paraquat",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/agriculture15121288",
+    "label": "DTX"
+  },
+  {
+    "head": "DTX6",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuole",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/agriculture15121288",
+    "label": "DTX"
+  },
+  {
+    "head": "DTX6",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "apoplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/agriculture15121288",
+    "label": "DTX"
+  },
+  {
+    "head": "OsABCC7",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "arsenite",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcz054",
+    "label": "ABCC"
+  },
+  {
+    "head": "OsABCC7",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/pcp/pcz054",
+    "label": "ABCC"
+  },
+  {
+    "head": "OsABCC7",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "As(III)-phytochelatin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcz054",
+    "label": "ABCC"
+  },
+  {
+    "head": "OsABCC7",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "As(III)-glutathione complexes",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcz054",
+    "label": "ABCC"
+  },
+  {
+    "head": "TaABCC13",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "cadmium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.20944/preprints201705.0050.v1",
+    "label": "ABC"
+  },
+  {
+    "head": "LHT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "PBDEs",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1021/acs.est.3c00581",
+    "label": "LHT"
+  },
+  {
+    "head": "LHT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "phenylalanine",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1021/acs.est.3c00581",
+    "label": "LHT"
+  },
+  {
+    "head": "LHT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "tyrosine",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1021/acs.est.3c00581",
+    "label": "LHT"
+  },
+  {
+    "head": "OsLHT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "PBDEs",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1021/acs.est.3c00581",
+    "label": "LHT"
+  },
+  {
+    "head": "LHT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "lysine",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/treephys/tpab029",
+    "label": "LHT"
+  },
+  {
+    "head": "LHT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "histidine",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/treephys/tpab029",
+    "label": "LHT"
+  },
+  {
+    "head": "PtrLHT1.2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "amino acids",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/treephys/tpab029",
+    "label": "LHT"
+  },
+  {
+    "head": "PtrLHT1.2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "neutral AAs",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/treephys/tpab029",
+    "label": "LHT"
+  },
+  {
+    "head": "PtrLHT1.2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "acidic AAs",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/treephys/tpab029",
+    "label": "LHT"
+  },
+  {
+    "head": "LHT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "amino acids",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.106.092205",
+    "label": "LHT"
+  },
+  {
+    "head": "LHT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Ala",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.106.092205",
+    "label": "LHT"
+  },
+  {
+    "head": "OsLHT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "histidine",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12870-019-1885-9",
+    "label": "LHT"
+  },
+  {
+    "head": "OsLHT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "basic amino acids",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12870-019-1885-9",
+    "label": "LHT"
+  },
+  {
+    "head": "OsLHT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "neutral amino acids",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12870-019-1885-9",
+    "label": "LHT"
+  },
+  {
+    "head": "OsLHT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "acidic amino acids",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12870-019-1885-9",
+    "label": "LHT"
+  },
+  {
+    "head": "OsLHT1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1186/s12870-019-1885-9",
+    "label": "LHT"
+  },
+  {
+    "head": "LHT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ACC",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2019.01092",
+    "label": "LHT"
+  },
+  {
+    "head": "LHT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ACC",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2019.01092",
+    "label": "LHT"
+  },
+  {
+    "head": "TIP5;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "water",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313X.2010.04395.x",
+    "label": "TIP"
+  },
+  {
+    "head": "TIP5;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "urea",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313X.2010.04395.x",
+    "label": "TIP"
+  },
+  {
+    "head": "TIP1;3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "water",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313X.2010.04395.x",
+    "label": "TIP"
+  },
+  {
+    "head": "TIP1;3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "urea",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313X.2010.04395.x",
+    "label": "TIP"
+  },
+  {
+    "head": "TIP5;1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "mitochondria",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/j.1365-313X.2010.04395.x",
+    "label": "TIP"
+  },
+  {
+    "head": "ABCB4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313x.2011.04818.x",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABCB4",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/j.1365-313x.2011.04818.x",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABCB4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "benzoic acid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313x.2011.04818.x",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABCB4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "2,4-D",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313x.2011.04818.x",
+    "label": "ABCB"
+  },
+  {
+    "head": "PIN",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2012.00017",
+    "label": "PIN"
+  },
+  {
+    "head": "ABCB",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2012.00017",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABCB1.1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2012.00017",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABCB",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2019.00806",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABCB",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3389/fpls.2019.00806",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABCB21",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2019.00806",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABCB1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2019.00806",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABCB19",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2019.00806",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABCB28",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/plants13010007",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABCB29",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/plants13010007",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABCB28",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "chloroplast envelope",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/plants13010007",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABCB29",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "chloroplast envelope",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/plants13010007",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABCB28",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "cytosol",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/plants13010007",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABCB29",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "cytosol",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/plants13010007",
+    "label": "ABCB"
+  },
+  {
+    "head": "ABC",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "secondary metabolites",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/plants7030065",
+    "label": "ABC"
+  },
+  {
+    "head": "ABC",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "phytohormones",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/plants7030065",
+    "label": "ABC"
+  },
+  {
+    "head": "ABCB",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/plants7030065",
+    "label": "ABC"
+  },
+  {
+    "head": "SlABCB4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/plants7030065",
+    "label": "ABCB"
+  },
+  {
+    "head": "SlABCB4",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/plants7030065",
+    "label": "ABCB"
+  },
+  {
+    "head": "TGD4",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "outer chloroplast envelope",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1074/jbc.M112.438986",
+    "label": "TGD"
+  },
+  {
+    "head": "TGD4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "phosphatidic acid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1074/jbc.M112.438986",
+    "label": "TGD"
+  },
+  {
+    "head": "TGD4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "PtdOH",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1074/jbc.M112.438986",
+    "label": "TGD"
+  },
+  {
+    "head": "TGD1/TGD2/TGD3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ER-derived lipids",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1074/jbc.M112.438986",
+    "label": "TGD"
+  },
+  {
+    "head": "TGD1/TGD2/TGD3",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "inner envelope membrane of the chloroplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1074/jbc.M112.438986",
+    "label": "TGD"
+  },
+  {
+    "head": "BOR1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "boron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1074/jbc.M110.184929",
+    "label": "BOR"
+  },
+  {
+    "head": "BOR1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1074/jbc.M110.184929",
+    "label": "BOR"
+  },
+  {
+    "head": "BOR1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuole",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1074/jbc.M110.184929",
+    "label": "BOR"
+  },
+  {
+    "head": "BOR1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "borate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcae096",
+    "label": "BOR"
+  },
+  {
+    "head": "BOR1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuole",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/pcp/pcae096",
+    "label": "BOR"
+  },
+  {
+    "head": "NIP",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "boron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.14428",
+    "label": "NIP"
+  },
+  {
+    "head": "BOR",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "boron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.14428",
+    "label": "BOR"
+  },
+  {
+    "head": "NIP5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "B",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.14428",
+    "label": "NIP"
+  },
+  {
+    "head": "NIP6",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "B",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.14428",
+    "label": "NIP"
+  },
+  {
+    "head": "NIP7",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "B",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.14428",
+    "label": "NIP"
+  },
+  {
+    "head": "NIP2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "B",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.14428",
+    "label": "NIP"
+  },
+  {
+    "head": "NIP3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "B",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.14428",
+    "label": "NIP"
+  },
+  {
+    "head": "NIP4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "B",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.14428",
+    "label": "NIP"
+  },
+  {
+    "head": "GONST1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "GDP‐mannose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1002/pld3.309",
+    "label": "GONST"
+  },
+  {
+    "head": "GONST1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1002/pld3.309",
+    "label": "GONST"
+  },
+  {
+    "head": "GONST2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "GDP‐D‐Man",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1002/pld3.309",
+    "label": "GONST"
+  },
+  {
+    "head": "GONST1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "GDP-D-Mannose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/346775",
+    "label": "GONST"
+  },
+  {
+    "head": "GONST1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "Golgi",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1101/346775",
+    "label": "GONST"
+  },
+  {
+    "head": "GONST2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "GDP-linked sugars",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/346775",
+    "label": "GONST"
+  },
+  {
+    "head": "GONST2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "Golgi",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1101/346775",
+    "label": "GONST"
+  },
+  {
+    "head": "HAK",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1073/pnas.2114347118",
+    "label": "HAK"
+  },
+  {
+    "head": "HAK",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1073/pnas.2114347118",
+    "label": "HAK"
+  },
+  {
+    "head": "OsHAK21",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1073/pnas.2114347118",
+    "label": "HAK"
+  },
+  {
+    "head": "HAK",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/plphys/kiad435",
+    "label": "HAK"
+  },
+  {
+    "head": "KUP",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/plphys/kiad435",
+    "label": "KUP"
+  },
+  {
+    "head": "KT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/plphys/kiad435",
+    "label": "KT"
+  },
+  {
+    "head": "OsHAK18",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/plphys/kiad435",
+    "label": "HAK"
+  },
+  {
+    "head": "OsHAK18",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/plphys/kiad435",
+    "label": "HAK"
+  },
+  {
+    "head": "OsHAK18",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sugar",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/plphys/kiad435",
+    "label": "HAK"
+  },
+  {
+    "head": "OsHAK18",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Rb+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/plphys/kiad435",
+    "label": "HAK"
+  },
+  {
+    "head": "OsHAK18",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "photoassimilates",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/plphys/kiad435",
+    "label": "HAK"
+  },
+  {
+    "head": "OsHAK5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.114.246520",
+    "label": "HAK"
+  },
+  {
+    "head": "OsHAK5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "potassium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.114.246520",
+    "label": "HAK"
+  },
+  {
+    "head": "ZmHAK5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/jipb.12756",
+    "label": "HAK"
+  },
+  {
+    "head": "ZmHAK1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/jipb.12756",
+    "label": "HAK"
+  },
+  {
+    "head": "TRK",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "potassium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1128/EC.00017-13",
+    "label": "TRK"
+  },
+  {
+    "head": "HKT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "potassium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1128/EC.00017-13",
+    "label": "HKT"
+  },
+  {
+    "head": "HAK",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "potassium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1128/EC.00017-13",
+    "label": "HAK"
+  },
+  {
+    "head": "KT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "potassium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1128/EC.00017-13",
+    "label": "KT"
+  },
+  {
+    "head": "KUP",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "potassium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1128/EC.00017-13",
+    "label": "KUP"
+  },
+  {
+    "head": "HAK5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "potassium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1155/2014/490252",
+    "label": "HAK"
+  },
+  {
+    "head": "KUP/HAK/KT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2016.00127",
+    "label": "KT"
+  },
+  {
+    "head": "HAK family of transporters",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cs+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2020.00528",
+    "label": "HAK"
+  },
+  {
+    "head": "HAK transporter OsHAK1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cs+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2020.00528",
+    "label": "HAK"
+  },
+  {
+    "head": "OsHAK1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2020.00528",
+    "label": "HAK"
+  },
+  {
+    "head": "HAK",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.5511/PLANTBIOTECHNOLOGY.18.0308A",
+    "label": "HAK"
+  },
+  {
+    "head": "OsHAK1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.5511/PLANTBIOTECHNOLOGY.18.0308A",
+    "label": "HAK"
+  },
+  {
+    "head": "OsHAK5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.5511/PLANTBIOTECHNOLOGY.18.0308A",
+    "label": "HAK"
+  },
+  {
+    "head": "OsHAK19",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.5511/PLANTBIOTECHNOLOGY.18.0308A",
+    "label": "HAK"
+  },
+  {
+    "head": "OsHAK20",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.5511/PLANTBIOTECHNOLOGY.18.0308A",
+    "label": "HAK"
+  },
+  {
+    "head": "OsHAK21",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.5511/PLANTBIOTECHNOLOGY.18.0308A",
+    "label": "HAK"
+  },
+  {
+    "head": "OsHAK1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.5511/PLANTBIOTECHNOLOGY.18.0308A",
+    "label": "HAK"
+  },
+  {
+    "head": "COPTs",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "copper",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/jxb/eraa352",
+    "label": "COPT"
+  },
+  {
+    "head": "COPT1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/jxb/eraa352",
+    "label": "COPT"
+  },
+  {
+    "head": "COPT1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "endoplasmic reticulum",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/jxb/eraa352",
+    "label": "COPT"
+  },
+  {
+    "head": "COPT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cu",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2229-11-69",
+    "label": "COPT"
+  },
+  {
+    "head": "COPT5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cu",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2229-11-69",
+    "label": "COPT"
+  },
+  {
+    "head": "COPT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cu",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2229-11-69",
+    "label": "COPT"
+  },
+  {
+    "head": "COPT3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cu",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2229-11-69",
+    "label": "COPT"
+  },
+  {
+    "head": "COPT4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cu",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2229-11-69",
+    "label": "COPT"
+  },
+  {
+    "head": "COPT6",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cu",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2229-11-69",
+    "label": "COPT"
+  },
+  {
+    "head": "COPT7",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cu",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2229-11-69",
+    "label": "COPT"
+  },
+  {
+    "head": "NSTs",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "Golgi",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1073/pnas.1016144108",
+    "label": "NST"
+  },
+  {
+    "head": "NSTs",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nucleotide sugars",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1073/pnas.1016144108",
+    "label": "NST"
+  },
+  {
+    "head": "OsNST1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "UDP-glucose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1073/pnas.1016144108",
+    "label": "NST"
+  },
+  {
+    "head": "NSTs",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nucleotide sugars",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/mpp.13304",
+    "label": "NST"
+  },
+  {
+    "head": "NSTs",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "ER",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/mpp.13304",
+    "label": "NST"
+  },
+  {
+    "head": "NST1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "mannose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/mpp.13304",
+    "label": "NST"
+  },
+  {
+    "head": "NST1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "glucose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/mpp.13304",
+    "label": "NST"
+  },
+  {
+    "head": "NST2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "mannose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/mpp.13304",
+    "label": "NST"
+  },
+  {
+    "head": "FRD3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "low-Mr organic molecules",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.107.097162",
+    "label": "FRD"
+  },
+  {
+    "head": "FRD3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "citrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.107.097162",
+    "label": "FRD"
+  },
+  {
+    "head": "ENT3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nucleosides",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1438-8677.2012.00562.x",
+    "label": "ENT"
+  },
+  {
+    "head": "ENT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nucleosides",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1438-8677.2012.00562.x",
+    "label": "ENT"
+  },
+  {
+    "head": "ENT3",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vasculature",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/j.1438-8677.2012.00562.x",
+    "label": "ENT"
+  },
+  {
+    "head": "UXTs",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "UDP-xylose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/jxb/ery026",
+    "label": "UXT"
+  },
+  {
+    "head": "UXTs",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "cytosol",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/jxb/ery026",
+    "label": "UXT"
+  },
+  {
+    "head": "UXTs",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "Golgi lumen",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/jxb/ery026",
+    "label": "UXT"
+  },
+  {
+    "head": "PLUTO",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "uracil",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0091343",
+    "label": "PLUTO"
+  },
+  {
+    "head": "PLUTO",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "inner plastidic membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1371/journal.pone.0091343",
+    "label": "PLUTO"
+  },
+  {
+    "head": "PLUTO",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "adenine",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0091343",
+    "label": "PLUTO"
+  },
+  {
+    "head": "PLUTO",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "guanine",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0091343",
+    "label": "PLUTO"
+  },
+  {
+    "head": "NtMATE2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuole membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1002/1873-3468.14136",
+    "label": "MATE"
+  },
+  {
+    "head": "NtMATE2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nicotine",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1002/1873-3468.14136",
+    "label": "MATE"
+  },
+  {
+    "head": "GmMATE100",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "tonoplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1021/acs.jafc.4c01774",
+    "label": "MATE"
+  },
+  {
+    "head": "GmMATE100",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "type-B soyasaponins",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1021/acs.jafc.4c01774",
+    "label": "MATE"
+  },
+  {
+    "head": "GmMATE100",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "type-A soyasaponins",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1021/acs.jafc.4c01774",
+    "label": "MATE"
+  },
+  {
+    "head": "GmMATE100",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "cytosol",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1021/acs.jafc.4c01774",
+    "label": "MATE"
+  },
+  {
+    "head": "GmMATE100",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuole",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1021/acs.jafc.4c01774",
+    "label": "MATE"
+  },
+  {
+    "head": "CrMATE1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "secologanin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1038/s42003-024-06624-5",
+    "label": "MATE"
+  },
+  {
+    "head": "CrMATE1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "tonoplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1038/s42003-024-06624-5",
+    "label": "MATE"
+  },
+  {
+    "head": "SbMATE",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "citrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/182964",
+    "label": "MATE"
+  },
+  {
+    "head": "SbMATE",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ethidium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/182964",
+    "label": "MATE"
+  },
+  {
+    "head": "CrMATE1/SLTr",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "secologanin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2023.08.01.551495",
+    "label": "MATE"
+  },
+  {
+    "head": "CrMATE1/SLTr",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "tonoplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1101/2023.08.01.551495",
+    "label": "MATE"
+  },
+  {
+    "head": "CrMATE1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuole",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1101/2023.08.01.551495",
+    "label": "MATE"
+  },
+  {
+    "head": "OsMATE6",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/pce.15133",
+    "label": "MATE"
+  },
+  {
+    "head": "OsMATE6",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ABA",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.15133",
+    "label": "MATE"
+  },
+  {
+    "head": "MATE proteins",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "multidrug",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0118578",
+    "label": "MATE"
+  },
+  {
+    "head": "MATE proteins",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "toxic compound",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0118578",
+    "label": "MATE"
+  },
+  {
+    "head": "VcMATE9",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1371/journal.pone.0118578",
+    "label": "VcMATE9"
+  },
+  {
+    "head": "VcMATE9",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "flavonoid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0118578",
+    "label": "VcMATE9"
+  },
+  {
+    "head": "VcMATE2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "flavonoid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0118578",
+    "label": "MATE"
+  },
+  {
+    "head": "VcMATE3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "flavonoid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0118578",
+    "label": "MATE"
+  },
+  {
+    "head": "VcMATE5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "flavonoid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0118578",
+    "label": "MATE"
+  },
+  {
+    "head": "VcMATE7",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "flavonoid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0118578",
+    "label": "MATE"
+  },
+  {
+    "head": "VcMATE8",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "flavonoid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0118578",
+    "label": "MATE"
+  },
+  {
+    "head": "VcMATE1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "secondary metabolites",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0118578",
+    "label": "MATE"
+  },
+  {
+    "head": "VcMATE4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "secondary metabolites",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0118578",
+    "label": "MATE"
+  },
+  {
+    "head": "VcMATE1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "toxic cations",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0118578",
+    "label": "MATE"
+  },
+  {
+    "head": "VcMATE4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "toxic cations",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0118578",
+    "label": "MATE"
+  },
+  {
+    "head": "VcMATE9",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "anthocyanins",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0118578",
+    "label": "VcMATE9"
+  },
+  {
+    "head": "GmMATE1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "isoflavones",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/ijms222112017",
+    "label": "MATE"
+  },
+  {
+    "head": "GmMATE2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "isoflavones",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/ijms222112017",
+    "label": "MATE"
+  },
+  {
+    "head": "GmMATE1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuolar membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/ijms222112017",
+    "label": "MATE"
+  },
+  {
+    "head": "GmMATE2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuolar membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/ijms222112017",
+    "label": "MATE"
+  },
+  {
+    "head": "MATE proteins",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "organic acid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/ijms25073711",
+    "label": "MATE"
+  },
+  {
+    "head": "MATE proteins",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "cell membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/ijms25073711",
+    "label": "MATE"
+  },
+  {
+    "head": "GmMATE13",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "citrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/ijms25073711",
+    "label": "MATE"
+  },
+  {
+    "head": "GmMATE75",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "citrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/ijms25073711",
+    "label": "MATE"
+  },
+  {
+    "head": "GmMATE13",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "cell membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/ijms25073711",
+    "label": "MATE"
+  },
+  {
+    "head": "AtSWEET11",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1002/pld3.481",
+    "label": "SWEET"
+  },
+  {
+    "head": "AtSWEET12",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1002/pld3.481",
+    "label": "SWEET"
+  },
+  {
+    "head": "SWEET",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sugar",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1007/s11676-019-00986-x",
+    "label": "SWEET"
+  },
+  {
+    "head": "PwSWEET1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "glucose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1007/s11676-019-00986-x",
+    "label": "SWEET"
+  },
+  {
+    "head": "MdSWEET12a",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1021/acs.jafc.2c05102",
+    "label": "SWEET"
+  },
+  {
+    "head": "MdSWEET12a",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1021/acs.jafc.2c05102",
+    "label": "SWEET"
+  },
+  {
+    "head": "SWEET",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sugar",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1080/15592324.2021.1970940",
+    "label": "SWEET"
+  },
+  {
+    "head": "NtSWEET1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1080/15592324.2021.1970940",
+    "label": "SWEET"
+  },
+  {
+    "head": "NtSWEET1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "glucose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1080/15592324.2021.1970940",
+    "label": "SWEET"
+  },
+  {
+    "head": "NtSWEET1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "fructose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1080/15592324.2021.1970940",
+    "label": "SWEET"
+  },
+  {
+    "head": "NtSWEET1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "galactose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1080/15592324.2021.1970940",
+    "label": "SWEET"
+  },
+  {
+    "head": "SWEET",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sugar",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/hr/uhad175",
+    "label": "SWEET"
+  },
+  {
+    "head": "AcSWEET10",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "glucose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/hr/uhad175",
+    "label": "SWEET"
+  },
+  {
+    "head": "AtSWEET8",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "glucose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/hr/uhad175",
+    "label": "SWEET"
+  },
+  {
+    "head": "GmSWEET10a",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/nsr/nwaa110",
+    "label": "SWEET"
+  },
+  {
+    "head": "GmSWEET10a",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "hexose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/nsr/nwaa110",
+    "label": "SWEET"
+  },
+  {
+    "head": "GmSWEET10b",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/nsr/nwaa110",
+    "label": "SWEET"
+  },
+  {
+    "head": "GmSWEET10b",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "hexose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/nsr/nwaa110",
+    "label": "SWEET"
+  },
+  {
+    "head": "CsSWEET1a",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/pcp/pcaa091",
+    "label": "SWEET"
+  },
+  {
+    "head": "CsSWEET17",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/pcp/pcaa091",
+    "label": "SWEET"
+  },
+  {
+    "head": "CsSWEET1a",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "hexoses",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcaa091",
+    "label": "SWEET"
+  },
+  {
+    "head": "CsSWEET17",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "hexoses",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcaa091",
+    "label": "SWEET"
+  },
+  {
+    "head": "CsSWEET17-Ex",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "cytoplasm",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/pcp/pcaa091",
+    "label": "SWEET"
+  },
+  {
+    "head": "AtSWEET17",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "tonoplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/pcp/pcaa091",
+    "label": "SWEET"
+  },
+  {
+    "head": "AtSWEET17",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "fructose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcaa091",
+    "label": "SWEET"
+  },
+  {
+    "head": "CsSWEET7a",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/plphys/kiab046",
+    "label": "SWEET"
+  },
+  {
+    "head": "CsSWEET7a",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "hexoses",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/plphys/kiab046",
+    "label": "SWEET"
+  },
+  {
+    "head": "CitSWEET6",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "fructose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/plphys/kiad156",
+    "label": "SWEET"
+  },
+  {
+    "head": "SWEET15",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pbi.70449",
+    "label": "SWEET"
+  },
+  {
+    "head": "SWEET15_A01",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pbi.70449",
+    "label": "SWEET"
+  },
+  {
+    "head": "GmSWEET6",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.14772",
+    "label": "SWEET"
+  },
+  {
+    "head": "GmSWEET6",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "peri-arbuscular membranes",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/pce.14772",
+    "label": "SWEET"
+  },
+  {
+    "head": "SWEET2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "tonoplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/tpj.12948",
+    "label": "SWEET"
+  },
+  {
+    "head": "SWEET2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "glucose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.12948",
+    "label": "SWEET"
+  },
+  {
+    "head": "SWEET",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sugars",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12870-025-06190-w",
+    "label": "SWEET"
+  },
+  {
+    "head": "ZjSWEET2.2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sugar",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2020.01081",
+    "label": "SWEET"
+  },
+  {
+    "head": "ZjSWEET2.2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3389/fpls.2020.01081",
+    "label": "SWEET"
+  },
+  {
+    "head": "VvSWEET10",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "hexose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/genes10040255",
+    "label": "SWEET"
+  },
+  {
+    "head": "VvSWEET10",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sugar",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/genes10040255",
+    "label": "SWEET"
+  },
+  {
+    "head": "VvSWEET10",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/genes10040255",
+    "label": "SWEET"
+  },
+  {
+    "head": "VvSWEET10",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "glucose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/genes10040255",
+    "label": "SWEET"
+  },
+  {
+    "head": "VvSWEET10",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "fructose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/genes10040255",
+    "label": "SWEET"
+  },
+  {
+    "head": "DsSWEET12",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/ijms19020497",
+    "label": "SWEET"
+  },
+  {
+    "head": "SWEET",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sugars",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/ijms23052471",
+    "label": "SWEET"
+  },
+  {
+    "head": "SWEET",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "cell membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/ijms23052471",
+    "label": "SWEET"
+  },
+  {
+    "head": "PgSWEET17a",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "fructose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/ijms23052471",
+    "label": "SWEET"
+  },
+  {
+    "head": "CsSWEET5a",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/ijms25021332",
+    "label": "SWEET"
+  },
+  {
+    "head": "CsSWEET5a",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "hexose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/ijms25021332",
+    "label": "SWEET"
+  },
+  {
+    "head": "CsSWEET5a",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "glucose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/ijms25021332",
+    "label": "SWEET"
+  },
+  {
+    "head": "CsSWEET5a",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "fructose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/ijms25021332",
+    "label": "SWEET"
+  },
+  {
+    "head": "ALMT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "malate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/plcell/koae328",
+    "label": "ALMT"
+  },
+  {
+    "head": "AtALMT5",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "tonoplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/nph.20077",
+    "label": "ALMT"
+  },
+  {
+    "head": "AtALMT5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "fumarate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/nph.20077",
+    "label": "ALMT"
+  },
+  {
+    "head": "AtALMT5",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuoles",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/nph.20077",
+    "label": "ALMT"
+  },
+  {
+    "head": "AtOPT3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "copper",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2021.07.30.454504",
+    "label": "OPT"
+  },
+  {
+    "head": "AtOPT3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "iron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2021.07.30.454504",
+    "label": "OPT"
+  },
+  {
+    "head": "OPT3s",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Fe",
+    "tail_type": "substrate",
+    "source_paper_id": "10.2174/0929866527666200625202028",
+    "label": "OPT"
+  },
+  {
+    "head": "OPT3s",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "GSH",
+    "tail_type": "substrate",
+    "source_paper_id": "10.2174/0929866527666200625202028",
+    "label": "OPT"
+  },
+  {
+    "head": "PTR/NRT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "dipeptides",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.108.123844",
+    "label": "PTR"
+  },
+  {
+    "head": "PTR/NRT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "tripeptides",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.108.123844",
+    "label": "PTR"
+  },
+  {
+    "head": "AtPTR5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "dipeptides",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.108.123844",
+    "label": "PTR"
+  },
+  {
+    "head": "AtPTR5",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.108.123844",
+    "label": "PTR"
+  },
+  {
+    "head": "AtPTR1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "dipeptides",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.108.123844",
+    "label": "PTR"
+  },
+  {
+    "head": "AtPTR1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.108.123844",
+    "label": "PTR"
+  },
+  {
+    "head": "AtPTR5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "peptides",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.108.123844",
+    "label": "PTR"
+  },
+  {
+    "head": "RiPTR2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "dipeptides",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2014.00436",
+    "label": "PTR"
+  },
+  {
+    "head": "RiPTR2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Ala-Leu",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2014.00436",
+    "label": "PTR"
+  },
+  {
+    "head": "RiPTR2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Ala-Tyr",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2014.00436",
+    "label": "PTR"
+  },
+  {
+    "head": "RiPTR2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Tyr-Ala",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2014.00436",
+    "label": "PTR"
+  },
+  {
+    "head": "CrPHT4-9",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Pi",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/plphys/kiaf158",
+    "label": "PHT"
+  },
+  {
+    "head": "CrPHT4-9",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "chloroplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/plphys/kiaf158",
+    "label": "PHT"
+  },
+  {
+    "head": "CrPHT4-9",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "thylakoid membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/plphys/kiaf158",
+    "label": "PHT"
+  },
+  {
+    "head": "CrPHT4-9",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "pyrenoid",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/plphys/kiaf158",
+    "label": "PHT"
+  },
+  {
+    "head": "OsPHT1;3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "P",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.18.01097",
+    "label": "PHT"
+  },
+  {
+    "head": "OsPHT1;3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Pi",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.18.01097",
+    "label": "PHT"
+  },
+  {
+    "head": "OsPHT1;2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Pi",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.18.01097",
+    "label": "PHT"
+  },
+  {
+    "head": "PHT4;6",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "phosphate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313x.2012.05106.x",
+    "label": "PHT"
+  },
+  {
+    "head": "PHT4;6",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "Golgi",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/j.1365-313x.2012.05106.x",
+    "label": "PHT"
+  },
+  {
+    "head": "PHT4;6–GFP",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "trans‐Golgi compartment",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/j.1365-313x.2012.05106.x",
+    "label": "PHT"
+  },
+  {
+    "head": "PHT4;6",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "trans‐Golgi lumen",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/j.1365-313x.2012.05106.x",
+    "label": "PHT"
+  },
+  {
+    "head": "PHT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "phosphate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/nph.16931",
+    "label": "PHT"
+  },
+  {
+    "head": "OsPHT1;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Pi",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/nph.16931",
+    "label": "PHT"
+  },
+  {
+    "head": "PHT1;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "phosphate (Pi)",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.15778",
+    "label": "PHT"
+  },
+  {
+    "head": "PHT1;4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "phosphate (Pi)",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.15778",
+    "label": "PHT"
+  },
+  {
+    "head": "PHT1;1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/tpj.15778",
+    "label": "PHT"
+  },
+  {
+    "head": "PHT1;4",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/tpj.15778",
+    "label": "PHT"
+  },
+  {
+    "head": "OsPHT1;4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "phosphate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/agronomy12061332",
+    "label": "PHT"
+  },
+  {
+    "head": "CAX1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuolar membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1007/s11284-018-1560-x",
+    "label": "CAX"
+  },
+  {
+    "head": "CAX1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "calcium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1007/s11284-018-1560-x",
+    "label": "CAX"
+  },
+  {
+    "head": "ZmNRAMP6",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Pb",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1007/s00122-023-04371-5",
+    "label": "NRAMP"
+  },
+  {
+    "head": "OsNRAMP5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Pb",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1021/acs.est.2c06384",
+    "label": "NRAMP"
+  },
+  {
+    "head": "OsNRAMP5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "manganese",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1021/acs.est.2c06384",
+    "label": "NRAMP"
+  },
+  {
+    "head": "OsNRAMP5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "cadmium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1021/acs.est.2c06384",
+    "label": "NRAMP"
+  },
+  {
+    "head": "GmNRAMP2a&2b",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Fe",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1038/s41467-024-53325-y",
+    "label": "NRAMP"
+  },
+  {
+    "head": "GmNRAMP2a&2b",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "tonoplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1038/s41467-024-53325-y",
+    "label": "NRAMP"
+  },
+  {
+    "head": "OsNRAMP2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Fe",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/jxb/erab159",
+    "label": "NRAMP"
+  },
+  {
+    "head": "OsNRAMP2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "tonoplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/jxb/erab159",
+    "label": "NRAMP"
+  },
+  {
+    "head": "OsNRAMP2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Fe",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/jxb/erab161",
+    "label": "NRAMP"
+  },
+  {
+    "head": "OsNRAMP2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "tonoplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/jxb/erab161",
+    "label": "NRAMP"
+  },
+  {
+    "head": "AhNRAMP1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "iron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/jxb/ers117",
+    "label": "NRAMP"
+  },
+  {
+    "head": "AhNRAMP1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/jxb/ers117",
+    "label": "NRAMP"
+  },
+  {
+    "head": "AtNRAMP3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Fe",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2021.05.09.443283",
+    "label": "NRAMP"
+  },
+  {
+    "head": "AtNRAMP4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Fe",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2021.05.09.443283",
+    "label": "NRAMP"
+  },
+  {
+    "head": "AtNRAMP3",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuolar",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1101/2021.05.09.443283",
+    "label": "NRAMP"
+  },
+  {
+    "head": "AtNRAMP4",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuolar",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1101/2021.05.09.443283",
+    "label": "NRAMP"
+  },
+  {
+    "head": "OsNRAMP1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "iron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.13843",
+    "label": "NRAMP"
+  },
+  {
+    "head": "OsNRAMP1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cd",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.13843",
+    "label": "NRAMP"
+  },
+  {
+    "head": "OsNRAMP1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "arsenic",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.13843",
+    "label": "NRAMP"
+  },
+  {
+    "head": "OsNRAMP1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "manganese",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.13843",
+    "label": "NRAMP"
+  },
+  {
+    "head": "OsNRAMP1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/pce.13843",
+    "label": "NRAMP"
+  },
+  {
+    "head": "OsNRAMP1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Mn",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.13843",
+    "label": "NRAMP"
+  },
+  {
+    "head": "OsNRAMP5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cd",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.13843",
+    "label": "NRAMP"
+  },
+  {
+    "head": "NRAMP3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "manganese",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.70348",
+    "label": "NRAMP"
+  },
+  {
+    "head": "NRAMP3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "cadmium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.70348",
+    "label": "NRAMP"
+  },
+  {
+    "head": "TpNRAMP3-7A",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cd",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.70348",
+    "label": "NRAMP"
+  },
+  {
+    "head": "TpNRAMP3-7A",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Mn",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.70348",
+    "label": "NRAMP"
+  },
+  {
+    "head": "TpNRAMP3-7B",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cd",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.70348",
+    "label": "NRAMP"
+  },
+  {
+    "head": "TpNRAMP3-7B",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Mn",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.70348",
+    "label": "NRAMP"
+  },
+  {
+    "head": "OsCCX2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cd",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2018.00476",
+    "label": "CCX"
+  },
+  {
+    "head": "OsCCX2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Ca",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2018.00476",
+    "label": "CCX"
+  },
+  {
+    "head": "OsCCX2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3389/fpls.2018.00476",
+    "label": "CCX"
+  },
+  {
+    "head": "MdCCX1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3389/fpls.2021.746189",
+    "label": "CCX"
+  },
+  {
+    "head": "MdCCX1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2021.746189",
+    "label": "CCX"
+  },
+  {
+    "head": "AMTs",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ammonium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1016/j.febslet.2009.07.039",
+    "label": "AMT"
+  },
+  {
+    "head": "AtAMT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "NH3",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1016/j.febslet.2009.07.039",
+    "label": "AMT"
+  },
+  {
+    "head": "AtAMT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "methylamine",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1016/j.febslet.2009.07.039",
+    "label": "AMT"
+  },
+  {
+    "head": "AtAMT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ammonium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1016/s0014-5793(00)01153-4",
+    "label": "AMT"
+  },
+  {
+    "head": "AMT1;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ammonium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/jxb/eraa249",
+    "label": "AMT"
+  },
+  {
+    "head": "OsAMT1;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "NH4 +",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/jxb/ert458",
+    "label": "AMT"
+  },
+  {
+    "head": "OsAMT1;1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/jxb/ert458",
+    "label": "AMT"
+  },
+  {
+    "head": "AtAMT1;3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "NH4+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/jxb/erz230",
+    "label": "AMT"
+  },
+  {
+    "head": "AMT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ammonium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/nph.17679",
+    "label": "AMT"
+  },
+  {
+    "head": "OsAMT1;1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "endoplasmic reticulum",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/nph.17679",
+    "label": "AMT"
+  },
+  {
+    "head": "OsAMT1;1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/nph.17679",
+    "label": "AMT"
+  },
+  {
+    "head": "OsAMT1;2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "endoplasmic reticulum",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/nph.17679",
+    "label": "AMT"
+  },
+  {
+    "head": "OsAMT1;2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/nph.17679",
+    "label": "AMT"
+  },
+  {
+    "head": "OsAMT1;3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ammonium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/nph.17679",
+    "label": "AMT"
+  },
+  {
+    "head": "OsAMT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ammonium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/nph.17679",
+    "label": "AMT"
+  },
+  {
+    "head": "AMT1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1128/EC.00139-13",
+    "label": "AMT"
+  },
+  {
+    "head": "AMT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ammonium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1128/EC.00139-13",
+    "label": "AMT"
+  },
+  {
+    "head": "GpAMT2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1128/EC.00139-13",
+    "label": "AMT"
+  },
+  {
+    "head": "GpAMT3",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuolar membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1128/EC.00139-13",
+    "label": "AMT"
+  },
+  {
+    "head": "AMT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ammonium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2148-14-11",
+    "label": "AMT"
+  },
+  {
+    "head": "AMT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ammonium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2148-14-11",
+    "label": "AMT"
+  },
+  {
+    "head": "NRT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2148-14-11",
+    "label": "NRT"
+  },
+  {
+    "head": "NRT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2148-14-11",
+    "label": "NRT"
+  },
+  {
+    "head": "NRT1/PTR",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2148-14-11",
+    "label": "NRT"
+  },
+  {
+    "head": "NRT1/PTR",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "peptide",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2148-14-11",
+    "label": "NRT"
+  },
+  {
+    "head": "NRT1/PTR",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "glucosinolate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2148-14-11",
+    "label": "NRT"
+  },
+  {
+    "head": "NRT1/PTR",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "abscisic acid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2148-14-11",
+    "label": "NRT"
+  },
+  {
+    "head": "NRT1/PTR",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrite",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1471-2148-14-11",
+    "label": "NRT"
+  },
+  {
+    "head": "AtSTP8",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "endoplasmic reticulum",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/nph.17347",
+    "label": "STP"
+  },
+  {
+    "head": "AtSTP8",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "extrahaustorial membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/nph.17347",
+    "label": "STP"
+  },
+  {
+    "head": "AtSTP8",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "hexose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/nph.17347",
+    "label": "STP"
+  },
+  {
+    "head": "TaSTP3",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/nph.18331",
+    "label": "STP"
+  },
+  {
+    "head": "TaSTP3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "hexose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/nph.18331",
+    "label": "STP"
+  },
+  {
+    "head": "TaSTP3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/nph.18331",
+    "label": "STP"
+  },
+  {
+    "head": "AtSTP13",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "glucose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1746-4811-2-17",
+    "label": "STP"
+  },
+  {
+    "head": "MCF",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nucleotides",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/biom10091226",
+    "label": "MCF"
+  },
+  {
+    "head": "MCF",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "amino acids",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/biom10091226",
+    "label": "MCF"
+  },
+  {
+    "head": "MCF",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "dicarboxylates",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/biom10091226",
+    "label": "MCF"
+  },
+  {
+    "head": "MCF",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "tricarboxylates",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/biom10091226",
+    "label": "MCF"
+  },
+  {
+    "head": "MCF",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "cofactors",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/biom10091226",
+    "label": "MCF"
+  },
+  {
+    "head": "MCF",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "vitamins",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/biom10091226",
+    "label": "MCF"
+  },
+  {
+    "head": "MCF",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "phosphate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/biom10091226",
+    "label": "MCF"
+  },
+  {
+    "head": "MCF",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "H+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/biom10091226",
+    "label": "MCF"
+  },
+  {
+    "head": "MCF",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "mitochondria",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/biom10091226",
+    "label": "MCF"
+  },
+  {
+    "head": "MCF",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/biom10091226",
+    "label": "MCF"
+  },
+  {
+    "head": "MCF",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "peroxisomal",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/biom10091226",
+    "label": "MCF"
+  },
+  {
+    "head": "MCF",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "chloroplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/biom10091226",
+    "label": "MCF"
+  },
+  {
+    "head": "MCF",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "thylakoid",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/biom10091226",
+    "label": "MCF"
+  },
+  {
+    "head": "MCF",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "endoplasmic reticulum",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/biom10091226",
+    "label": "MCF"
+  },
+  {
+    "head": "MCF",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plastid",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3390/biom10091226",
+    "label": "MCF"
+  },
+  {
+    "head": "HKT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcac044",
+    "label": "HKT"
+  },
+  {
+    "head": "HKT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcac044",
+    "label": "HKT"
+  },
+  {
+    "head": "MpHKT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "monovalent alkali cations",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcac044",
+    "label": "HKT"
+  },
+  {
+    "head": "MpHKT1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/pcp/pcac044",
+    "label": "HKT"
+  },
+  {
+    "head": "t-MpHKT1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/pcp/pcac044",
+    "label": "HKT"
+  },
+  {
+    "head": "GmHKT1;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcae073",
+    "label": "HKT"
+  },
+  {
+    "head": "GmHKT1;2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcae073",
+    "label": "HKT"
+  },
+  {
+    "head": "GmHKT1;3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcae073",
+    "label": "HKT"
+  },
+  {
+    "head": "GmHKT1;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/pcp/pcae073",
+    "label": "HKT"
+  },
+  {
+    "head": "HKT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/280453",
+    "label": "HKT"
+  },
+  {
+    "head": "HKT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/280453",
+    "label": "HKT"
+  },
+  {
+    "head": "HKT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/280453",
+    "label": "HKT"
+  },
+  {
+    "head": "HKT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.109.138008",
+    "label": "HKT"
+  },
+  {
+    "head": "HKT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.109.138008",
+    "label": "HKT"
+  },
+  {
+    "head": "OsHKT1;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.109.138008",
+    "label": "HKT"
+  },
+  {
+    "head": "OsHKT1;3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.109.138008",
+    "label": "HKT"
+  },
+  {
+    "head": "OsHKT2;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.109.138008",
+    "label": "HKT"
+  },
+  {
+    "head": "OsHKT2;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.109.138008",
+    "label": "HKT"
+  },
+  {
+    "head": "HKT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.118.2.651",
+    "label": "HKT"
+  },
+  {
+    "head": "HKT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cs+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.118.2.651",
+    "label": "HKT"
+  },
+  {
+    "head": "HKT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Rb+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.118.2.651",
+    "label": "HKT"
+  },
+  {
+    "head": "HKT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.20.00196",
+    "label": "HKT"
+  },
+  {
+    "head": "HKT1;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-3040.2007.01637.x",
+    "label": "HKT"
+  },
+  {
+    "head": "AtHKT1;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-3040.2007.01637.x",
+    "label": "HKT"
+  },
+  {
+    "head": "AtHKT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sodium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313x.2005.02595.x",
+    "label": "HKT"
+  },
+  {
+    "head": "AtHKT1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/j.1365-313x.2005.02595.x",
+    "label": "HKT"
+  },
+  {
+    "head": "AtHKT1;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sodium ion",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1126/sciadv.adg5495",
+    "label": "HKT"
+  },
+  {
+    "head": "AtHKT1;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sodium (Na+)",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0024725",
+    "label": "HKT"
+  },
+  {
+    "head": "AtHKT1;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0024725",
+    "label": "HKT"
+  },
+  {
+    "head": "HKT1;4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0039865",
+    "label": "HKT"
+  },
+  {
+    "head": "HKT1;5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0039865",
+    "label": "HKT"
+  },
+  {
+    "head": "OsHKT1;5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0039865",
+    "label": "HKT"
+  },
+  {
+    "head": "OsHKT1;4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0039865",
+    "label": "HKT"
+  },
+  {
+    "head": "OsProT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Pro",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12284-019-0341-7",
+    "label": "ProT"
+  },
+  {
+    "head": "OsProT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "GABA",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12284-019-0341-7",
+    "label": "ProT"
+  },
+  {
+    "head": "OsProT3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Pro",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12284-019-0341-7",
+    "label": "ProT"
+  },
+  {
+    "head": "OsProT3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "GABA",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12284-019-0341-7",
+    "label": "ProT"
+  },
+  {
+    "head": "OsProT1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1186/s12284-019-0341-7",
+    "label": "ProT"
+  },
+  {
+    "head": "OsProT3",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1186/s12284-019-0341-7",
+    "label": "ProT"
+  },
+  {
+    "head": "AtDUR3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "H+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313x.2007.03223.x",
+    "label": "DUR"
+  },
+  {
+    "head": "AtDUR3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "urea",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313x.2007.03223.x",
+    "label": "DUR"
+  },
+  {
+    "head": "AtDUR3",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/j.1365-313x.2007.03223.x",
+    "label": "DUR"
+  },
+  {
+    "head": "ZmDUR3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "urea",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12870-014-0222-6",
+    "label": "DUR"
+  },
+  {
+    "head": "ZmDUR3",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1186/s12870-014-0222-6",
+    "label": "DUR"
+  },
+  {
+    "head": "NTT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ATP",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0032325",
+    "label": "NTT"
+  },
+  {
+    "head": "NTT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ADP",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0032325",
+    "label": "NTT"
+  },
+  {
+    "head": "NTT1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "chloroplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1371/journal.pone.0032325",
+    "label": "NTT"
+  },
+  {
+    "head": "NTT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Pi",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0032325",
+    "label": "NTT"
+  },
+  {
+    "head": "NTT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nucleotide",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pone.0032325",
+    "label": "NTT"
+  },
+  {
+    "head": "PUT3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "polyamines",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.13310",
+    "label": "PUT"
+  },
+  {
+    "head": "PUT3",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/tpj.13310",
+    "label": "PUT"
+  },
+  {
+    "head": "RhSUC2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Suc",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.19.00695",
+    "label": "SUC"
+  },
+  {
+    "head": "AtSUC3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313x.2000.00934.x",
+    "label": "SUC"
+  },
+  {
+    "head": "SUCs",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.21203/RS.3.RS-148254/V1",
+    "label": "SUC"
+  },
+  {
+    "head": "SUT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/ijms21072624",
+    "label": "SUT"
+  },
+  {
+    "head": "SUCs",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/ijms21072624",
+    "label": "SUC"
+  },
+  {
+    "head": "VvSUC",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/ijms21072624",
+    "label": "SUC"
+  },
+  {
+    "head": "VvSUC11",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/ijms21072624",
+    "label": "SUC"
+  },
+  {
+    "head": "OsVIT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Fe",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1939-8433-6-31",
+    "label": "VIT"
+  },
+  {
+    "head": "OsVIT2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuolar",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1186/1939-8433-6-31",
+    "label": "VIT"
+  },
+  {
+    "head": "MIT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Fe",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/1939-8433-6-31",
+    "label": "MIT"
+  },
+  {
+    "head": "MIT",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "mitochondrial",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1186/1939-8433-6-31",
+    "label": "MIT"
+  },
+  {
+    "head": "SOS1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/jxb/erv493",
+    "label": "SOS"
+  },
+  {
+    "head": "SOS1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.15252/embj.2022113004",
+    "label": "SOS"
+  },
+  {
+    "head": "SOS2-SOS1 module",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Na+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.15252/embj.2022113004",
+    "label": "SOS"
+  },
+  {
+    "head": "Rh-PIP2;1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.108.120154",
+    "label": "PIP"
+  },
+  {
+    "head": "Rh-PIP2;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "water",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.108.120154",
+    "label": "PIP"
+  },
+  {
+    "head": "ZmPIP",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.114.240945",
+    "label": "PIP"
+  },
+  {
+    "head": "ZmPIP2s",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.114.240945",
+    "label": "PIP"
+  },
+  {
+    "head": "ZmPIP1s",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "endoplasmic reticulum",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.114.240945",
+    "label": "PIP"
+  },
+  {
+    "head": "ZmPIP1;2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "ER",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.114.240945",
+    "label": "PIP"
+  },
+  {
+    "head": "PIP",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3389/fpls.2018.00382",
+    "label": "PIP"
+  },
+  {
+    "head": "SmPIP1;1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "ER",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3389/fpls.2018.00382",
+    "label": "PIP"
+  },
+  {
+    "head": "SmPIP2;1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3389/fpls.2018.00382",
+    "label": "PIP"
+  },
+  {
+    "head": "SmPIP2;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "water",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2018.00382",
+    "label": "PIP"
+  },
+  {
+    "head": "SmPIP2;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "hydrogen peroxide",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2018.00382",
+    "label": "PIP"
+  },
+  {
+    "head": "SmPIP2;2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "endoplasmic reticulum",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3389/fpls.2018.00382",
+    "label": "PIP"
+  },
+  {
+    "head": "SUT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1080/13416979.2018.1506249",
+    "label": "SUT"
+  },
+  {
+    "head": "SUT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.108.058271",
+    "label": "SUT"
+  },
+  {
+    "head": "SUT1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1105/tpc.108.058271",
+    "label": "SUT"
+  },
+  {
+    "head": "MdSUT2.2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.13349",
+    "label": "SUT"
+  },
+  {
+    "head": "SUT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.17029",
+    "label": "SUT"
+  },
+  {
+    "head": "SoSUT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.14203/ann.bogor.2020.v24.n1.18-26",
+    "label": "SUT"
+  },
+  {
+    "head": "SUT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sucrose",
+    "tail_type": "substrate",
+    "source_paper_id": "10.56042/ijbb.v57i3.36491",
+    "label": "SUT"
+  },
+  {
+    "head": "SUT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "H+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.56042/ijbb.v57i3.36491",
+    "label": "SUT"
+  },
+  {
+    "head": "NRT1.1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1038/s41598-018-20038-4",
+    "label": "NRT"
+  },
+  {
+    "head": "NRT1.1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1038/s41598-018-20038-4",
+    "label": "NRT"
+  },
+  {
+    "head": "NRT1.1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.102.018523",
+    "label": "NRT"
+  },
+  {
+    "head": "NRT1.1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "NO3 –",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.102.018523",
+    "label": "NRT"
+  },
+  {
+    "head": "NRT1.5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.108.060244",
+    "label": "NRT"
+  },
+  {
+    "head": "NRT1.5",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1105/tpc.108.060244",
+    "label": "NRT"
+  },
+  {
+    "head": "NRT1.7",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.109.067603",
+    "label": "NRT"
+  },
+  {
+    "head": "PIN7",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2020.05.02.074070",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN7a",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2020.05.02.074070",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN7b",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2020.05.02.074070",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN7a",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1101/2020.05.02.074070",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN7b",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1101/2020.05.02.074070",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2020.10.22.350363",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1101/2020.10.22.350363",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/866632",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.109.072678",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1105/tpc.109.072678",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.109.072678",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1105/tpc.109.072678",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.18.00757",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.18.00757",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1105/tpc.18.00757",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/gb-2009-10-12-249",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "endoplasmic reticulum",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1186/gb-2009-10-12-249",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1371/journal.pgen.1003294",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pgen.1003294",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN6",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "endoplasmic reticulum",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1371/journal.pgen.1003294",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN8",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "endoplasmic reticulum",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1371/journal.pgen.1003294",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN5",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "endoplasmic reticulum",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1371/journal.pgen.1003294",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN6",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pgen.1003294",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN8",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pgen.1003294",
+    "label": "PIN"
+  },
+  {
+    "head": "PIN5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pgen.1003294",
+    "label": "PIN"
+  },
+  {
+    "head": "GmVTL1a",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "iron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/nph.16734",
+    "label": "VTL"
+  },
+  {
+    "head": "GmVTL1b",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "iron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/nph.16734",
+    "label": "VTL"
+  },
+  {
+    "head": "GmVTL1a",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "symbiosome membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/nph.16734",
+    "label": "VTL"
+  },
+  {
+    "head": "GmVTL1b",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "symbiosome membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/nph.16734",
+    "label": "VTL"
+  },
+  {
+    "head": "NtPDR3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "O-methylated coumarins",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/jxb/ery221",
+    "label": "PDR"
+  },
+  {
+    "head": "AtPDR8",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cd",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313x.2007.03044.x",
+    "label": "PDR"
+  },
+  {
+    "head": "AtPDR8",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/j.1365-313x.2007.03044.x",
+    "label": "PDR"
+  },
+  {
+    "head": "AtPDR8",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cd2+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313x.2007.03044.x",
+    "label": "PDR"
+  },
+  {
+    "head": "AtPDR8",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cd conjugates",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313x.2007.03044.x",
+    "label": "PDR"
+  },
+  {
+    "head": "AtMRS2-1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Mg2+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/bbb/zbac064",
+    "label": "MRS"
+  },
+  {
+    "head": "ZmPILS6",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2023.08.01.551510",
+    "label": "PILS"
+  },
+  {
+    "head": "ZmPILS6",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "endoplasmic reticulum",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1101/2023.08.01.551510",
+    "label": "PILS"
+  },
+  {
+    "head": "ZmPILS6",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "indole-3-acetic acid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2023.08.01.551510",
+    "label": "PILS"
+  },
+  {
+    "head": "PILS6",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2023.08.01.551510",
+    "label": "PILS"
+  },
+  {
+    "head": "LAX3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.110.167197",
+    "label": "LAX"
+  },
+  {
+    "head": "MtLAX2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vasculature of developing nodules",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.16.01473",
+    "label": "LAX"
+  },
+  {
+    "head": "MtLAX2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.16.01473",
+    "label": "LAX"
+  },
+  {
+    "head": "SlGAT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "GABA",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.15656",
+    "label": "GAT"
+  },
+  {
+    "head": "SlGAT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "GABA",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/pce.15656",
+    "label": "GAT"
+  },
+  {
+    "head": "SlGAT1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/pce.15656",
+    "label": "GAT"
+  },
+  {
+    "head": "AtPIC1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Fe",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2021.05.09.443283",
+    "label": "PIC"
+  },
+  {
+    "head": "AtPIC1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "chloroplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1101/2021.05.09.443283",
+    "label": "PIC"
+  },
+  {
+    "head": "PIC1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "iron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.110.170233",
+    "label": "PIC"
+  },
+  {
+    "head": "PIC1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "inner envelope membrane of chloroplasts",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.110.170233",
+    "label": "PIC"
+  },
+  {
+    "head": "PIC1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "inner envelope membrane of plastids",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.110.170233",
+    "label": "PIC"
+  },
+  {
+    "head": "PIC30",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "picloram",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.14608",
+    "label": "PIC"
+  },
+  {
+    "head": "PIC30",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.14608",
+    "label": "PIC"
+  },
+  {
+    "head": "PIC30",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "chloride",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.14608",
+    "label": "PIC"
+  },
+  {
+    "head": "PIC30",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/tpj.14608",
+    "label": "PIC"
+  },
+  {
+    "head": "PIC30",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "chlorate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.14608",
+    "label": "PIC"
+  },
+  {
+    "head": "PIC30",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "15 NO3 -",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.14608",
+    "label": "PIC"
+  },
+  {
+    "head": "TPKs",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1071/FP22117",
+    "label": "TPK"
+  },
+  {
+    "head": "TPKs",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuolar",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1071/FP22117",
+    "label": "TPK"
+  },
+  {
+    "head": "TPKs",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1071/FP22117",
+    "label": "TPK"
+  },
+  {
+    "head": "TPKs",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "tonoplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1071/FP22117",
+    "label": "TPK"
+  },
+  {
+    "head": "TPKs",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "chloroplast membranes",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1071/FP22117",
+    "label": "TPK"
+  },
+  {
+    "head": "ZIFL1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.113.110353",
+    "label": "ZIF"
+  },
+  {
+    "head": "ZIFL1.1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "tonoplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1105/tpc.113.110353",
+    "label": "ZIF"
+  },
+  {
+    "head": "ZIFL1.3",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1105/tpc.113.110353",
+    "label": "ZIF"
+  },
+  {
+    "head": "ZIFL1.1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.113.110353",
+    "label": "ZIF"
+  },
+  {
+    "head": "ZIFL1.1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.113.110353",
+    "label": "ZIF"
+  },
+  {
+    "head": "ZIFL1.3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.113.110353",
+    "label": "ZIF"
+  },
+  {
+    "head": "NRT2;3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1034/j.1399-3054.2002.1150115.x",
+    "label": "NRT"
+  },
+  {
+    "head": "NRT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1038/srep23462",
+    "label": "NRT"
+  },
+  {
+    "head": "MdNRT2.4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/jxb/erac301",
+    "label": "NRT"
+  },
+  {
+    "head": "MtNRT2.1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/plcell/koac340",
+    "label": "NRT"
+  },
+  {
+    "head": "NRT2.1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.17080",
+    "label": "NRT"
+  },
+  {
+    "head": "NRT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.ppat.1006097",
+    "label": "NRT"
+  },
+  {
+    "head": "AtABCG25",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ABA",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1002/1873-3468.13925",
+    "label": "ABCG"
+  },
+  {
+    "head": "BdABCG25",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "ABA",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1002/1873-3468.13925",
+    "label": "ABCG"
+  },
+  {
+    "head": "CsABCG11.2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cd",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1007/s44281-024-00036-5",
+    "label": "ABCG"
+  },
+  {
+    "head": "CsABCG11.2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Thea",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1007/s44281-024-00036-5",
+    "label": "ABCG"
+  },
+  {
+    "head": "CsABCG11.2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "amino acids",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1007/s44281-024-00036-5",
+    "label": "ABCG"
+  },
+  {
+    "head": "OsABCG36",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/jxb/erz335",
+    "label": "ABCG"
+  },
+  {
+    "head": "OsABCG36",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cd",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/jxb/erz335",
+    "label": "ABCG"
+  },
+  {
+    "head": "OsABCG36",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cd conjugates",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/jxb/erz335",
+    "label": "ABCG"
+  },
+  {
+    "head": "ABCG5/G8",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sterol",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2022.05.18.492512",
+    "label": "ABCG"
+  },
+  {
+    "head": "ABCG1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "high-density lipoproteins",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2022.05.18.492512",
+    "label": "ABCG"
+  },
+  {
+    "head": "ABCG5/G8",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "cholesterol",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2022.05.18.492512",
+    "label": "ABCG"
+  },
+  {
+    "head": "ABCG5/G8",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "stigmasterol",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2022.05.18.492512",
+    "label": "ABCG"
+  },
+  {
+    "head": "ABCG",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "cholesterol",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2022.05.18.492512",
+    "label": "ABCG"
+  },
+  {
+    "head": "ABCG",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sterol",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2022.05.18.492512",
+    "label": "ABCG"
+  },
+  {
+    "head": "ABCG26",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "endoplasmic reticulum",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.110.161968",
+    "label": "ABCG"
+  },
+  {
+    "head": "ABCG26",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.110.161968",
+    "label": "ABCG"
+  },
+  {
+    "head": "ABCG26",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sporopollenin precursors",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.110.161968",
+    "label": "ABCG"
+  },
+  {
+    "head": "ABCG36",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "indole-3-butyric acid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2019.00899",
+    "label": "ABCG"
+  },
+  {
+    "head": "ABCG36",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3389/fpls.2019.00899",
+    "label": "ABCG"
+  },
+  {
+    "head": "ABCG36",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "IBA",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2019.00899",
+    "label": "ABCG"
+  },
+  {
+    "head": "ABCG37",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "IBA",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2019.00899",
+    "label": "ABCG"
+  },
+  {
+    "head": "OsABCG48",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cd",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/AGRONOMY11050918",
+    "label": "ABCG"
+  },
+  {
+    "head": "TPT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "triose-phosphates",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.108.129478",
+    "label": "TPT"
+  },
+  {
+    "head": "GsTPT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "3-phosphoglyceric acid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.108.129478",
+    "label": "TPT"
+  },
+  {
+    "head": "KUP9",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K^+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1007/s44154-022-00074-x",
+    "label": "KUP"
+  },
+  {
+    "head": "KUP9",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cs^+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1007/s44154-022-00074-x",
+    "label": "KUP"
+  },
+  {
+    "head": "KUP",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "potassium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1094/mpmi.2004.17.7.789",
+    "label": "KUP"
+  },
+  {
+    "head": "GFP-LjKUP",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1094/mpmi.2004.17.7.789",
+    "label": "KUP"
+  },
+  {
+    "head": "KUP9",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.15252/embr.202050164",
+    "label": "KUP"
+  },
+  {
+    "head": "KUP9",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "endoplasmic reticulum",
+    "tail_type": "membrane",
+    "source_paper_id": "10.15252/embr.202050164",
+    "label": "KUP"
+  },
+  {
+    "head": "KUP9",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.15252/embr.202050164",
+    "label": "KUP"
+  },
+  {
+    "head": "KUP/HAK/KT",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.21894/jopr.2019.0029",
+    "label": "KUP"
+  },
+  {
+    "head": "EgKUP3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.21894/jopr.2019.0029",
+    "label": "KUP"
+  },
+  {
+    "head": "EgKUP8",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.21894/jopr.2019.0029",
+    "label": "KUP"
+  },
+  {
+    "head": "EgKUP11",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.21894/jopr.2019.0029",
+    "label": "KUP"
+  },
+  {
+    "head": "AtKUP5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "K+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2018.01645",
+    "label": "KUP"
+  },
+  {
+    "head": "AtKUP5",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "cytosol",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3389/fpls.2018.01645",
+    "label": "KUP"
+  },
+  {
+    "head": "ABCG26/WBC27",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "sporopollenin precursors",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/j.1365-313x.2010.04412.x",
+    "label": "ABCG"
+  },
+  {
+    "head": "TPC1/SV",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "vacuolar",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3389/fpls.2020.616077",
+    "label": "TPC"
+  },
+  {
+    "head": "BASS2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "pyruvate",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2017.00194",
+    "label": "BASS"
+  },
+  {
+    "head": "BASS2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plastids",
+    "tail_type": "membrane",
+    "source_paper_id": "10.3389/fpls.2017.00194",
+    "label": "BASS"
+  },
+  {
+    "head": "AUX1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1038/s41467-018-03582-5",
+    "label": "AUX"
+  },
+  {
+    "head": "CsZIP4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Zn",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1021/acs.jafc.4c05011",
+    "label": "ZIP"
+  },
+  {
+    "head": "CsZIP4",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1021/acs.jafc.4c05011",
+    "label": "ZIP"
+  },
+  {
+    "head": "CsZIP4",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "chloroplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1021/acs.jafc.4c05011",
+    "label": "ZIP"
+  },
+  {
+    "head": "OsZIP9",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Zn",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.20.00125",
+    "label": "ZIP"
+  },
+  {
+    "head": "OsZIP9",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.20.00125",
+    "label": "ZIP"
+  },
+  {
+    "head": "ZIP2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1371/journal.pgen.1011796",
+    "label": "ZIP"
+  },
+  {
+    "head": "ZIP3",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1371/journal.pgen.1011796",
+    "label": "ZIP"
+  },
+  {
+    "head": "ZIP5",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1371/journal.pgen.1011796",
+    "label": "ZIP"
+  },
+  {
+    "head": "ZIP8",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1371/journal.pgen.1011796",
+    "label": "ZIP"
+  },
+  {
+    "head": "ZIP3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Zn",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pgen.1011796",
+    "label": "ZIP"
+  },
+  {
+    "head": "ZIP5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Zn",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pgen.1011796",
+    "label": "ZIP"
+  },
+  {
+    "head": "ZIP2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "copper",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pgen.1011796",
+    "label": "ZIP"
+  },
+  {
+    "head": "ZIP8",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "iron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1371/journal.pgen.1011796",
+    "label": "ZIP"
+  },
+  {
+    "head": "ZIP",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Zn",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2020.00662",
+    "label": "ZIP"
+  },
+  {
+    "head": "ZIP",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cd2+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2020.00662",
+    "label": "ZIP"
+  },
+  {
+    "head": "ZIP",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Fe2+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2020.00662",
+    "label": "ZIP"
+  },
+  {
+    "head": "ZIP",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Cu2+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3389/fpls.2020.00662",
+    "label": "ZIP"
+  },
+  {
+    "head": "MGT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Mg2+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/plphys/kiac330",
+    "label": "MGT"
+  },
+  {
+    "head": "MGT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Mg2+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/plphys/kiac330",
+    "label": "MGT"
+  },
+  {
+    "head": "MGT1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "tonoplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/plphys/kiac330",
+    "label": "MGT"
+  },
+  {
+    "head": "MGT2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "tonoplast",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/plphys/kiac330",
+    "label": "MGT"
+  },
+  {
+    "head": "MGT6",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Mg2+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1093/plphys/kiac330",
+    "label": "MGT"
+  },
+  {
+    "head": "MGT6",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1093/plphys/kiac330",
+    "label": "MGT"
+  },
+  {
+    "head": "OsMGT1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Mg",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.112.199778",
+    "label": "MGT"
+  },
+  {
+    "head": "OsMGT1",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.112.199778",
+    "label": "MGT"
+  },
+  {
+    "head": "MGT6",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Mg2+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.114.124628",
+    "label": "MGT"
+  },
+  {
+    "head": "MGT6",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1105/tpc.114.124628",
+    "label": "MGT"
+  },
+  {
+    "head": "MGT5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Mg",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/tpj.13054",
+    "label": "MGT"
+  },
+  {
+    "head": "MGT5",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/tpj.13054",
+    "label": "MGT"
+  },
+  {
+    "head": "NIP1;2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Boron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/app12041788",
+    "label": "NIP"
+  },
+  {
+    "head": "NIP1;3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Boron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/app12041788",
+    "label": "NIP"
+  },
+  {
+    "head": "NIP4;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Boron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/app12041788",
+    "label": "NIP"
+  },
+  {
+    "head": "NIP4;2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Boron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/app12041788",
+    "label": "NIP"
+  },
+  {
+    "head": "NIP5;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Boron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/app12041788",
+    "label": "NIP"
+  },
+  {
+    "head": "NIP6;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Boron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/app12041788",
+    "label": "NIP"
+  },
+  {
+    "head": "NIP7",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Boron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/app12041788",
+    "label": "NIP"
+  },
+  {
+    "head": "BOR2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Boron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/app12041788",
+    "label": "BOR"
+  },
+  {
+    "head": "BOR4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Boron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/app12041788",
+    "label": "BOR"
+  },
+  {
+    "head": "BOR7;1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Boron",
+    "tail_type": "substrate",
+    "source_paper_id": "10.3390/app12041788",
+    "label": "BOR"
+  },
+  {
+    "head": "AtINT4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "inositol",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.107.109033",
+    "label": "INT"
+  },
+  {
+    "head": "AtINT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "inositol",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.107.109033",
+    "label": "INT"
+  },
+  {
+    "head": "AtINT3",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "inositol",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.107.109033",
+    "label": "INT"
+  },
+  {
+    "head": "AtINT2",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.107.109033",
+    "label": "INT"
+  },
+  {
+    "head": "AtINT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "H+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.107.109033",
+    "label": "INT"
+  },
+  {
+    "head": "AtINT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "myoinositol",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.107.109033",
+    "label": "INT"
+  },
+  {
+    "head": "AtINT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "scylloinositol",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.107.109033",
+    "label": "INT"
+  },
+  {
+    "head": "AtINT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "d-chiroinositol",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.107.109033",
+    "label": "INT"
+  },
+  {
+    "head": "AtINT2",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "mucoinositol",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.107.109033",
+    "label": "INT"
+  },
+  {
+    "head": "DTX6",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "paraquat",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1101/2021.02.07.430154",
+    "label": "DTX"
+  },
+  {
+    "head": "DTX6",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1101/2021.02.07.430154",
+    "label": "DTX"
+  },
+  {
+    "head": "HAK5",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "potassium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1080/15592324.2018.1554468",
+    "label": "HAK"
+  },
+  {
+    "head": "KUP",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "potassium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1080/15592324.2018.1554468",
+    "label": "KUP"
+  },
+  {
+    "head": "KUP",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "cesium",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1080/15592324.2018.1554468",
+    "label": "KUP"
+  },
+  {
+    "head": "AAP8",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "amino acid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1104/pp.16.00244",
+    "label": "AAP"
+  },
+  {
+    "head": "AAP8",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "plasma membrane",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1104/pp.16.00244",
+    "label": "AAP"
+  },
+  {
+    "head": "AAP",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "amino acids",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/nph.18947",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "neutral amino acid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12284-020-00446-9",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Val",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12284-020-00446-9",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Pro",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12284-020-00446-9",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Thr",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12284-020-00446-9",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Leu",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12284-020-00446-9",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "nitrogen",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12284-020-00446-9",
+    "label": "AAP"
+  },
+  {
+    "head": "AAP",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "amino acids",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12870-024-05159-5",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP7",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "endoplasmic reticulum",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1186/s12870-024-05159-5",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP7",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "phenylalanine",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12870-024-05159-5",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP7",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "lysine",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12870-024-05159-5",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP7",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "leucine",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12870-024-05159-5",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP7",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "arginine",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1186/s12870-024-05159-5",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "neutral amino acid",
+    "tail_type": "substrate",
+    "source_paper_id": "10.21203/rs.3.rs-53363/v3",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Val",
+    "tail_type": "substrate",
+    "source_paper_id": "10.21203/rs.3.rs-53363/v3",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Pro",
+    "tail_type": "substrate",
+    "source_paper_id": "10.21203/rs.3.rs-53363/v3",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Thr",
+    "tail_type": "substrate",
+    "source_paper_id": "10.21203/rs.3.rs-53363/v3",
+    "label": "AAP"
+  },
+  {
+    "head": "OsAAP4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Leu",
+    "tail_type": "substrate",
+    "source_paper_id": "10.21203/rs.3.rs-53363/v3",
+    "label": "AAP"
+  },
+  {
+    "head": "MGR8",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Mg2+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/nph.18349",
+    "label": "MGR"
+  },
+  {
+    "head": "MGR9",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "Mg2+",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1111/nph.18349",
+    "label": "MGR"
+  },
+  {
+    "head": "MGR8",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "inner envelope of chloroplasts",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/nph.18349",
+    "label": "MGR"
+  },
+  {
+    "head": "MGR9",
+    "head_type": "transport_protein",
+    "relation": "location",
+    "tail": "inner envelope of chloroplasts",
+    "tail_type": "membrane",
+    "source_paper_id": "10.1111/nph.18349",
+    "label": "MGR"
+  },
+  {
+    "head": "MDR-like ABC transporters",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.106.048777",
+    "label": "ABC"
+  },
+  {
+    "head": "MDR4",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.106.048777",
+    "label": "MDR"
+  },
+  {
+    "head": "MDR1",
+    "head_type": "transport_protein",
+    "relation": "transports",
+    "tail": "auxin",
+    "tail_type": "substrate",
+    "source_paper_id": "10.1105/tpc.106.048777",
+    "label": "MDR"
+  }
+]

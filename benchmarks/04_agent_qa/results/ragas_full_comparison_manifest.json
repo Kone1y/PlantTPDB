@@ -1,0 +1,16 @@
+{
+  "protocol": "pre-extracted atomic claims -> RAGAS Faithfulness NLI -> human gold comparison",
+  "not_full_ragas_faithfulness": true,
+  "ragas_version": "0.4.3",
+  "judge_model": "deepseek-v4-flash",
+  "base_url": "https://api.deepseek.com",
+  "temperature": 0.0,
+  "batch_size": 8,
+  "reference_as_evidence": false,
+  "input_file": "data/claims/ragas_eval_input_3534.jsonl.gz (gzipped JSONL; the .gz file-level sha256 is recorded in the top-level MANIFEST.json)",
+  "input_sha256": "d63e663463927de5e51c906506b2d18a486032280974d4a12ed121b30be96570",
+  "input_sha256_scope": "sha256 of the DECOMPRESSED JSONL content (reproduce with: pigz -dc <file> | sha256sum); distinct from the .gz file hash in MANIFEST.json",
+  "no_claim_decomposition": true,
+  "failure_policy": "failed/mismatched/invalid verdicts excluded from scoring and reported",
+  "scored_claims": 3534
+}

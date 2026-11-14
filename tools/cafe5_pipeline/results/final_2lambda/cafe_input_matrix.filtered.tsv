@@ -1,0 +1,148 @@
+Desc	Family ID	Volvox_carteri_nagariensis	Edaphochlamys_debaryana	Klebsormidium_nitens	Anthoceros_agrestis	Marchantia_polymorpha	Riccia_fluitans	Fontinalis_antipyretica	Sphagnum_fallax	Physcomitrium_patens	Ceratopteris_richardii	Amborella_trichopoda	Acorus_calamus	Ananas_comosus	Musa_acuminata	Oryza_sativa	Setaria_italica	Zea_mays	Sorghum_bicolor	Brachypodium_distachyon	Zostera_marina	Vitis_vinifera	Medicago_truncatula	Brassica_rapa	Populus_trichocarpa	Glycine_max	Arabidopsis_thaliana
+The Voltage-gated Ion Channel (VIC) Superfamily	1.A.1	12	15	29	55	13	19	18	29	34	30	25	36	28	46	38	36	46	35	34	25	40	56	62	48	76	39
+The Glutamate-gated Ion Channel (GIC) Family of Neurotransmitter Receptors	1.A.10	1	2	7	1	1	1	1	1	2	30	28	8	8	20	22	19	18	23	19	9	46	20	27	54	40	20
+The Ammonium Transporter Channel (Amt) Family	1.A.11	10	10	7	5	21	9	7	11	16	7	8	6	5	13	10	8	7	8	8	12	13	13	9	21	17	6
+The Cyclin M Mg2+ Exporter (CNNM) Family	1.A.112	4	5	4	5	4	4	10	7	12	6	4	5	5	9	4	4	12	4	4	5	7	11	10	9	24	9
+The Stress-inducible Transmembrane Protein (TMPIT) Family	1.A.119	1	1	1	2	1	2	2	2	4	2	1	4	2	3	2	2	3	2	2	1	1	1	3	2	2	2
+The Intracellular Chloride Channel (CLIC) Family	1.A.12	1	2	2	2	2	2	3	2	3	5	2	1	2	4	2	2	4	3	2	2	2	2	4	3	4	4
+The Mildew-resistance Locus O (MLO) Family	1.A.130	2	3	1	5	4	6	8	4	11	10	13	13	9	21	13	12	19	14	12	13	22	15	23	25	40	15
+The Calcium Transporter A (CaTA) Family (formerly the Testis-Enhanced Gene Transfer (TEGT) Family)	1.A.14	3	3	3	2	2	3	4	5	5	6	4	8	7	12	8	9	11	8	8	4	4	11	10	8	12	8
+The Non-selective Cation Channel-2 (NSCC2) Family	1.A.15	0	0	1	1	1	1	1	1	2	1	1	4	0	1	1	1	2	1	1	2	1	1	3	2	2	1
+The Calcium-dependent Chloride Channel (Ca-ClC) Family	1.A.17	5	14	8	6	5	6	17	9	18	10	10	22	11	16	12	12	18	13	13	11	11	20	25	17	30	16
+The Small Conductance Mechanosensitive Ion Channel (MscS) Family	1.A.23	2	4	11	6	5	5	9	11	16	15	6	12	9	8	5	6	11	6	8	9	12	10	19	14	17	12
+The Annexin (Annexin) Family	1.A.31	0	0	0	2	0	0	3	3	6	5	5	9	8	12	7	8	10	10	9	4	36	13	13	11	21	8
+The Cation Channel-forming Heat Shock Protein-70 (Hsp70) Family	1.A.33	2	2	5	3	5	8	4	10	12	14	3	4	6	12	12	9	13	16	13	21	23	92	12	14	23	6
+The CorA Metal Ion Transporter (MIT) Family	1.A.35	6	6	7	8	8	8	10	14	15	10	15	11	16	16	12	11	15	15	13	10	10	23	18	18	22	14
+The Golgi pH Regulator (GPHR) Family	1.A.38	1	1	1	3	1	1	0	2	0	1	1	2	1	1	1	1	1	1	1	1	1	1	2	2	2	2
+The Camphor Resistance or Fluoride Exporter (Fluc) Family	1.A.43	0	0	2	2	1	1	1	1	2	2	3	2	2	2	1	1	1	1	1	1	1	3	2	2	4	1
+The Anion Channel-forming Bestrophin (Bestrophin) Family	1.A.46	7	9	2	4	2	3	10	4	11	4	1	2	1	1	1	1	1	1	1	1	1	1	3	1	2	2
+The Nucleotide-sensitive Anion-selective Channel, ICln (ICln) Family	1.A.47	0	1	1	1	1	1	1	2	2	1	1	5	2	2	2	2	2	1	2	1	1	1	2	2	2	1
+The Voltage-gated Proton Channel (VPC) Family	1.A.51	0	0	0	0	0	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+The Presenilin ER Ca2+ Leak Channel (Presenilin) Family	1.A.54	4	5	5	3	5	5	6	7	10	8	6	8	7	11	10	8	11	9	9	7	7	11	14	12	20	8
+The Copper Transporter (Ctr) Family	1.A.56	1	1	1	1	2	1	1	1	2	8	3	4	3	8	7	5	6	5	5	6	13	9	9	7	10	6
+The Membrane Mg2+ Transporter (MMgT) Family	1.A.67	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	1	0	1	0	2	0	2	4	1
+The Heteromeric Odorant Receptor Channel (HORC) Family	1.A.69	0	0	1	1	3	1	1	3	5	2	2	7	5	9	4	4	5	4	4	5	4	3	9	4	8	5
+The Mechanical Nociceptor, Piezo (Piezo) Family	1.A.75	1	1	1	1	1	1	1	2	2	1	1	4	2	1	1	2	1	1	1	4	2	2	2	2	3	1
+The Magnesium Transporter1 (MagT1) Family	1.A.76	1	0	1	1	1	1	1	1	1	1	1	2	1	1	0	1	2	1	1	1	1	1	2	2	2	2
+The Mg2+/Ca2+ Uniporter (MCU) Family	1.A.77	1	1	1	0	1	1	1	0	3	6	4	7	5	7	5	4	6	4	6	4	3	6	12	6	11	6
+The Major Intrinsic Protein (MIP) Family	1.A.8	2	3	16	13	35	20	16	22	24	31	22	21	36	52	39	43	45	41	33	26	33	48	60	50	84	38
+The Mechanosensitive Calcium Channel (MCA) Family	1.A.87	0	0	0	1	1	1	4	5	4	1	1	1	1	5	4	3	7	2	3	1	2	2	3	2	6	2
+The Plastid Outer Envelope Porin of 24 kDa (OEP24) Family	1.B.28	0	0	1	1	1	1	1	2	2	1	1	4	1	5	1	0	2	1	1	1	1	1	2	2	3	2
+The Plastid Outer Envelope Porin of 21 kDa (OEP21) Family	1.B.29	0	0	2	2	1	1	1	2	2	1	1	2	2	2	1	1	1	1	1	1	1	1	3	1	1	2
+The Plastid Outer Envelope Porin of 16 kDa (OEP16) Family	1.B.30	0	0	3	1	3	2	5	9	9	5	3	11	5	4	5	4	5	5	6	2	4	6	7	5	9	4
+The Outer Membrane Protein Insertion Porin (Bam Complex) (OmpIP) Family	1.B.33	2	2	3	3	3	3	4	5	7	4	4	5	3	7	7	6	7	6	7	3	3	7	10	8	9	7
+The Plastid Outer Envelope Porin of 37 kDa (OEP37) Family	1.B.47	0	0	1	1	1	1	2	1	2	1	1	3	2	1	2	2	2	2	2	1	1	1	2	2	1	1
+The Chloroplast Outer Membrane Porin (Oep23) Family	1.B.77	0	1	0	0	0	3	1	1	1	1	1	1	0	1	0	0	0	0	0	1	1	1	1	1	1	1
+The Mitochondrial and Plastid Porin (MPP) Family	1.B.8	3	3	2	3	3	3	4	14	6	9	6	8	11	13	8	9	16	8	9	4	8	9	14	14	18	8
+The Chloroplast Outer Envelope Porin 40 (OEP40) Family	1.B.96	0	0	1	1	1	1	0	2	1	1	2	1	1	2	0	0	0	0	0	2	3	2	3	2	2	1
+The Hemolysin III (Hly III) Family	1.C.113	1	1	2	1	4	3	3	4	5	4	2	9	6	6	4	5	6	5	6	6	3	3	8	5	6	6
+The Membrane Attack Complex/Perforin (MACPF) Family	1.C.39	0	0	0	1	1	0	0	2	2	2	5	2	3	5	2	2	3	2	2	2	3	4	4	6	8	2
+The Plant Defensin (Plant Defensin) Family	1.C.45	0	0	0	0	0	0	0	0	0	0	0	2	2	1	3	3	1	5	2	1	1	4	9	2	4	7
+The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family	1.F.1	4	5	2	4	3	2	4	6	8	6	6	16	7	13	9	9	14	9	9	8	8	12	17	13	15	9
+The Plant Plasmodesmata (PPD) Family	1.I.2	0	0	0	2	0	0	2	2	1	3	9	16	13	30	13	14	23	17	17	16	12	21	33	25	45	20
+The Membrane Contact Site (MCS) Family	1.R.1	0	1	1	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	1	0	1
+The Ferroportin (Fpn) Family	2.A.100	1	1	2	2	2	2	2	2	4	4	2	6	2	3	3	3	4	3	3	4	5	3	3	3	5	3
+The 4-Toluene Sulfonate Uptake Permease (TSUP) Family	2.A.102	3	2	5	5	5	3	2	3	4	3	4	13	7	11	6	4	4	6	5	4	6	11	6	11	22	6
+The Mitochondrial Pyruvate Carrier (MPC) Family	2.A.105	1	2	3	2	3	4	0	0	1	5	1	9	2	3	1	1	2	1	1	3	6	2	9	5	10	6
+The Ca2+:H+ Antiporter-2 (CaCA2) Family	2.A.106	3	3	4	3	4	4	3	6	6	4	5	8	6	6	5	5	7	5	6	4	5	4	8	8	7	5
+The Tellurium Ion Resistance (TerC) Family	2.A.109	1	1	1	1	1	1	5	1	1	1	1	3	1	1	1	1	2	1	1	1	1	1	2	1	2	1
+The ATP:ADP Antiporter (AAA) Family	2.A.12	2	3	1	2	1	1	1	2	2	2	2	8	3	4	2	2	3	2	2	5	1	2	4	2	4	2
+The Sulfate Transporter (CysZ) Family	2.A.121	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	2	1
+The LrgB/CidB Holin-like Glycolate/Glycerate Transporter (LrgB/CidB/GGT) Family	2.A.122	1	1	1	2	1	2	3	2	2	1	1	3	1	1	2	1	2	2	1	1	1	1	2	1	4	1
+The Sweet; PQ-loop; Saliva; MtN3 (Sweet) Family	2.A.123	3	3	3	6	10	6	4	11	7	20	9	12	16	26	25	24	20	23	20	8	18	27	34	26	48	17
+The Fatty Acid Exporter (FAX) Family	2.A.126	1	1	4	2	4	4	5	10	8	4	5	10	7	14	6	6	14	7	6	6	5	4	7	9	8	7
+The Telurite-resistance/Dicarboxylate Transporter (TDT) Family	2.A.16	0	0	4	1	2	0	2	6	4	9	4	4	8	15	10	8	11	11	6	4	5	6	12	7	11	5
+The Ca2+:Cation Antiporter (CaCA) Family	2.A.19	7	8	6	7	12	7	10	10	16	15	8	11	17	22	16	16	23	15	15	11	23	15	23	19	33	17
+The Glycoside-Pentoside-Hexuronide (GPH):Cation Symporter Family	2.A.2	0	0	3	3	3	4	3	12	7	4	6	6	5	6	9	8	10	8	7	10	5	11	15	7	18	11
+The Inorganic Phosphate Transporter (PiT) Family	2.A.20	5	9	9	3	22	10	2	4	6	5	2	2	1	1	1	1	1	1	1	1	2	1	2	3	2	1
+The Solute:Sodium Symporter (SSS) Family	2.A.21	2	4	2	6	4	1	1	3	2	8	1	1	1	1	2	1	1	2	1	1	1	1	3	1	1	1
+The Bile Acid:Na+ Symporter (BASS) Family	2.A.28	5	6	7	6	5	4	6	7	8	9	7	15	6	7	6	7	5	6	5	5	8	8	8	6	9	6
+The Amino Acid-Polyamine-Organocation (APC) Family	2.A.3	7	14	17	8	12	10	15	20	15	18	16	20	20	21	25	29	26	29	22	11	21	26	24	26	36	15
+The Cation-Chloride Cotransporter (CCC) Family	2.A.30	0	0	5	2	2	2	4	4	8	1	1	1	2	2	2	2	3	3	3	5	1	2	2	2	2	1
+The Anion Exchanger (AE) Family	2.A.31	0	1	1	4	2	2	2	3	3	6	3	2	3	4	4	3	9	3	3	2	6	11	9	10	16	7
+The Monovalent Cation:Proton Antiporter-1 (CPA1) Family	2.A.36	4	5	8	4	5	3	10	8	12	12	7	4	8	12	7	7	15	8	9	5	7	16	10	8	14	8
+The Monovalent Cation:Proton Antiporter-2 (CPA2) Family	2.A.37	3	3	6	7	7	8	8	9	12	25	32	12	20	31	24	22	22	21	21	26	22	63	59	37	63	34
+The K+ Transporter (Trk) Family	2.A.38	0	0	0	3	1	0	0	1	1	2	2	5	1	4	8	9	3	4	6	2	5	6	4	2	4	1
+The Nucleobase:Cation Symporter-1 (NCS1) Family	2.A.39	1	1	1	0	1	1	4	4	2	2	1	4	3	4	1	2	1	1	2	1	1	2	1	1	2	1
+The Cation Diffusion Facilitator (CDF) Family	2.A.4	3	5	10	5	9	6	12	13	16	10	8	9	11	16	10	10	18	9	14	9	14	13	20	20	27	12
+The Nucleobase/Ascorbate Transporter (NAT) or Nucleobase:Cation Symporter-2 (NCS2) Family	2.A.40	3	8	5	3	4	3	10	10	13	12	9	9	13	25	13	14	25	14	14	10	12	18	17	18	41	14
+The Hydroxy/Aromatic Amino Acid Permease (HAAAP) Family	2.A.42	1	1	3	3	2	2	3	3	3	1	3	3	4	1	3	3	2	3	3	3	3	2	2	4	3	2
+The Lysosomal Cystine Transporter (LCT) Family	2.A.43	0	1	2	3	5	4	5	4	5	3	5	11	4	7	3	4	4	3	3	3	5	12	5	4	15	5
+The Arsenite-Antimonite (ArsB) Efflux Family	2.A.45	0	0	1	2	1	1	2	1	3	5	5	2	4	7	5	5	6	5	5	0	3	3	1	7	7	1
+The Divalent Anion:Na+ Symporter (DASS) Family	2.A.47	3	2	3	3	4	6	4	7	6	8	2	4	3	6	6	6	7	8	6	3	3	6	7	5	9	4
+The Chloride Carrier/Channel (ClC) Family	2.A.49	6	8	5	5	5	5	8	11	9	8	8	7	9	13	9	11	14	10	10	8	9	10	11	10	13	7
+The Zinc (Zn2+)-Iron (Fe2+) Permease (ZIP) Family	2.A.5	7	14	6	9	8	16	9	9	11	39	17	27	30	20	17	17	18	17	17	19	22	17	34	21	27	17
+The Glycerol Uptake (GUP) or Membrane-bound Acyl Transferase (MBOAT) Family	2.A.50	3	3	3	5	3	3	6	7	7	4	3	5	3	5	4	4	4	4	4	3	4	4	5	5	7	5
+The Ni2+-Co2+ Transporter (NiCoT) Family	2.A.52	0	0	0	1	1	1	1	2	4	4	1	2	1	3	2	2	1	1	2	1	2	1	2	2	4	2
+The Sulfate Permease (SulP) Family	2.A.53	2	5	4	8	8	13	6	8	7	11	8	20	11	23	16	14	10	13	12	14	22	22	24	19	46	14
+The Metal Ion (Mn2+-iron) Transporter (Nramp) Family	2.A.55	3	5	3	3	6	4	5	9	8	10	10	5	7	12	12	12	11	12	9	7	9	10	12	11	17	7
+The Equilibrative Nucleoside Transporter (ENT) Family	2.A.57	1	1	2	2	6	4	2	4	4	2	5	4	2	5	4	8	4	5	2	9	7	14	12	9	10	8
+The Resistance-Nodulation-Cell Division (RND) Superfamily	2.A.6	1	3	5	2	3	3	3	4	5	8	2	6	3	6	4	4	7	4	4	4	5	12	7	9	11	4
+The NhaD Na+:H+ Antiporter (NhaD) Family	2.A.62	1	1	1	1	1	1	3	1	2	1	1	2	1	1	1	1	1	1	1	1	1	1	2	2	4	2
+The Twin Arginine Targeting (Tat) Family	2.A.64	3	3	3	3	3	3	4	6	7	3	3	6	3	6	3	3	6	3	3	5	3	4	7	5	8	3
+The Oligopeptide Transporter (OPT) Family	2.A.67	0	0	1	5	7	11	3	15	5	10	26	11	19	30	28	34	38	30	30	10	26	28	31	30	31	18
+The Auxin Efflux Carrier (AEC) Family	2.A.69	2	2	4	3	8	14	4	16	10	9	16	20	19	31	19	21	21	19	19	12	23	29	27	29	44	15
+The Folate-Biopterin Transporter (FBT) Family	2.A.71	1	3	3	3	2	2	5	13	8	8	6	11	9	7	9	8	10	8	10	7	9	9	11	12	13	9
+The K+ Uptake Permease (KUP) Family	2.A.72	1	4	6	10	7	7	16	12	18	22	31	14	20	27	28	30	36	29	28	12	30	31	21	28	36	13
+The Organic Solute Transporter (OST) Family	2.A.82	3	2	3	1	3	3	5	6	9	6	5	9	7	10	8	8	9	8	7	8	6	5	8	11	16	7
+The Chloroplast Maltose Exporter (MEX) Family	2.A.84	1	1	1	1	1	1	4	1	4	2	1	3	2	2	1	1	1	1	2	0	1	1	2	1	2	2
+The Aromatic Acid Exporter (ArAE) Family	2.A.85	0	0	2	1	4	3	5	6	5	8	7	6	9	11	10	17	10	10	7	4	18	23	17	21	33	14
+The Vacuolar Iron Transporter (VIT) Family	2.A.89	2	2	2	3	3	5	7	6	5	7	7	12	7	10	7	8	9	8	6	8	7	14	14	9	22	8
+The Membrane Protein Insertase (YidC/Alb3/Oxa1) Family	2.A.9	1	2	2	3	2	2	2	3	3	2	3	4	3	5	3	3	5	4	4	4	2	4	8	7	7	4
+The Choline Transporter-like (CTL) Family	2.A.92	1	1	3	2	1	2	2	6	2	2	2	6	2	4	2	2	2	2	2	2	2	3	4	3	7	2
+The Phosphate Permease (Pho1) Family	2.A.94	1	1	2	4	9	12	7	11	10	11	5	8	6	5	4	4	6	5	4	3	9	13	27	16	19	13
+The Mitochondrial Inner Membrane K+/H+ and Ca2+/H+ Exchanger (LetM1) Family	2.A.97	1	1	1	1	1	1	3	2	2	3	1	4	1	1	2	3	3	4	3	2	2	2	3	3	4	2
+The Putative Sulfate Exporter (PSE) Family	2.A.98	1	1	2	2	2	3	2	2	2	2	2	2	3	1	1	2	1	2	2	2	2	2	3	3	0	2
+The H+, Na+-translocating Pyrophosphatase (M+-PPase) Family	3.A.10	1	1	2	4	3	2	6	4	5	19	3	7	7	18	7	8	23	8	5	8	8	3	6	6	11	3
+The Endoplasmic Reticular Retrotranslocon (ER-RT) Family	3.A.16	9	8	9	16	13	12	10	17	20	14	14	25	11	23	16	20	40	17	16	15	14	23	27	21	41	17
+The Guided Entry of Tail Anchored Protein (GET) Family	3.A.19	2	2	2	3	3	3	2	4	4	4	3	4	3	5	3	5	6	5	4	3	4	4	6	5	7	4
+The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily	3.A.2	20	24	23	23	27	29	44	49	55	67	36	34	35	54	37	31	65	33	41	41	47	64	74	48	64	45
+The Peroxisomal Protein Importer (PPI) Family	3.A.20	4	6	6	5	6	6	7	7	8	13	8	8	9	15	11	11	15	11	11	11	8	9	21	13	15	10
+The Type VI Symbiosis/Virulence Secretory System (T6SS) Family	3.A.23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+The AAA-ATPase, Bcs1 (Bcs1) Family	3.A.28	0	2	1	0	0	0	0	0	0	0	4	5	8	6	16	14	9	13	10	5	21	26	16	23	24	9
+The General Secretory Pathway (Sec) Family	3.A.5	13	12	15	22	18	15	20	28	25	24	22	44	19	32	23	26	27	28	27	21	28	26	45	33	49	28
+The Mitochondrial Protein Translocase (MPT) Family	3.A.8	1	3	5	6	5	6	8	9	8	10	8	9	8	14	12	14	15	13	15	8	6	10	19	13	18	12
+The Chloroplast Envelope Protein Translocase (CEPT or Tic-Toc) Family	3.A.9	5	9	9	8	10	10	18	16	25	25	14	32	15	19	15	16	21	14	14	12	26	22	17	26	29	21
+The Proton-translocating Quinol:Cytochrome c Reductase (QCR) Superfamily	3.D.3	9	2	7	2	5	2	6	9	8	25	5	5	3	11	5	7	20	5	23	5	12	14	7	12	12	8
+The Proton-translocating Cytochrome Oxidase (COX) Superfamily	3.D.4	5	3	4	1	2	1	4	10	3	10	4	1	3	3	4	5	7	2	1	3	5	8	4	3	5	7
+The Photosynthetic Reaction Center (PRC) Family	3.E.2	25	11	16	25	24	26	19	32	44	81	28	34	27	19	15	18	50	23	33	19	28	42	30	30	33	21
+The Fatty Acid Group Translocation (FAT) Family	4.C.1	0	0	1	3	1	1	1	0	2	1	3	4	5	9	6	6	7	6	8	4	4	7	4	7	13	4
+The Glycosyl Transferase 2 (GT2) Family	4.D.2	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1
+The Disulfide Bond Oxidoreductase D (DsbD) Family	5.A.1	1	1	1	2	1	1	1	1	1	1	1	2	1	1	2	2	1	1	1	1	1	1	1	1	2	1
+The Phagocyte (gp91phox) NADPH Oxidase Family	5.B.1	1	9	10	8	21	6	8	7	11	17	9	20	13	23	11	15	17	11	12	7	13	18	23	18	26	18
+The Eukaryotic Cytochrome b561 (Cytb561) Family	5.B.2	1	2	3	5	6	4	10	8	13	23	10	22	19	24	17	14	17	16	16	11	16	17	21	30	30	14
+The Plant Photosystem I Supercomplex (PSI) Family	5.B.4	14	18	17	11	11	12	15	25	39	48	16	28	17	26	16	18	31	13	22	12	24	38	25	29	34	19
+The 5'-AMP-activated protein kinase (AMPK) Family	8.A.104	1	2	2	1	1	1	1	2	2	1	3	2	2	4	1	2	4	2	1	2	2	4	2	3	6	2
+The Immunophilin-like Prolyl:peptidyl Isomerase Regulator (I-PPI) Family	8.A.11	0	1	1	1	1	1	1	2	1	1	1	1	1	1	2	3	1	1	2	1	1	1	2	2	2	1
+The Huntington-interacting Protein 14 (HIP14) Family	8.A.114	3	2	6	5	8	6	6	12	12	11	12	18	15	27	18	19	26	18	19	17	16	12	32	24	30	17
+The Mitochondrial StAR-related Lipid Transfer Protein (StAR) Family	8.A.120	0	0	1	0	0	0	0	0	0	1	0	1	1	2	1	1	2	1	1	2	1	1	4	1	2	2
+The Stomatin/Podocin/Band 7/Nephrosis.2/SPFH (Stomatin) Family	8.A.21	2	2	3	4	2	3	2	11	7	8	4	5	7	8	9	7	6	6	5	3	4	9	14	5	16	7
+The CDC50 P-type ATPase Lipid Flippase Subunit (CDC50) Family	8.A.27	2	2	1	3	1	1	4	5	5	3	3	3	7	5	6	7	9	7	6	3	4	5	6	7	10	5
+The Ankyrin (Ankyrin) Family	8.A.28	0	0	0	0	2	0	0	2	1	0	0	0	0	0	0	2	1	0	0	0	2	0	1	0	1	5
+The β-Amyloid Cleaving Enzyme (BACE1) Family	8.A.32	2	1	3	1	1	1	4	3	5	2	2	1	3	4	2	2	3	2	2	3	3	3	4	3	6	3
+The Tetraspanin (Tetraspanin) Family	8.A.40	0	0	2	4	2	2	6	9	8	25	7	14	15	30	14	12	13	14	12	10	13	12	28	20	24	19
+The Endomembrane protein-70 (EMP70) Family	8.A.68	5	8	6	4	5	5	8	13	15	16	13	29	18	32	18	16	27	16	16	15	10	13	21	17	29	12
+The Calmodulin Calcium Binding Protein (Calmodulin) Family	8.A.82	3	6	6	6	11	11	7	17	12	35	11	10	14	37	24	16	22	17	17	16	12	21	36	22	32	17
+The Syntaxin (Syntaxin) Family	8.A.91	2	2	2	3	5	5	7	14	13	12	10	13	15	15	9	10	14	9	9	11	12	12	27	14	22	14
+The G-protein-coupled receptor (GPCR) Family	9.A.14	1	1	2	3	4	4	2	8	6	13	8	12	8	16	10	10	15	10	9	9	9	8	10	11	15	8
+The Autophagy-related Phagophore-formation Transporter (APT) Family	9.A.15	3	6	4	5	4	4	4	8	10	7	7	12	5	9	7	7	12	7	9	4	11	9	8	11	14	5
+The Integral Membrane Peroxisomal Protein Importer-2 (PPI2) Family	9.A.17	0	0	3	4	3	3	2	3	5	3	3	3	2	6	2	2	3	2	2	2	3	2	7	6	5	5
+The Lipid Intermediate Transporter (Arv1) Family	9.A.19	0	0	1	1	1	1	1	1	1	1	1	2	1	2	1	1	1	1	1	1	2	1	2	2	2	2
+The Mitochondrial Cholesterol/Porphyrin/5-aminolevulinic acid Uptake Translocator Protein (TSPO) Family	9.A.24	0	0	0	1	0	0	1	0	0	1	1	2	1	1	1	0	0	0	1	0	1	1	2	2	2	1
+The YggT or Fanciful K+ Uptake-B (FkuB; YggT) Family	9.A.4	3	2	3	2	3	2	2	4	5	4	3	1	3	3	2	1	2	2	1	3	4	3	8	4	6	4
+The Lysosomal Cobalamin (B12) Transporter (L-B12T) Family	9.A.54	1	1	1	1	1	1	1	2	2	1	3	3	3	3	1	2	2	1	1	2	1	1	2	2	5	2
+The Rhomboid Protease (Rhomboid) Family	9.B.104	3	2	4	5	4	5	8	8	9	9	5	12	10	11	10	10	14	12	11	8	8	8	13	11	17	9
+The Lead Resistance Fusion Protein (PbrBC) Family	9.B.105	0	1	2	2	1	2	1	4	2	2	1	2	5	7	7	8	7	7	6	1	4	5	5	5	9	3
+The Glycan Synthase, Fks1 (Fks1) Family	9.B.119	4	10	2	5	3	3	9	11	20	16	10	9	11	14	17	16	26	12	11	20	9	22	19	12	27	12
+The Sensitivity to Sodium or Salt Stress-induced Hydrophobic Peptide (Sna) Family	9.B.12	0	0	3	0	6	0	1	10	5	6	3	4	4	12	8	9	2	10	8	3	2	6	10	7	6	8
+The AsmA (AsmA) Family	9.B.121	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	4	1
+The Putative Heme Handling Protein (HHP) Family	9.B.14	0	0	3	0	0	0	1	3	3	9	2	0	4	3	1	5	2	1	1	0	4	6	0	1	1	6
+The Integral membrane Glycosyltransferase family 39 (GT39) Family	9.B.142	3	3	4	3	4	4	3	4	6	4	4	4	4	5	4	5	8	5	5	5	3	5	7	7	7	5
+The VAMP-associated protein (VAP) Family	9.B.17	1	1	1	2	2	3	3	6	7	8	6	6	10	20	14	11	16	13	11	10	9	16	17	16	24	7
+The Integral Membrane CAAX Protease-2 (CAAX Protease2) Family	9.B.2	2	2	2	2	3	2	3	4	3	3	4	4	2	3	2	3	2	2	2	3	4	4	4	4	7	3
+The Die2/ALG10 Glycosyl Transferase (Die2/ALG10) Family	9.B.231	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	2	1
+The Death Effector Domain A (DedA) Family	9.B.27	1	1	6	5	6	4	5	6	8	6	6	15	6	13	8	8	11	8	7	6	8	8	14	12	15	9
+The 4-5 TMS Putative Chaperone (4-5PC) Family	9.B.29	1	1	1	1	1	1	1	1	2	1	1	2	2	1	1	1	1	1	1	1	1	1	0	1	2	1
+The Putative Thyronine-Transporting Transthyretin (Transthyretin) Family	9.B.35	1	1	1	1	1	1	3	1	1	0	1	1	1	2	1	1	1	1	1	1	1	1	1	1	2	1
+The Chloroplast Envelope/Cyanobacterial Membrane Protein (CemA) Family	9.B.73	3	3	4	2	2	3	3	4	3	6	2	6	4	4	4	5	7	5	5	3	7	6	6	6	7	4
+The Endoplasmic Reticulum Retrieval Protein1 (Putative Heavy Metal Transporter) (Rer1) Family	9.B.82	1	1	1	1	1	1	1	5	3	3	2	2	3	6	3	2	4	2	3	3	4	3	4	7	8	4
