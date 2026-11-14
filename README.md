@@ -94,7 +94,7 @@ its byte size and SHA-256 checksum.
 - **This archive** (v1.0.0) — one public release, also deposited as a
   single frozen ZIP on Zenodo (concept DOI
   [10.5281/zenodo.20593738](https://zenodo.org/records/20593738);
-  this version: [10.5281/zenodo.24199058](https://zenodo.org/records/24199058)):
+  this version: [10.5281/zenodo.24222266](https://zenodo.org/records/24222266)):
   - **GitHub** (`Kone1y/PlantTPDB`) — all code and
     small-to-medium data (143 files). The two files larger than 100 MB
     are not included in the Git repository. They are available in the Zenodo
@@ -149,7 +149,7 @@ its byte size and SHA-256 checksum.
   | PDB CIF library, raw download | [10.5281/zenodo.20619303](https://zenodo.org/records/20619303) |
   | PDB CIF, curated set (transporters / electron transport / photosystems) | [10.5281/zenodo.21636014](https://zenodo.org/records/21636014) |
   | Large benchmark inputs: deduplicated reference sequences and frozen RAGAS evaluation data | [10.5281/zenodo.24074039](https://zenodo.org/records/24074039) |
-  | Code, workflows, and benchmark data archive | [10.5281/zenodo.24199058](https://zenodo.org/records/24199058) |
+  | Code, workflows, and benchmark data archive | [10.5281/zenodo.24222266](https://zenodo.org/records/24222266) |
 
 ## Citation and License
 
