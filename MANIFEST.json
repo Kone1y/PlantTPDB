@@ -3,8 +3,8 @@
   "release_version": "1.0.0",
   "release_date": "2026-11-08",
   "zenodo_concept_doi": "10.5281/zenodo.20593738",
-  "zenodo_version_doi": "10.5281/zenodo.24184554",
-  "generated": "2026-11-13",
+  "zenodo_version_doi": "10.5281/zenodo.24222266",
+  "generated": "2026-11-14",
   "scope": "Benchmarks 01-04 (data, predictions, evaluation code, results); pipelines: knowledge_graph, rag_agent, literature_screening, literature_update, transporter_identification; structure pipelines: AF3 workflow scripts, PDB-mapping pipeline (scripts + shipped run data); tools: cafe5_pipeline (inputs + pipeline + final 2-lambda run outputs); database snapshot: chroma vector store papers_rag_md. Benchmark 04 is the frozen 240-question set (3,534 claims). NOT included: production relational-database snapshot (website download), model weights (BGE/AF3/LLMs), AF3 source tree and genetic databases (see AF3/README.md). Formal Supplementary Tables (S1-S30) are archived separately in PlantTPDB_supplementary/ (separate record, 10.5281/zenodo.24187256); the workbooks under benchmarks/*/results/reference/ are frozen recomputation references, not submission tables.",
   "external_resources": {
     "TCDB": "https://www.tcdb.org (downloaded by benchmarks/01 run_benchmark.sh; not redistributed)",
@@ -110,7 +110,7 @@
     {
       "path": "README.md",
       "size": 10309,
-      "sha256": "1a811100739a82d03795e3a3ada272a8663e7a2983dea8f5acf61f3cca945c78"
+      "sha256": "a6556c19f5c7f5f41a0e1d726f54adc393131efd818e0c0084a5dc66e8b2b059"
     },
     {
       "path": "benchmarks/01_transporter_identification/README.md",
